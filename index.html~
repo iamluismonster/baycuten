@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Intro</title>
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta names="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+		<script type="text/javascript">
+  document.ontouchmove = function(e){
+             e.preventDefault();
+}
+function doTouchMove(state) {
+    document.ontouchmove = function(e){
+      return state;
+    }
+}
+</script>
+	
+	<link rel="stylesheet" href="styles.css" />
+		
+ <link href="intro.css" type="text/css" rel="stylesheet"></link>
+    <script type="text/javascript" src="jquery-1.4.2.js"></script>
+ 
+	<!-- rueda fortuna -->
+ <link href="intro.css" type="text/css" rel="stylesheet"></link>
+    
+    <script type="text/javascript" src="intro.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/menu.css" />
+	
+	<!-- carrusel -->
+	<link rel="stylesheet" href="general.css" type="text/css" media="screen" />
+	
+	<script src="popup.js" type="text/javascript"></script>
+    
+	
+	<!-- pantalla modal -->
+	<script type="text/javascript" src="jquerytooltip1.js"></script>
+<link href="styletooltip1.css" type="text/css" rel="stylesheet"></link>
+</head>
+<body style="margin:0;padding:0;">
+	
+	<div id="wrapper">
+		<div class="wlby_movie">
+      <div class="wlby_graphic">
+        <img src="intro_assets/guia.jpg" height="768px" width="1024px" class="wlby_66"></img>
+      </div>
+      <div class="wlby_3">
+        <!-- Start of symbol: BG -->
+        <img src="intro_assets/BG.jpg" height="768px" width="1024px" class="wlby_2"></img>
+        <!-- End of symbol: BG -->
+      </div>
+      <div class="wlby_graphic">
+        <div class="wlby_4 wlby_fs">
+          <!-- Start of symbol: Tween 6 -->
+          <img src="intro_assets/svgblock_0.svg" class="wlby_5"></img>
+          <!-- End of symbol: Tween 6 -->
+        </div>
+        <div class="wlby_7 wlby_fs">
+          <div class="wlby_8">
+            <!-- Start of symbol: Tween 7 -->
+            <img src="intro_assets/svgblock_0.svg" class="wlby_5"></img>
+            <!-- End of symbol: Tween 7 -->
+          </div>
+        </div>
+      </div>
+      <div class="wlby_graphic">
+        <div class="wlby_65 wlby_fs"></div>
+        <div class="wlby_10 wlby_fs">
+          <!-- Start of symbol: Tween 8 -->
+          <img src="intro_assets/svgblock_1.svg" class="wlby_11"></img>
+          <!-- End of symbol: Tween 8 -->
+        </div>
+        <div class="wlby_12 wlby_fs">
+          <div class="wlby_16">
+            <!-- Start of symbol: Tween 9 -->
+            <img src="intro_assets/svgblock_1.svg" class="wlby_11"></img>
+            <!-- End of symbol: Tween 9 -->
+          </div>
+        </div>
+        <img src="intro_assets/svgblock_2.svg" class="wlby_67"></img>
+      </div>
+      <div class="wlby_1 wlby_graphic">
+        <div class="wlby_17 wlby_fs"></div>
+        <div class="wlby_18 wlby_fs">
+          <!-- Start of symbol: ruedafijo -->
+          <div class="wlby_19">
+            <!-- Start of symbol: rueda -->
+            <img src="intro_assets/svgblock_3.svg" class="wlby_20"></img>
+            <!-- End of symbol: rueda -->
+          </div>
+          <img src="intro_assets/svgblock_4.svg" class="wlby_21"></img>
+          <div class="wlby_22">
+            <!-- Start of symbol: canastilla01 -->
+            <img src="intro_assets/svgblock_5.svg" class="wlby_23"></img>
+            <!-- End of symbol: canastilla01 -->
+          </div>
+          <div class="wlby_24">
+            <!-- Start of symbol: canastilla02 -->
+            <img src="intro_assets/svgblock_6.svg" class="wlby_25"></img>
+            <!-- End of symbol: canastilla02 -->
+          </div>
+          <div class="wlby_26">
+            <!-- Start of symbol: canastilla03 -->
+            <img src="intro_assets/svgblock_7.svg" class="wlby_25"></img>
+            <!-- End of symbol: canastilla03 -->
+          </div>
+          <div class="wlby_27">
+            <!-- Start of symbol: cabastilla04 -->
+            <img src="intro_assets/svgblock_8.svg" class="wlby_25"></img>
+            <!-- End of symbol: cabastilla04 -->
+          </div>
+          <div class="wlby_28">
+            <!-- Start of symbol: canastilla05 -->
+            <img src="intro_assets/svgblock_9.svg" class="wlby_25"></img>
+            <!-- End of symbol: canastilla05 -->
+          </div>
+          <div class="wlby_29">
+            <!-- Start of symbol: canastilla06 -->
+            <img src="intro_assets/svgblock_10.svg" class="wlby_25"></img>
+            <!-- End of symbol: canastilla06 -->
+          </div>
+          <div class="wlby_30">
+            <!-- Start of symbol: canastilla07 -->
+            <img src="intro_assets/svgblock_11.svg" class="wlby_25"></img>
+            <!-- End of symbol: canastilla07 -->
+          </div>
+          <div class="wlby_31">
+            <!-- Start of symbol: canastilla08 -->
+            <img src="intro_assets/svgblock_12.svg" class="wlby_25"></img>
+            <!-- End of symbol: canastilla08 -->
+          </div>
+          <!-- End of symbol: ruedafijo -->
+        </div>
+      </div>
+      <div class="wlby_1 wlby_graphic">
+        <div class="wlby_32 wlby_fs"></div>
+        <div class="wlby_33">
+          <!-- Start of symbol: carro -->
+          <img src="intro_assets/svgblock_13.svg" class="wlby_34"></img>
+          <!-- End of symbol: carro -->
+        </div>
+      </div>
+      <div class="wlby_graphic">
+        <img src="intro_assets/nalgas.png" height="227px" width="1023px" class="wlby_68"></img>
+      </div>
+      <div class="wlby_graphic">
+        <div class="wlby_36 wlby_fs"></div>
+        <div class="wlby_12">
+          <div class="wlby_37">
+            <!-- Start of symbol: juegos -->
+            <div class="wlby_38">
+              <!-- Start of symbol: rueda -->
+              <img src="intro_assets/svgblock_3.svg" class="wlby_20"></img>
+              <!-- End of symbol: rueda -->
+            </div>
+            <div class="wlby_graphic">
+              <img src="intro_assets/svgblock_4.svg" class="wlby_69"></img>
+            </div>
+            <div class="wlby_40">
+              <!-- Start of symbol: canastilla01 -->
+              <img src="intro_assets/svgblock_5.svg" class="wlby_23"></img>
+              <!-- End of symbol: canastilla01 -->
+            </div>
+            <div class="wlby_41">
+              <!-- Start of symbol: canastilla02 -->
+              <img src="intro_assets/svgblock_6.svg" class="wlby_25"></img>
+              <!-- End of symbol: canastilla02 -->
+            </div>
+            <div class="wlby_42">
+              <!-- Start of symbol: canastilla03 -->
+              <img src="intro_assets/svgblock_7.svg" class="wlby_25"></img>
+              <!-- End of symbol: canastilla03 -->
+            </div>
+            <div class="wlby_43">
+              <!-- Start of symbol: cabastilla04 -->
+              <img src="intro_assets/svgblock_8.svg" class="wlby_25"></img>
+              <!-- End of symbol: cabastilla04 -->
+            </div>
+            <div class="wlby_44">
+              <!-- Start of symbol: canastilla05 -->
+              <img src="intro_assets/svgblock_9.svg" class="wlby_25"></img>
+              <!-- End of symbol: canastilla05 -->
+            </div>
+            <div class="wlby_45">
+              <!-- Start of symbol: canastilla06 -->
+              <img src="intro_assets/svgblock_10.svg" class="wlby_25"></img>
+              <!-- End of symbol: canastilla06 -->
+            </div>
+            <div class="wlby_46">
+              <!-- Start of symbol: canastilla07 -->
+              <img src="intro_assets/svgblock_11.svg" class="wlby_25"></img>
+              <!-- End of symbol: canastilla07 -->
+            </div>
+            <div class="wlby_47">
+              <!-- Start of symbol: canastilla08 -->
+              <img src="intro_assets/svgblock_12.svg" class="wlby_25"></img>
+              <!-- End of symbol: canastilla08 -->
+            </div>
+            <!-- End of symbol: juegos -->
+          </div>
+        </div>
+      </div>
+      <div class="wlby_1 wlby_graphic">
+        <div class="wlby_48 wlby_fs"></div>
+        <div class="wlby_49">
+          <!-- Start of symbol: caballitos+ -->
+          <div class="wlby_50">
+            <!-- Start of symbol: fondo -->
+            <img src="intro_assets/fondo.png" height="114px" width="402px" class="wlby_2"></img>
+            <!-- End of symbol: fondo -->
+          </div>
+          <div class="wlby_51">
+            <!-- Start of symbol: palo3 -->
+            <img src="intro_assets/p3.png" height="241px" width="85px" class="wlby_52"></img>
+            <!-- End of symbol: palo3 -->
+          </div>
+          <div class="wlby_53">
+            <!-- Start of symbol: caballo gris -->
+            <img src="intro_assets/caballitoGris.png" height="191px" width="252px" class="wlby_54"></img>
+            <!-- End of symbol: caballo gris -->
+          </div>
+          <div class="wlby_55">
+            <!-- Start of symbol: palo1 -->
+            <img src="intro_assets/p1.png" height="241px" width="84px" class="wlby_56"></img>
+            <!-- End of symbol: palo1 -->
+          </div>
+          <div class="wlby_57">
+            <!-- Start of symbol: Tween 1 -->
+            <img src="intro_assets/CaballitoCafe.png" height="189px" width="249px" class="wlby_58"></img>
+            <!-- End of symbol: Tween 1 -->
+          </div>
+          <div class="wlby_59">
+            <!-- Start of symbol: palo2 -->
+            <img src="intro_assets/p2.png" height="217px" width="46px" class="wlby_60"></img>
+            <!-- End of symbol: palo2 -->
+          </div>
+          <div class="wlby_61">
+            <!-- Start of symbol: Tween 4 -->
+            <img src="intro_assets/caballitoCrema.png" height="193px" width="253px" class="wlby_62"></img>
+            <!-- End of symbol: Tween 4 -->
+          </div>
+          <div class="wlby_63">
+            <!-- Start of symbol: carpa -->
+            <img src="intro_assets/carpa.png" height="294px" width="573px" class="wlby_64"></img>
+            <!-- End of symbol: carpa -->
+          </div>
+          <!-- End of symbol: caballitos+ -->
+        </div>
+      </div>
+    </div>		
+	</div>	
+    </div>
+		
+		<div id="button"><img src="images/fondo.png" border="0" /></div>
+	
+	<div id="popupContact">
+		
+		<p id="contactArea">
+			<div id="menu">
+       				<div class="boleto">
+            				<div class="col1">
+                				<div class="amobay"><a href="amobay/index.html" target="_self"></a></div>
+                				<div class="amobayCl"><a href="amobayCl/index.html"  target="_self"></a></div>
+            				</div>
+            				<div class="col2">
+                				<div class="axol"><a href="axol/index.html"  target="_self"></a></div>
+                				<div class="axolDuo"><a href="axolDuo/index.html"  target="_self"></a></div>
+           	 			</div>
+            				<div class="col3">
+                				<div class="optocef"><a href="optocef/index.html"  target="_self"></a></div>
+                				<div class="actron"><a href="actron/index.html"  target="_self"></a></div>
+            				</div>
+        			</div>
+ 			</div>
+			<div class="baycuten"><a href="optocef/index.html"></a></div>
+		</p>
+	</div>
+	<div id="backgroundPopup"></div>
+
+</body>
+</html>

@@ -1,0 +1,227 @@
+div.wlby_movie
+{
+	overflow: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1024px;
+	height: 768px;
+}
+.wlby_text p { padding: 0; margin: 0; }
+
+a.wlby_classic-link { color: inherit; text-decoration: none; }
+a.wlby_classic-link:link { color: inherit; text-decoration: none; }
+a.wlby_classic-link:hover { color: inherit; text-decoration: none; }
+a.wlby_classic-link:active { color: inherit; text-decoration: none; }
+a.wlby_classic-link:visited { color: inherit; text-decoration: none; }
+
+a.wlby_tlf-link { color: inherit; text-decoration: none; }
+a.wlby_tlf-link:link { color: inherit; text-decoration: none; }
+a.wlby_tlf-link:hover { color: inherit; text-decoration: none; }
+a.wlby_tlf-link:active { color: inherit; text-decoration: none; }
+a.wlby_tlf-link:visited { color: inherit; text-decoration: none; }
+
+.wlby_button > * { visibility: hidden; }
+.wlby_button > .wlby_button_normal { visibility: visible; }
+.wlby_button:hover > .wlby_button_normal { visibility: hidden; }
+.wlby_button:hover > .wlby_button_hover { visibility: visible; }
+.wlby_button:active > .wlby_button_normal { visibility: hidden; }
+.wlby_button:active > .wlby_button_hover { visibility: hidden; }
+.wlby_button:active > .wlby_button_active { visibility: visible; }
+
+@-webkit-keyframes wlby_frameset-animation {
+	from { }
+	to { }
+}
+
+.wlby_fs, .wlby_graphic 
+{
+	-webkit-animation-name: wlby_frameset-animation;
+}
+
+.wlby_graphic 
+{
+	-webkit-animation-duration: 1s;
+}
+
+.wlby_masked 
+{
+	height: inherit;
+	position: inherit;
+	width: inherit;
+}
+
+.wlby_sprite 
+{
+	-webkit-animation-name: wlby_frameset-animation;
+	-webkit-animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes wlby_KF_8 {
+from {
+	opacity: 0.300781;
+}
+2.04% {
+	opacity: 0.372446;
+}
+4.08% {
+	opacity: 0.440238;
+}
+6.12% {
+	opacity: 0.504155;
+}
+8.16% {
+	opacity: 0.564199;
+}
+10.2% {
+	opacity: 0.620369;
+}
+12.24% {
+	opacity: 0.672665;
+}
+14.28% {
+	opacity: 0.721087;
+}
+16.32% {
+	opacity: 0.765636;
+}
+18.36% {
+	opacity: 0.806311;
+}
+20.4% {
+	opacity: 0.843112;
+}
+22.44% {
+	opacity: 0.876039;
+}
+24.48% {
+	opacity: 0.905092;
+}
+26.53% {
+	opacity: 0.930272;
+}
+28.57% {
+	opacity: 0.951578;
+}
+30.61% {
+	opacity: 0.96901;
+}
+32.65% {
+	opacity: 0.982568;
+}
+34.69% {
+	opacity: 0.992252;
+}
+36.73%, 38.77% {
+	opacity: 0.998063;
+}
+38.78%, 55.11% {
+}
+55.12% {
+	opacity: 1;
+}
+57.16% {
+	opacity: 0.998414;
+}
+59.2% {
+	opacity: 0.993658;
+}
+61.24% {
+	opacity: 0.98573;
+}
+63.28% {
+	opacity: 0.974632;
+}
+65.32% {
+	opacity: 0.960362;
+}
+67.36% {
+	opacity: 0.942921;
+}
+69.4% {
+	opacity: 0.922309;
+}
+71.44% {
+	opacity: 0.898526;
+}
+73.48% {
+	opacity: 0.871572;
+}
+75.53% {
+	opacity: 0.841447;
+}
+77.57% {
+	opacity: 0.808151;
+}
+79.61% {
+	opacity: 0.771684;
+}
+81.65% {
+	opacity: 0.732045;
+}
+83.69% {
+	opacity: 0.689236;
+}
+85.73% {
+	opacity: 0.643256;
+}
+87.77% {
+	opacity: 0.594104;
+}
+89.81% {
+	opacity: 0.541782;
+}
+91.85% {
+	opacity: 0.486288;
+}
+93.89% {
+	opacity: 0.427624;
+}
+95.93%, 97.97% {
+	opacity: 0.365788;
+}
+97.98%, to {
+	opacity: 0.300781;
+}
+}
+.wlby_2
+{
+	position: absolute;
+}
+
+.wlby_1
+{
+	-webkit-animation-duration: 0.0416667s;
+	-webkit-transform-origin: 512px 384px;
+}
+
+.wlby_6
+{
+	-webkit-animation-duration: 2.04167s;
+	-webkit-transform: matrix(1, 0, 0, 1, 12, 73.5);
+	-webkit-transform-origin: 130.5px 44.5px;
+}
+
+.wlby_3
+{
+	-webkit-animation-duration: 0.0416667s;
+	-webkit-transform: matrix(1, 0, 0, 1, 695.05, 75.25);
+	-webkit-transform-origin: 147px 115px;
+}
+
+.wlby_5
+{
+	position: absolute;
+	-webkit-transform:matrix(1,0,0,1,-25.9,-9.75);
+}
+
+.wlby_4
+{
+	-webkit-animation-duration: 2.04167s;
+	-webkit-animation-name: wlby_KF_8;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-transform-origin: 147px 115px;
+	-webkit-animation-timing-function: linear;
+	opacity: 0.300781;
+}
+

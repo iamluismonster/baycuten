@@ -1,0 +1,432 @@
+<html> 
+<head> 
+<title>IPP Amobay Cl</title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=10; user-scalable=0;" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta names="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+ <script type="text/javascript" src="jquery-1.4.2.js"></script>
+ <link rel="stylesheet" href="styletooltippru.css" type="text/css"></link>
+  <script language="javascript" type="text/javascript" src="jquerytooltip.js"></script>
+      <link rel="stylesheet" href="footerpru.css" type="text/css"></link>
+<SCRIPT type=text/javascript> 
+cookie_name = "fontsize"; 
+
+function setCookie() { 
+
+    if(document.cookie != document.cookie) {  
+    index = document.cookie.indexOf(cookie_name); 
+    } 
+    else {  
+    index = -1; 
+    } 
+
+    if (index == -1) { 
+    document.cookie=cookie_name+"="+newsfont+"; expires=Monday, 01-Apr-2008 05:00:00 GMT"; 
+    } 
+
+} 
+
+function getCookie() { 
+    if(document.cookie) { 
+    index = document.cookie.indexOf(cookie_name); 
+    if (index != -1) { 
+        namestart = (document.cookie.indexOf("=", index) + 1); 
+        nameend = document.cookie.indexOf(";", index); 
+        if (nameend == -1) nameend = document.cookie.length; 
+        val = document.cookie.substring(namestart, nameend); 
+        return parseInt(val); 
+    } 
+    } 
+} 
+</SCRIPT> 
+<SCRIPT type=text/javascript> 
+var newsfont = 10; 
+function changeFont(id) { 
+
+if (document.getElementById) { 
+        document.getElementById(id).style.fontSize = newsfont+"px"; 
+    } else { 
+        if (document.layers) { 
+            document.layers[id].fontSize = newsfont+"px"; 
+        } else { 
+            if (document.all) { 
+                eval("document.all." + id + ".style.fontSize = \"" + newsfont + "px \""); 
+            } 
+        } 
+    } 
+     
+    // esto arregla scroll al utilizar layers 
+//    updateHeight();  
+    //setCookie(); 
+} 
+// aqui se produce el error 
+function larger() { 
+    if (newsfont < 30) { 
+        newsfont= newsfont +2; 
+        changeFont('content'); 
+    } 
+} 
+
+function smaller() { 
+    if (newsfont > 10) { 
+    newsfont= newsfont -2; 
+    changeFont('content'); 
+    } 
+} 
+</SCRIPT> 
+
+</head> 
+
+<body  leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" >
+<div id="contenedor"> 
+<table width="1024px" border="0" cellpadding="2" cellspacing="0"> 
+  <tr>  
+    <td width="950px" rowspan="2" bgcolor="#FFFFFF" class="news" id="content"><center>	AMOBAY CL&reg; Tabletas, Suspensi&oacute;n Infantil y Pedi&aacute;trica Amoxicilina + Acido Clavul&aacute;nico</center>
+				<p align="justify">
+			<br>	
+			<br>
+				Amobay CL&reg; 12 horas Tabletas Cada tableta contiene: Amoxicilina Trihidratada equivalente a 875 mg de Amoxicilina Clavulantato de Potasio equivalente a 125 mg de &Aacute;cido Clavul&aacute;nico Excipiente cbp 1 tableta Amobay CL&reg; Suspensi&oacute;n Infantil Cada frasco para 75 mL contiene: Amoxicilina Trihidratada equivalente a 3.75 g de Amoxicilina Clavulanato de Potasio equivalente a 0.9375 g de &aacute;cido Clavul&aacute;nico. Cada 5 mL proporcionan 250 mg/62. 5 mg Amobay CL&reg; 12 horas Suspensi&oacute;n Pedi&aacute;trica. Cada frasco para 40 mL contiene: Amoxicilina Trihidratada equivalente a 1.6 g de Amoxicilina Clavulanato de Potasio equivalente a 0.228 g de &Aacute;cido Clavul&aacute;nico. Cada 5mL proporcionan 200 mg/28. 5 mg. Amobay CL&reg; 12 horas Suspensi&oacute;n Infantil Cada frasco para 50 mL contiene: Amoxicilina Trihidratada equivalente a 4.0 g de Amoxicilina Clavulanato de Potasio equivalente a 0.570 g de &Aacute;cido Clavul&aacute;nico. Cada 5mL proporcionan 400 mg/57 mg CONSIDERACIONES GENERALES. Amobay CL&reg; es una combinaci&oacute;n antibacteriana oral que consta de amoxicilina y el inhibidor de la -lactamasa, clavulanato de potasio como sal de potasio del &aacute;cido clavul&aacute;nico. Amoxicilina es un f&aacute;rmaco semisint&eacute;tico an&aacute;logo de la penicilina, derivado del n&uacute;cleo 6-aminopenicilina y catalogado como una aminopenicilina, no estable a las -lactamasas. La actividad 				es id&eacute;ntica a la de ampicilina y levemente m&aacute;s activa contra enterococos, E. coli y Salmonella spp., y levemente menos activa contra Shigella spp. El inhibidor de la -lactamasa clavulanato fue encontrado en cultivos de Streptomyces clavuligerus. El clavulanato causa
+				inhibici&oacute;n irreversible de una amplia variedad de -lactamasas bacterianas cromos&oacute;micas y mediadas por pl&aacute;smidos. INDICACIONES TERAP&Eacute;UTICAS. Amobay CL&reg; est&aacute; indicado para el tratamiento de infecciones causadas por organismos susceptibles incluyendo cepas
+				productoras de -lactamasas como sigue: &bull; Infecciones de las v&iacute;as respiratorias altas y bajas: sinusitis bacteriana, otitis media, faringitis, faringoamigdalitis, bronquitis bacteriana incluyendo exacerbaciones de bronquitis cr&oacute;nica, bronquiectasias infecciosas, y neumon&iacute;a; &bull;
+				Infecciones del tracto gastrointestinal: gastroenteritis bacteriana. Algunos estudios han reportado una adecuada erradicaci&oacute;n de H. pylori adem&aacute;s de eficacia cl&iacute;nica de la terapia triple incluyendo amoxicilina/clavulanato m&aacute;s un inhibidor de la bomba de protones (omeprazol,
+				pantoprazol) y metronidazol o claritromicina en ulceras g&aacute;strica o duodenal y en pacientes disp&eacute;pticos; &bull; Infecciones del tracto genitourinario: cistitis, uretritis, pielonefritis, endometritis, salpingitis; &bull; Enfermedades transmitidas sexualmente debido a N. gonorrhoeae y
+				Haemophilus ducreyii; &bull; Infecciones de piel y tejidos blandos: imp&eacute;tigo, celulitis, erisipelas, infecciones en heridas quir&uacute;rgicas post-operatorias, heridas por mordedura humana y animales; &bull; Infecciones odontol&oacute;gicas y estructuras adyacentes en la cavidad oral: gingivitis,
+				abscesos dentales y enfermedad periodontal refractaria; &bull; Profilaxis quir&uacute;rgica siguiendo procedimientos invasores de diagn&oacute;stico o cirug&iacute;a en el tracto respiratorio, digestivo o ginecol&oacute;gico y extracci&oacute;n dental. CONTRAINDICACIONES Y PRECAUCIONES. Amobay CL&reg; est&aacute;
+				contraindicada en pacientes con hipersensibilidad conocida a las penicilinas o a cualquier otro componente de la formulaci&oacute;n. Tambi&eacute;n est&aacute; contraindicada en pacientes con antecedentes de ictericia asociada a amoxicilina/clavulanato, o historia previa de disfunci&oacute;n
+				hep&aacute;tica asociada o no a la combinaci&oacute;n de amoxicilina/clavulanato. La combinaci&oacute;n amoxicilina/clavulanato puede exacerbar la disfunci&oacute;n hep&aacute;tica y debe ser usada con precauci&oacute;n en estos pacientes; la hepatoxicidad es usualmente reversible; sin embargo, casos raros
+				han resultado en muerte. La suspensi&oacute;n de 200 mg/5 mL y de 400 mg/5 mL de Amobay CL&reg; contienen aspartame, el cual es metabolizado a fenilalanina y puede ser peligroso en pacientes con fenilcetonuria. La incidencia de la hipersensibilidad cruzada entre penicilinas
+				y otros antibi&oacute;ticos -lact&aacute;micos como cefalosporinas y carbapenems no es conocida con precisi&oacute;n, aunque algunos autores consideran que es de 3 a 5%. Estas reacciones han sido observadas m&aacute;s frecuentemente en pacientes con historia de hipersensibilidad a m&uacute;ltiples
+				alergenos, asma o fiebre del heno. Todos los pacientes deben ser acuciosamente investigados sobre la historia previa de hipersensibilidad a penicilinas y/o a otros -lact&aacute;micos u otros alergenos, la presencia del s&iacute;ndrome de Steven-Johnson, eritrodermia o dermatitis
+				exfoliativa independientemente de la intensidad, antes de prescribir Amobay CL&reg;. Reacciones de hipersensibilidad grave con desenlace fatal siguiendo la administraci&oacute;n de penicilinas se han reportado raramente. Aunque la anafilaxis es generalmente menos frecuente
+				(0.2% en 1000 casos de tratamiento) y m&aacute;s com&uacute;n cuando se usa la terapia parenteral, se ha documentado tambi&eacute;n con el tratamiento oral con penicilinas. Es preferible no indicar Amobay CL&reg; si no se ha realizado un programa de desensibilizaci&oacute;n. Siempre que ocurra
+				una hipersensibilidad grave o reacci&oacute;n al&eacute;rgica, la terapia con amoxicilina/clavulanato debe ser descontinuada e iniciar el tratamiento adecuado. Reacciones anafil&aacute;cticas serias (respiraci&oacute;n r&aacute;pida o irregular, taquipnea; inflamaci&oacute;n o enrojecimiento facial; disminuci&oacute;n de
+				la presi&oacute;n sangu&iacute;nea repentina y grave) requiere inmediatamente tratamiento de emergencia, con adrenalina, ox&iacute;geno, esteroides intravenosos y manejo de las v&iacute;as respiratorias, requiriendo a veces intubaci&oacute;n orotraqueal. Debido a que los pacientes con mononucleosis
+				infecciosa tiene un &iacute;ndice creciente para desarrollar rash maculopapular, Amobay CL&reg; debe usarse con precauci&oacute;n o evitarlo si es posible. Muchas penicilinas han sido usadas en pacientes pedi&aacute;tricos y no se han reportado problemas pedi&aacute;tricos espec&iacute;ficos. No es
+				recomendable usar Amobay CL&reg; en pacientes con fenilcetonuria subyacente. Las penicilinas han sido usadas en pacientes geri&aacute;tricos y no se han reportado problemas geri&aacute;tricos espec&iacute;ficos. Sin embargo, en los pacientes ancianos es m&aacute;s probable que tengan alteraci&oacute;n
+				de la funci&oacute;n renal relativa a la edad, lo cual puede requerir un ajuste en la dosificaci&oacute;n en pacientes recibiendo penicilinas incluyendo Amobay CL&reg;. Se recomienda una evaluaci&oacute;n peri&oacute;dica de los trastornos de los sistemas org&aacute;nicos despu&eacute;s de la terapia prolongada
+				con Amobay CL&reg; incluyendo la funci&oacute;n renal, hep&aacute;tica y hematopoy&eacute;tica. La posibilidad de superinfecciones con pat&oacute;genos bacterianos o mic&oacute;ticos debe mantenerse en mente con la terapia con Amobay CL&reg;. Si las superinfecciones ocurren (usualmente participan
+				Pseudomonas o Candida) el f&aacute;rmaco debe ser descontinuado y/o instituir la terapia adecuada. PRECAUCIONES O RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA La amoxicilina y el &aacute;cido clavul&aacute;nico cruzan la placenta. No se han hecho estudios
+				adecuados y bien controlados en humanos; los problemas en humanos no han sido documentados. Amobay CL&reg; es clasificado como categor&iacute;a B de acuerdo a lo establecido en el Sistema de calificaci&oacute;n del uso de medicamentos en el embarazo de la Administraci&oacute;n de
+				F&aacute;rmacos y Alimentos (FDA) de los EUA. Estudios en ratas y ratones recibiendo dosis orales superiores a 1200mg por kg de peso corporal por d&iacute;a equivalente a 7200 y 4080 mg por metro cuadrado de superficie corporal por d&iacute;a respectivamente, (4.9 y 2.8 veces la m&aacute;xima
+				dosis oral, basada en la superficie corporal), no causo efectos adversos en el feto. Los antibi&oacute;ticos orales de la clase de ampicilinas son generalmente mal absorbidos durante el trabajo de parto. Durante de la lactancia, pueden detectarse bajas concentraciones de
+				amoxicilina en la leche materna. No se sabe si el &aacute;cido clavul&aacute;nico es distribuido en la lecha materna. Las mujeres en periodo de lactancia bajo tratamiento con amoxicilina pueden llevar a la sensibilizaci&oacute;n, rash en la piel, diarrea o candidiasis a los reci&eacute;n nacidos que
+				amamantan. El riesgo debe considerarse cuando se trata un infante cuya madre en periodo de lactancia est&aacute; en tratamiento con amoxicilina/clavulanato. Se debe advertir a la madre acerca de la baja posibilidad de cualquier reacci&oacute;n de hipersensibilidad que el ni&ntildeo pueda
+				presentar cuando las penicilinas sean administradas en el futuro. REACCIONES SECUNDARIAS Y ADVERSAS.Gastrointestinales: nausea, v&oacute;mito, anorexia, diarrea, dolor epig&aacute;strico, gastritis y dolor abdominal son las reacciones adversas m&aacute;s comunes reportadas en el tracto
+				gastrointestinal. Lengua negra, glositis y estomatitis se han observado tambi&eacute;n. Colitis pseudomembranosa asociada a antibi&oacute;ticos causada por Clostridium difficile y puede aparecer durante o despu&eacute;s del tratamiento con Amobay CL&reg;, aunque esta reacci&oacute;n adversa es
+				absolutamente rara. Tambi&eacute;n se han reportado dolor abdominal grave y diarrea con sangre asociada con enterocolitis transitoria aguda, pero sin evidencia de colitis pseudomembranosa. Casos leves de colitis pseudomembranosa usualmente responden a la descontinuaci&oacute;n
+				del tratamiento. Casos moderados a graves pueden requerir l&iacute;quidos y electrolitos, suplementos prote&iacute;nicos y cualquier antibacteriano recomendado para el tratamiento de colitis por C. difficile.Renal: Nefritis intersticial con necrosis tubular renal, hematuria y s&iacute;ndrome
+				nefr&oacute;tico se han observado raramente.Reacciones de hipersensibilidad: Desde rash eritematoso morbiliforme leve con urticaria hasta reacciones anafil&aacute;cticas graves (ver abajo). Se han descrito eritema multiforme, dermatitis exfoliativa, rash maculopapular con eritema
+				(no mediado inmunol&oacute;gicamente) necrolisis epid&eacute;rmica t&oacute;xica, S&iacute;ndrome de Stevens-Johnson, vasculitis, urticaria y reacciones similares a la enfermedad del suero (erupci&oacute;n en la piel acompa&ntildeada de artritis, artralgias, mialgias y fiebre frecuentemente). La incidencia
+				total de rash en pacientes tomando amoxicilina es 1.4 a 10% siendo del tipo maculopapular en m&aacute;s de 65%. Estas reacciones pueden ser controladas con antihistam&iacute;nicos y, si es necesario, corticosteroides sist&eacute;micos. Sistema Nervioso Central: los signos y s&iacute;ntomas son
+				raros y pueden incluir dolor de cabeza, agitaci&oacute;n, ansiedad, insomnio, confusi&oacute;n, cambios en el comportamiento, convulsiones, v&eacute;rtigos e hiperactividad reversible. Se han registrado convulsiones en pacientes tratados con altas dosis de penicilina y alteraci&oacute;n renal, por
+				eso se recomienda ajustar la dosis por consiguiente cuando la alteraci&oacute;n renal es conocida o sospechada. Sistemas linf&aacute;tico y hem&aacute;tico: se han reportado durante la terapia con amoxicilina, eosinofilia y hem&oacute;lisis, anemia (incluyendo anemia hemol&iacute;tica), trombocitopenia,
+				p&uacute;rpura trombocitop&eacute;nica, neutropenia, leucopenia y agranulocitosis. Se observa un retorno a la normalidad despu&eacute;s de que el tratamiento es descontinuado y se cree que es un fen&oacute;meno de hipersensibilidad. Han habido reportes de alargamiento del tiempo de
+				protrombina en pacientes recibiendo amoxicilina/clavulanato y terapia anticoagulante concomitante. H&iacute;gado: se ha observado un incremento transitorio y moderado s&eacute;rico de la aspartato aminotransferasa (AST) o de la ALT, fosfatasa alcalina y deshidrogenasa l&aacute;ctica,
+				aunque la importancia cl&iacute;nica de estos resultados es desconocida. La disfunci&oacute;n hep&aacute;tica incluyendo aumento s&eacute;rico de transaminasas (ALT y/o AST), bilirrubina s&eacute;rica y/o fosfatasa alcalina no han sido frecuentemente reportados, aunque se han reportado m&aacute;s en adultos
+				mayores, en hombres, o en pacientes con tratamiento prolongado. Los resultados histol&oacute;gicos en biopsia de h&iacute;gado han consistido principalmente en cambios colest&aacute;ticos predominantemente, hepatocelulares o mezcla de cambios colest&aacute;tico-hepatocelulares. El comienzo
+				de signos/s&iacute;ntomas de disfunci&oacute;n hep&aacute;tica puede ocurrir varias semanas despu&eacute;s de que se haya descontinuado el tratamiento. La disfunci&oacute;n hep&aacute;tica, la cual puede ser grave, es usualmente reversible y en raras ocasiones se han reportado muertes. Estas han sido
+				generalmente casos asociados con enfermedades subyacente graves o medicaci&oacute;n concomitante. INTERACCIONES MEDICAMENTOSAS Y DE OTRO G&Eacute;NERO. La administraci&oacute;n concomitante de amilorida y amoxicilina reduce la biodisponibilidad del antibi&oacute;tico en un 27%
+				y la Cmax en un 25%. No se observaron variaciones en la depuraci&oacute;n renal de la amoxicilina. Aunque se desconoce la significancia cl&iacute;nica de esta interacci&oacute;n se recomienda no administrar ambos f&aacute;rmacos simult&aacute;neamente, dejando transcurrir unas dos horas como
+				m&iacute;nimo entre uno y otro f&aacute;rmaco. El probenecid disminuye la excreci&oacute;n tubular de muchos f&aacute;rmacos incluyendo amoxicilina, pero no &aacute;cido clavul&aacute;nico debido a que &eacute;ste es excretado posteriormente v&iacute;a filtraci&oacute;n glomerular, por eso aumenta y prolonga los niveles de suero
+				de amoxicilina y tambi&eacute;n la vida media de eliminaci&oacute;n. No se recomienda la co-administraci&oacute;n con probenecid. Pueden interferir con el efecto bactericida de penicilina; cloranfenicol, macr&oacute;lidos, sulfonamidas y tetraciclinas. Esto se ha demostrado in vitro; sin embargo,
+				el significado cl&iacute;nico de esta interacci&oacute;n no est&aacute; bien documentada.Neomicina inhibe parcialmente la absorci&oacute;n de amoxicilina.Altas dosis de amoxicilina reducen la eficacia de anticonceptivos orales conteniendo estr&oacute;genos, de modo que fracasos anticonceptivos en
+				pacientes tratadas con amoxicilina se han reportado aunque la raz&oacute;n es desconocida. Por lo tanto, se deben tomar precauciones apropiadas.El nifedipino parece aumentar la absorci&oacute;n de la amoxicilina por incremento del transporte activo del antibi&oacute;tico a trav&eacute;s del epitelio
+				intestinal. Sin embargo, esto puede no tener ning&uacute;n significado cl&iacute;nico.La concurrente administraci&oacute;n de alopurinol aumenta substancialmente la incidencia de erupciones en pacientes recibiendo ambos f&aacute;rmacos en comparaci&oacute;n con pacientes recibiendo s&oacute;lo ampicilina.
+				No se conoce si esta potenciaci&oacute;n de las erupciones de ampicilina es debido al alopurinol o la hiperuricemia presente en estos pacientes.El uso concomitante de amoxicilina/clavulanato y warfarina puede aumentar el INR y la hematuria.PRECAUCIONES Y RELACION CON EFECTOS DE CARCINOG&Eacute;NESIS, MUTAG&Eacute;NESIS, TERATOG&Eacute;NESIS Y SOBRE LA FERTILIDAD. No se han realizado estudios a largo plazo en animales para evaluar el potencial carcinog&eacute;nico.Mutag&eacute;nesis: Los estudios para detectar el potencial mutag&eacute;nico de amoxicilina/
+				clavulanato se investigaron con la prueba de Ames, un an&aacute;lisis citogen&eacute;tico del linfocito humano, una prueba de levaduras y un examen de mutaci&oacute;n posterior de linfoma de rat&oacute;n, e in vivo con la prueba de micron&uacute;cleos de rat&oacute;n y un examen dominante de letalidad. Todos
+				fueron negativos adem&aacute;s de la prueba del linfoma de rat&oacute;n in vitro donde se encontr&oacute; una actividad d&eacute;bil a muy altas concentraciones citot&oacute;xicas. Alteraci&oacute;n de la fertilidad: amoxicilina/clavulanato, a dosis orales de hasta 1200 mg/kg/d&iacute;a (5.7 veces la m&aacute;xima dosis
+				humana, 1480 mg/m2/d&iacute;a, de acuerdo con el &aacute;rea de la superficie del cuerpo), no tuvo ning&uacute;n efecto sobre fertilidad y funcionamiento reproductivo en ratas, dosificado con una proporci&oacute;n de la formulaci&oacute;n de 2:1 de amoxicilina:clavulanato.Efectos teratog&eacute;nicos: estudios
+				en ratas embarazadas y ratones recibiendo una dosis oral de hasta 1200 mg/kg/d&iacute;a equivalente a 7200 y 4080 mg/m2/d&iacute;a respectivamente, 84.9 y 2.8 veces la dosis oral m&aacute;xima humana, de acuerdo con el &aacute;rea de superficie corporal), no revel&oacute; ninguna evidencia del
+				da&ntildeo al feto debido a la combinaci&oacute;n de amoxicilina-clavulanato. Sin embargo, no se han realizado estudios adecuados y bien controlados en mujeres embarazadas. No se han realizado tampoco para determinar si las penicilinas son teratog&eacute;ncias. Debido a que los estudios
+				de reproducci&oacute;n animal no siempre son predictivos de la respuesta humana, Amobay CL&reg; debe usarse en el embarazo s&oacute;lo si es estrictamente necesario. DOSIS Y V&Iacute;A DE ADMINISTRACI&Oacute;N.Las tabletas y suspensi&oacute;n de Amobay CL&reg; pueden administrarse por v&iacute;a oral con
+				el est&oacute;mago vac&iacute;o o lleno. Sin embargo, el clavulanato es mejor absorbido cuando se administra al principio de la comida. Tambi&eacute;n, la administraci&oacute;n con alimentos puede disminuir la incidencia de efectos adversos gastrointestinales (diarrea, n&aacute;usea y v&oacute;mito).Pacientes
+				pedi&aacute;tricos: Bas&aacute;ndose en amoxicilina, las recomendaciones de dosificaci&oacute;n son las siguientes: Neonatos e infantes de edad > 12 semanas (3 meses): Debido a que la funci&oacute;n renal est&aacute; incompleta y afecta la eliminaci&oacute;n de amoxicilina en este rango de edad, la dosis
+				recomendada de Amobay CL&reg; es de 30 mg/kg/d&iacute;a dividido cada 12 horas bas&aacute;ndose en amoxicilina. La eliminaci&oacute;n de clavulanato es inalterada en este grupo. Para ni&ntildeos de 3 meses de edad, adolescentes y adultos, la siguiente dosificaci&oacute;n es recomendada seg&uacute;n se
+				muestra en el cuadro siguiente:</p>
+				
+
+
+<div class="colum1 margin_l_70  margin_r_10">&nbsp;
+</div>
+<div class="colum1"><center>
+Condici&oacute;n patol&oacute;gica</center>	
+
+</div>
+<div class="colum1"><center>
+Amobay CL&reg; 12 horas
+Suspensi&oacute;n oral 200mg/5mL	
+400mg/ 5mL</center>
+</div>
+<div class="colum1"><center>
+R&eacute;gimen de dosificaci&oacute;n Amobay CL&reg;	
+Suspensi&oacute;n oral 250mg/5mL</center>
+</div>
+<div class="colum1"><center>
+Amobay CL&reg; 12 horas
+Tabletas 875mg/125mg</center>
+</div>
+<div class="cleaner_h5"></div>
+
+
+
+<div class="colum1 margin_l_70 margin_r_10">
+&nbsp;
+</div>
+<div class="colum1">
+Otitis media<br>
+Sinusitis
+</div>
+<div class="colum1">
+&nbsp;
+</div>
+<div class="colum1">
+&nbsp;
+</div>
+<div class="colum1">
+&nbsp;
+</div>
+<div class="cleaner_h5"></div>
+
+
+
+
+<div class="colum1 margin_l_70 margin_r_10">
+&nbsp;
+</div>
+<div class="colum1">
+Infecciones del tracto respiratorio inferior
+</div>
+<div class="colum1">
+<center>45 mg/kg/d&iacute;a q12h</center>	
+
+</div>
+<div class="colum1">
+<center>40 mg/kg/ d&iacute;a q8h</center>
+
+</div>
+<div class="colum1">
+<center>1 tableta q12h</center>
+
+</div>
+<div class="cleaner_h5"></div>
+
+
+<div class="colum1 margin_l_70 margin_r_10">
+&nbsp;
+</div>
+<div class="colum1">
+Infecciones graves
+Infecciones leves a moderadas	
+</div>
+<div class="colum1"><br>
+<center>25 mg/kg/d&iacute;a q12h	
+</center>	
+
+</div>
+<div class="colum1"><br>
+<center>20 mg/kg/ d&iacute;a q8h</center>
+
+</div>
+<div class="colum1"><br>
+<center>V&eacute;ase otras formulaciones para infecciones leves.
+
+</center>
+
+</div>
+<div class="cleaner_h5"></div>
+
+
+<p align="justify">
+
+				La duraci&oacute;n recomendada del tratamiento para la mayor&iacute;a de las infecciones es de 7 d&iacute;as excepto si se establece una gu&iacute;a local o el m&eacute;dico indica una duraci&oacute;n diferente. Para otitis media se debe prescribir un r&eacute;gimen de 10 d&iacute;as. Pacientes pedi&aacute;tricos pesando 40 kg o m&aacute;s
+				debe ser dosificado siguiendo las recomendaciones para adulto. Pacientes con alteraci&oacute;n hep&aacute;tica deben ser dosificados con precauci&oacute;n y la funci&oacute;n hep&aacute;tica debe ser monitoreada a intervalos regulares. Adultos con dificultad para deglutir podr&iacute;an recibir suspensi&oacute;n oral
+				con la dosificaci&oacute;n equivalente de una tableta ajustada a la gravedad de la infecci&oacute;n, por ejemplo, 5 o 10 mL de 250 mg de suspensi&oacute;n oral cada 8 horas, o 5mL de 200 o 400 mg cada 12 horas. Ajuste en insuficiencia renal Pacientes con funci&oacute;n renal alterada generalmente
+				no requieren reducci&oacute;n de la dosis excepto si la alteraci&oacute;n renal es grave. Adultos y adolescentes con alteraci&oacute;n de la funci&oacute;n renal grave pueden recibir 500 mg o 250 mg con el intervalo de dosificaci&oacute;n aumentado como sigue: Depuraci&oacute;n de creatinina (mL/min) (mL/seg)
+				Intervalos de dosificaci&oacute;n (horas) >30/0.5 8 10-30/0.17-0.5 12&#60;10/&#60;0.17 24 Pacientes con hemodi&aacute;lisis: 500-250 mg q24h dependiendo de la severidad de la infecci&oacute;n. Una dosis adicional debe ser administrada durante y al final de la di&aacute;lisis. La dosificaci&oacute;n en pacientes
+				con di&aacute;lisis peritoneal ambulatoria continua (DPCA): 250 mg cada 12 horas. En tales casos, Amobay CL&reg; puede ser administrada usando la formulaci&oacute;n de la suspensi&oacute;n oral. Pacientes con alteraci&oacute;n renal grave (&iacute;ndice de filtraci&oacute;n glomerular &#60;30mL/min) no deben
+				recibir la tableta de 875mg. Instrucciones para la reconstituci&oacute;n de la suspensi&oacute;n oral: Agite ligeramente la botella hasta que todos los gr&aacute;nulos fluyan libremente. A&ntildeada aproximadamente 2/3 de la cantidad total de agua necesaria para reconstituir y agite vigorosamente
+				hasta mezclar el polvo. A&ntildeada el agua faltante y nuevamente agite vigorosamente hasta hacer una suspensi&oacute;n homog&eacute;nea. SOBREDOSIFICACI&Oacute;N O INGESTA ACCIDENTAL: MANIFESTACIONES Y MANEJO (ANT&Iacute;DOTOS). Despu&eacute;s de la sobredosificaci&oacute;n, los pacientes han
+				experimentado sobre todo s&iacute;ntomas gastrointestinales incluyendo dolor de est&oacute;mago y abdominal, v&oacute;mito y diarrea. Tambi&eacute;n se ha observado en un peque&ntildeo n&uacute;mero de pacientes; rash, hiperactividad o somnolencia. En caso de una sobredosis, descontinu&eacute; Amobay CL&reg;,
+				trate sintom&aacute;ticamente y establezca las medidas de apoyo seg&uacute;n lo requerido. Si la dosificaci&oacute;n es muy reciente y no hay contraindicaci&oacute;n, puede inducirse el v&oacute;mito o usar otros medios para retirar el f&aacute;rmaco del est&oacute;mago. La nefritis intersticial resultante en falla renal
+				olig&uacute;rica se ha reportado en un n&uacute;mero peque&ntildeo de pacientes despu&eacute;s de una sobredosis con amoxicilina. La administraci&oacute;n de l&iacute;quidos v&iacute;a intravenosa debe ser suficiente para mantener una adecuada diuresis de modo que evite la cristaluria que puede conducir a falla
+				renal en pacientes adultos y pedi&aacute;tricos. La amoxicilina es removida de la circulaci&oacute;n por hemodi&aacute;lisis. La insuficiencia renal parece ser reversible con la interrupci&oacute;n de la administraci&oacute;n del f&aacute;rmaco. Niveles altos en sangre pueden ocurrir m&aacute;s f&aacute;cilmente en pacientes con
+				alteraci&oacute;n de la funci&oacute;n renal debido a una disminuci&oacute;n en la depuraci&oacute;n renal de ambos, amoxicilina y clavulanato, y pueden ser removidos de la circulaci&oacute;n por hemodi&aacute;lisis. PRESENTACIONES. Amobay CL&reg; Suspensi&oacute;n infantil, frasco con polvo para reconstituir a 75 mL.
+				Amobay CL&reg; 12horas Suspensi&oacute;n infantil, frasco con polvo para reconstituir a 50 mL. Amobay CL&reg; 12horas Suspensi&oacute;n pedi&aacute;trica, frasco con polvo para reconstituir a 40 mL. Amobay CL&reg; 12horas Tabletas, caja con 10 tabletas. LEYENDAS DE PROTECCI&Oacute;N. No se deje
+				al alcance de los ni&ntildeos. Su venta requiere receta m&eacute;dica. En mujeres embarazadas se deber&aacute; evaluar la relaci&oacute;n riesgo beneficio antes de prescribir este medicamento. &uacute;sese con precauci&oacute;n en pacientes con alteraci&oacute;n de la funci&oacute;n hep&aacute;tica. No se use despu&eacute;s de la
+				fecha de caducidad. Evite su administraci&oacute;n en pacientes con fenilcetonuria. Hecho en India por: Ranbaxy Laboratories Limited Industrial Area 3, Dewas -45 5001, (M.P.) India Distribuido por: Bayer de M&eacute;xico, S.A. de C.V. M. de Cervantes Saavedra No. 259 11520 M&eacute;xico,
+				D.F. Tabletas 12 horas Reg. No. 554M2001 SSA IV Suspensi&oacute;n Pedi&aacute;trica e Infantil 12 horas Reg. No. 592M2001 SSA IV Suspensi&oacute;n Infantil Reg. No. 570M2001 SSA IV CLAVE DE IPP Amobay CL&reg; Suspensi&oacute;n Pedi&aacute;trica e Infantil 12 horas: IEAR-06330022140022/RM 2006
+			</p></p> 
+
+      </td> 
+    <td width="70px" align="center" valign="top" class="menu">  
+      <A onmousedown="larger()" href="javascript:void(0);">Aumentar</A><br> 
+      <br> 
+      <A onmousedown="smaller()" href="javascript:void(0);">Reducir</A></td> 
+  </tr> 
+  <tr>  
+    <td> </td> 
+  </tr> 
+</table>
+
+
+		
+ <div id="forma"><a href="javascript:tooltip()" style="cursor:help"></a></div>
+    <div id="cap" style="display:none"><img src="images/ref1ii.png" /></div>
+    <div id="forma1"><a href="javascript:tooltip1()" style="cursor:help"></a></div>
+    <div id="cap1" style="display:none"><img src="images/ref1ii.png" /></div>
+</div>
+
+
+<div id="forma3"><a href="javascript:tooltip3()" style="cursor:help"></a></div>
+    <div id="cap3" style="display:none"><img src="images/ref4ii.png" /></div>
+</div>
+
+<div id="forma4"><a href="javascript:tooltip4()"><img src="images/btn_abajo.png" border="0" /></a></div>
+    <div id="cap4" style="display:none; left:0px; height:52px;">
+    <div id="footer">
+ 		<div class="footer1">
+    		<div class="footerimg" >
+				<a href="javascript:history.back()"><img border="0" src="images/bayron.jpg" /></a> 
+            </div>
+			
+   		</div>
+   <div class="footer2">
+ 		<div class="footerimg1 margin_l_5">
+        	<a href="javascript:void(0)" onClick="window.close()"><img src="images/btn_close.png" border="0"></a>
+        </div>
+        <div class="footerimg3 margin_r_30 margin_l_5">
+        	<a href="../menu.html"><img src="images/home.jpg" border="0"></a>
+         </div>
+         <div class="footerimg3 margin_l_5">
+        	<a href="javascript:document.location.reload();"><img src="images/ree.jpg" border="0"></a>
+         </div>
+
+        
+          
+	</div>
+	</div>
+    </div>
+</div>
+
+<script>
+	//referencia1
+	function tooltip(){
+		var verEstado  = $("#cap").css('opacity');
+		var verEstado1  = $("#cap1").css('opacity');
+		var verEstado2  = $("#cap2").css('opacity');
+		var verEstado3  = $("#cap3").css('opacity');
+		
+		if(verEstado==0){
+			$("#cap").stop().animate({height:'137px',opacity:1},{queue:false, duration:800});
+		}else{
+			$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado1!=0){
+			$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado2!=0){
+			$("#cap2").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado3!=0){
+			$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+
+	}
+	$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:0});
+	document.getElementById('cap').style.display="";
+	document.getElementById("cap").style.marginTop = "55px";
+	document.getElementById("cap").style.marginLeft = "460px";
+	document.getElementById("cap").style.position = "absolute";
+	estilo=document.getElementById("cap").style.zIndex+1000
+	document.getElementById("cap").style.zIndex=estilo;
+	//fin referencia1
+	
+	//referencia2
+	function tooltip1(){
+		var verEstado  = $("#cap1").css('opacity');
+		var verEstado1  = $("#cap").css('opacity');
+		var verEstado2  = $("#cap2").css('opacity');
+		var verEstado3  = $("#cap3").css('opacity');
+		
+		if(verEstado==0){
+			$("#cap1").stop().animate({height:'137px',opacity:1},{queue:false, duration:800});
+		}else{
+			$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado1!=0){
+			$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado2!=0){
+			$("#cap2").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado3!=0){
+			$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+	}
+	$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:0});
+	document.getElementById('cap1').style.display="";
+	document.getElementById("cap1").style.marginTop = "194px";
+	document.getElementById("cap1").style.marginLeft = "495px";
+	document.getElementById("cap1").style.position = "absolute";
+	estilo=document.getElementById("cap1").style.zIndex+1000
+	document.getElementById("cap1").style.zIndex=estilo;
+	//fin referencia2
+	
+	
+	//referencia 4
+	function tooltip3(){
+		var verEstado  = $("#cap3").css('opacity');
+		var verEstado1  = $("#cap").css('opacity');
+		var verEstado2  = $("#cap1").css('opacity');
+		var verEstado3  = $("#cap2").css('opacity');
+		
+		if(verEstado==0){
+			$("#cap3").stop().animate({height:'137px',opacity:1},{queue:false, duration:800});
+		}else{
+			$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado1!=0){
+			$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado2!=0){
+			$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado3!=0){
+			$("#cap2").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+	}
+	$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:0});
+	document.getElementById('cap3').style.display="";
+	document.getElementById("cap3").style.marginTop = "335px";
+	document.getElementById("cap3").style.marginLeft = "475px";
+	document.getElementById("cap3").style.position = "absolute";
+	estilo=document.getElementById("cap3").style.zIndex+903
+	document.getElementById("cap3").style.zIndex=estilo;
+	//fin referencia4
+	
+	function tooltip4(){
+		var verEstado  = $("#cap4").css('opacity');
+		
+		
+		if(verEstado==0){
+			$("#cap4").stop().animate({height:'52px',opacity:1},{queue:false, duration:400});
+		}else{
+			$("#cap4").stop().animate({height:'0px',opacity:0},{queue:false, duration:400});
+		}
+		
+
+	}
+	$("#cap4").stop().animate({height:'52px',opacity:1},{queue:false, duration:0});
+	document.getElementById('cap4').style.display="";
+	document.getElementById("cap4").style.marginTop = "704px";
+	document.getElementById("cap4").style.marginLeft = "0px";
+	document.getElementById("cap4").style.position = "absolute";
+	estilo=document.getElementById("cap4").style.zIndex+903
+	document.getElementById("cap4").style.zIndex=estilo;
+</script>
+
+</div> 
+<div class="cleaner_h5"></div>
+</body> 
+</html>

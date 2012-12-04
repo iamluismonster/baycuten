@@ -1,0 +1,255 @@
+<html> 
+<head> 
+<title>IPP Actron Plus</title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+ <script type="text/javascript" src="jquery-1.4.2.js"></script>
+ <link rel="stylesheet" href="styletooltippru.css" type="text/css"></link>
+  <script language="javascript" type="text/javascript" src="jquerytooltip.js"></script>
+      <link rel="stylesheet" href="footerpru.css" type="text/css"></link>
+
+<SCRIPT type=text/javascript> 
+cookie_name = "fontsize"; 
+
+function setCookie() { 
+
+    if(document.cookie != document.cookie) {  
+    index = document.cookie.indexOf(cookie_name); 
+    } 
+    else {  
+    index = -1; 
+    } 
+
+    if (index == -1) { 
+    document.cookie=cookie_name+"="+newsfont+"; expires=Monday, 01-Apr-2008 05:00:00 GMT"; 
+    } 
+
+} 
+
+function getCookie() { 
+    if(document.cookie) { 
+    index = document.cookie.indexOf(cookie_name); 
+    if (index != -1) { 
+        namestart = (document.cookie.indexOf("=", index) + 1); 
+        nameend = document.cookie.indexOf(";", index); 
+        if (nameend == -1) nameend = document.cookie.length; 
+        val = document.cookie.substring(namestart, nameend); 
+        return parseInt(val); 
+    } 
+    } 
+} 
+</SCRIPT> 
+<SCRIPT type=text/javascript> 
+var newsfont = 10; 
+function changeFont(id) { 
+
+if (document.getElementById) { 
+        document.getElementById(id).style.fontSize = newsfont+"px"; 
+    } else { 
+        if (document.layers) { 
+            document.layers[id].fontSize = newsfont+"px"; 
+        } else { 
+            if (document.all) { 
+                eval("document.all." + id + ".style.fontSize = \"" + newsfont + "px \""); 
+            } 
+        } 
+    } 
+     
+    // esto arregla scroll al utilizar layers 
+//    updateHeight();  
+    //setCookie(); 
+} 
+// aqui se produce el error 
+function larger() { 
+    if (newsfont < 30) { 
+        newsfont= newsfont +2; 
+        changeFont('content'); 
+    } 
+} 
+
+function smaller() { 
+    if (newsfont > 10) { 
+    newsfont= newsfont -2; 
+    changeFont('content'); 
+    } 
+} 
+</SCRIPT> 
+
+</hecuted> 
+
+<body  leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" >
+<div id="contenedor"> 
+<table width="1024px" border="0" cellpadding="2" cellspacing="0"> 
+  <tr>  
+    <td width="950px" rowspan="2" bgcolor="#FFFFFF" class="news" id="content"><p align="justify"><b>ACTRON&reg; PLUS C&aacute;psulas Ibuprofeno + Cafe&iacute;na 400 + 100 mg FORMA FARMAC&Eacute;UTICA Y FORMULACI&Oacute;N Cada c&aacute;psula de ACTRON&reg; PLUS contiene: Ibuprofeno 400 mg Cafe&iacute;na 100 mg Excipiente cbp 1 c&aacute;psula INDICACIONES TERAP&Eacute;UTICAS: Antiinflamatorio no esteroideo con acci&oacute;n analg&eacute;sica. ACTRON&reg; PLUS est&aacute; indicado en el tratamiento de los siguientes casos: Cefalea de diversa intensidad y etiolog&iacute;a. Migra&ntilde;a. Odontalgias (por ejemplo: dolor en extracciones dentales). Coadyuvante en infecciones de v&iacute;as respiratorias para el tratamiento del resfriado com&uacute;n o influenza y para el alivio de la fiebre. CONTRAINDICACIONES ACTRON&reg; PLUS esta contraindicado en los siguientes casos: Hipersensibilidad conocida al ibuprofeno, cafe&iacute;na  as&iacute; como a cualquiera de los componentes de la f&oacute;rmula. Antecedente de reacciones tipo al&eacute;rgicas despu&eacute;s de tomar aspirina u otros agentes antiinflamatorios no esteroideos. Antecedente de sangrado gastrointestinal o perforaci&oacute;n relacionada con terapia previa  de AINE&#39;s. Ulcera p&eacute;ptica activa o antecedente  de ulcera p&eacute;ptica recurrente o hemorragia (dos o m&aacute;s episodios distintos de ulceraci&oacute;n o sangrado comprobados). Insuficiencia cardiaca severa. Insuficiencia hep&aacute;tica y/o renal severa. Ultimo trimestre de embarazo (ver secci&oacute;n "precauciones y restricciones de uso durante el embarazo y la lactancia"). PRECAUCIONES Y RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA Embarazo ACTRON&reg; PLUS, como el resto de los productos que contienen Cafe&iacute;na, pertenece a la categor&iacute;a C de acuerdo a la clasificaci&oacute;n de medicamentos para su uso en el embarazo de la FDA. Esto es, que no se dispone de estudios en humanos, y que los estudios en animales muestran o carecen de evidencia de riesgo. Se deber&aacute; tener en cuenta que los efectos de inhibici&oacute;n de la s&iacute;ntesis de prostaglandinas en el embarazo no han sido establecidos. Por lo tanto, la administraci&oacute;n de ACTRON&reg; PLUS durante los primeros 6 meses de embarazo queda bajo la responsabilidad del m&eacute;dico despu&eacute;s de la cuidadosa evaluaci&oacute;n riesgo-beneficio. No se aconseja el uso de ibuprofeno durante el embarazo. El tratamiento puede repercutir negativamente sobre el embarazo, el desarrollo embrionario y fetal, o ambos. Los estudios con animales y seres humanos indican un incremento en el riesgo de aborto, malformaci&oacute;n cardiaca y gastrosquisis tras el uso del ibuprofeno. Se sabe que la administraci&oacute;n de un inhibidor de la s&iacute;ntesis de prostaglandinas aumenta las p&eacute;rdidas previas y posteriores a la implantaci&oacute;n y la letalidad embriofetal entre los animales. Adem&aacute;s, se ha descrito un incremento en la incidencia de diversas malformaciones, incluidas las cardiovasculares, entre los animales tratados con un inhibidor de la s&iacute;ntesis de prostaglandinas durante el periodo organogen&eacute;tico. El ibuprofeno no debe administrarse durante el primer y segundo trimestre de embarazo, salvo que resulte estrictamente necesario. Se debe utilizar ibuprofeno en la menor dosis posible y durante el menor periodo de tiempo en mujeres que est&eacute;n intentando quedar encintas o si se decide administrarlo a mujeres que se encuentren en el primer y segundo trimestre de embarazo. Ibuprofeno est&aacute; contraindicado en el &uacute;ltimo trimestre del embarazo. Puede inhibir las contracciones uterinas y retrasar o prolongar la labor de parto, adem&aacute;s de prolongar el tiempo de sangrado debido a su efecto de antiagregante plaquetario. La administraci&oacute;n de ibuprofeno en las &uacute;ltimas fases del embarazo puede ocasionar un cierre prematuro del conducto arterioso e hipertensi&oacute;n pulmonar o puede ocasionar una disfunci&oacute;n renal fetal, que podr&iacute;a evolucionar hacia insuficiencia renal con oligohidramnios. Lactancia Ibuprofeno puede pasar en peque&ntilde;as cantidades a la leche materna pero el riesgo de afectar al lactante es poco probable a dosis terap&eacute;uticas. De igual manera, la Cafe&iacute;na y sus metabolitos se excretan por la leche materna en cantidades m&iacute;nimas (la concentraci&oacute;n en leche materna equivale al 1% de la dosis ingerida). En caso de que se indique un tratamiento prolongado o si se indicaran dosis mas elevadas, se deber&aacute; considerar la interrupci&oacute;n de la lactancia. La seguridad de este producto durante el embarazo y la lactancia no ha sido establecida por lo que no se recomienda su uso en estos casos &uacute;nicamente cuando los beneficios superen claramente los riesgos potenciales. PRECAUCIONES GENERALES El Ibuprofeno puede interferir con el efecto antiagregante plaquetario del &aacute;cido acetilsalic&iacute;lico (ver secci&oacute;n "Interacciones medicamentosas y de otro g&eacute;nero"). El paciente deber&aacute; informar al m&eacute;dico si se encuentra bajo un r&eacute;gimen terap&eacute;utico con aspirina y toma  ibuprofeno para el dolor. Se debe evitar el uso concomitante de ibuprofeno con otros AINE&#39;s incluyendo inhibidores selectivos de la ciclooxigenasa-2 (ver secci&oacute;n "Interacciones medicamentosas y de otro g&eacute;nero"). Las reacciones secundarias se pueden minimizar utilizando la dosis efectiva durante el periodo m&aacute;s breve que se precise para controlar los s&iacute;ntomas (ver secci&oacute;n "Dosis y v&iacute;a de administraci&oacute;n"). Lupus eritematoso sist&eacute;mico o enfermedad mixta del tejido conjuntivo. Insuficiencia hep&aacute;tica reciente o antecedente de la misma. Nefropat&iacute;a reciente o antecedente de la misma. Precauciones para pacientes geri&aacute;tricos: Los pacientes geri&aacute;tricos presentan con mayor frecuencia reacciones adversas a los AINE&#39;s especialmente sangrado gastrointestinal y perforaci&oacute;n lo cual puede provocar la muerte. Sangrado, ulceraci&oacute;n y perforaci&oacute;n gastrointestinales: Sangrado, ulceraci&oacute;n o perforaci&oacute;n gastrointestinal, han sido reportados con todos los AINE&#39;s en cualquier momento durante el tratamiento, con o sin  s&iacute;ntomas de advertencia o antecedentes previos de eventos gastrointestinales serios, lo cual puede ser fatal. El riesgo de sangrado gastrointestinal, ulceraci&oacute;n o perforaci&oacute;n es mayor con dosis incrementadas de AINE&#39;s, en pacientes con antecedente de ulcera p&eacute;ptica especialmente si se complic&oacute; con hemorragia o perforaci&oacute;n (ver secci&oacute;n "Contraindicaciones") y en pacientes geri&aacute;tricos. Estos pacientes deben comenzar el tratamiento en la dosis mas baja disponible. Se debe considerar una terapia combinada con agentes protectores (por ejemplo misoprostol o inhibidores de la bomba de protones) para estos pacientes y tambi&eacute;n para pacientes que requieran de manera concomitante dosis bajas de aspirina o de otros f&aacute;rmacos que de manera probable puedan incrementar el riesgo gastrointestinal (ver "Interacciones medicamentosas y de otro g&eacute;nero"). Pacientes con antecedente de toxicidad gastrointestinal, particularmente en pacientes geri&aacute;tricos, deben reportar cualquier s&iacute;ntoma abdominal inusual (especialmente sangrado gastrointestinal) particularmente en las primeras etapas del tratamiento. Se debe advertir precauci&oacute;n en los pacientes recibiendo medicamentos concomitantes los cuales pueden incrementar el riesgo de ulceraci&oacute;n o sangrado, tales como corticoesteroides orales, anticoagulantes como warfarina, inhibidores selectivos de la recaptura de serotonina o agentes con efecto antiagregante plaquetario como el acido acetilsalic&iacute;lico (ver "Interacciones medicamentosas y de otro g&eacute;nero"). En caso que un paciente tratado con ibuprofeno experimente sangrado gastrointestinal o ulceraci&oacute;n, el tratamiento deber&aacute; ser suspendido. Los AINE&#39;s deben ser administrados con cautela a pacientes con antecedentes de enfermedad gastrointestinal (colitis ulcerosa, Enfermedad de Crohn) ya que su condici&oacute;n puede verse exacerbada (ver secci&oacute;n "Reacciones adversas"). Retenci&oacute;n de sodio y l&iacute;quido en trastornos cardiovasculares y edema perif&eacute;rico. Se aconseja prudencia antes de comenzar el tratamiento en pacientes con antecedentes de hipertensi&oacute;n y/o insuficiencia cardiaca ya que se ha reportado retenci&oacute;n de l&iacute;quido, hipertensi&oacute;n y edema asociados al tratamiento con AINE&#39;s (ver secci&oacute;n: Reacciones adversas). Efectos cardiovasculares y cerebrovasculares. Estudios cl&iacute;nicos y datos epidemiol&oacute;gicos sugieren que el uso de ibuprofeno, particularmente a dosis altas (2400 mg diariamente) y en tratamientos prolongados pueden asociarse a un ligero incremento en el riesgo de eventos tromb&oacute;ticos arteriales (por ejemplo infarto de miocardio o EVC). En conjunto los estudios epidemiol&oacute;gicos no indican que el ibuprofeno a dosis bajas (p. ej.: &lt; 1200 mg al d&iacute;a) este asociado con un mayor riesgo de infarto de miocardio (ver "Reacciones secundarias y efectos adversos"). Reacciones cut&aacute;neas Muy rara vez, se han reportado reacciones cut&aacute;neas graves asociadas al tratamiento con AINE&#39;s, algunas de ellas mortales, incluyendo dermatitis exfoliativa, s&iacute;ndrome de Stevens-Johnson y necr&oacute;lisis epid&eacute;rmica t&oacute;xica (ver "Reacciones secundarias y adversas"). Al parecer, el riesgo m&aacute;ximo de este tipo de reacciones se da en las fases tempranas del tratamiento. El ibuprofeno debe suspenderse ante el menor signo de rash cut&aacute;neo, lesiones de la mucosa o cualquier otra manifestaci&oacute;n de hipersensibilidad (ver "Reacciones secundarias y adversas"). Reacciones anafil&aacute;cticas (anafilactoides): El ibuprofeno puede acelerar el broncoespasmo e inducir crisis asm&aacute;ticas u otras reacciones de hipersensibilidad. Los factores de riesgo comprenden la presencia de asma bronquial, fiebre del heno, p&oacute;lipos nasales o enfermedad respiratoria cr&oacute;nica. Lo mismo cabe decir de los pacientes que presentan reacciones al&eacute;rgicas (p. ej., reacciones cut&aacute;neas, prurito, urticaria) al ibuprofeno o a otros AINE&#39;s. Precauciones relacionadas con la fertilidad. Existe evidencia de que los f&aacute;rmacos que inhiben la s&iacute;ntesis de ciclooxigenasa/ prostaglandinas puede causar impedimento en la fertilidad femenina a trav&eacute;s de un efecto sobre la ovulaci&oacute;n, mismo que se revierte al suspender el tratamiento. REACCIONES SECUNDARIAS Y ADVERSAS Ibuprofeno: Las reacciones adversas enumeradas a continuaci&oacute;n se basan en reportes espont&aacute;neos, por lo que no resulta pertinente su organizaci&oacute;n de acuerdo con las categor&iacute;as de frecuencia  CIOMS III. Trastornos hemolinf&aacute;ticos: En casos aislados se han descrito anemia debida a hemorragia, leucopenia, trombocitopenia, pancitopenia y agranulocitosis. Trastornos cardiacos y vasculares: Se han descrito edema, hipertensi&oacute;n e insuficiencia cardiaca asociados al tratamiento con AINE&#39;s. Estudios cl&iacute;nicos y datos epidemiol&oacute;gicos revelan que la administraci&oacute;n de ibuprofeno, sobre todo a dosis altas (2400 mg al d&iacute;a) y en tratamientos prolongados, pueden asociarse a un ligero incremento en el riesgo de eventos tromb&oacute;ticos arteriales (por ejemplo infarto de miocardio o EVC) (ver "Precauciones generales"). Trastornos otovestibulares: Ac&uacute;fenos Trastornos oculares: Anomal&iacute;as visuales Trastornos gastrointestinales: Se han descrito &uacute;lceras p&eacute;pticas, perforaciones o sangrado gastrointestinal, algunas de ellas mortales, sobre todo entre los adultos mayores. Se han reportado n&aacute;useas, v&oacute;mito, diarrea, flatulencia, estre&ntilde;imiento, dispepsia, dolor abdominal, melena, hematemesis, &uacute;lceras bucales, agudizaci&oacute;n de la colitis y de la enfermedad de Crohn posteriores a la administraci&oacute;n de ibuprofeno (ver "Precauciones generales") y con menor frecuencia, gastritis. Trastornos generales: Fatiga Trastornos hepatobiliares: Alteraciones transitorias de la funci&oacute;n hep&aacute;tica. Trastornos inmunol&oacute;gicos: Reacci&oacute;n al&eacute;rgica, reacci&oacute;n anafil&aacute;ctica, choque anafil&aacute;ctico (ver "Precauciones generales"). Se han descrito reacciones de hipersensibilidad con sus respectivas manifestaciones cl&iacute;nicas y de laboratorio, como el s&iacute;ndrome asm&aacute;tico o reacciones leves o moderadas que da&ntilde;an potencialmente la piel, la v&iacute;a respiratoria, el tracto gastrointestinal y el sistema cardiovascular incluyendo s&iacute;ntomas como rash, urticaria, edema, prurito, dificultad cardiorrespiratoria y, excepcionalmente, reacciones severas, incluyendo  choque anafil&aacute;ctico (ver "Precauciones generales"). Trastornos del sistema nervioso/ trastornos psiqui&aacute;tricos: Se ha observado cefalea, mareo, insomnio, agitaci&oacute;n, irritabilidad, estados de confusi&oacute;n y desorientaci&oacute;n; de manera aislada se ha observado depresi&oacute;n y reacciones psic&oacute;ticas. Rara vez se han descrito s&iacute;ntomas de meningitis as&eacute;ptica, como rigidez de cuello, cefalea, n&aacute;usea, v&oacute;mito, fiebre y/o desorientaci&oacute;n, sobre todo entre pacientes con trastornos autoinmunes conocidos (lupus eritematoso sist&eacute;mico, enfermedad mixta del tejido conjuntivo). Trastornos renales y urinarios: El tratamiento con ibuprofeno se ha asociado a alteraciones de la funci&oacute;n renal, insuficiencia renal aguda, s&iacute;ndrome nefr&oacute;tico, nefritis intersticial y necrosis papilar renal. Lesiones de la piel y del tejido subcut&aacute;neo: Alopecia, urticaria, rash, lesiones bulosas incluyendo el s&iacute;ndrome de Stevens-Johnson y necr&oacute;lisis epid&eacute;rmica t&oacute;xica (muy rara) (ver "Precauciones generales"). Cafe&iacute;na: La Cafe&iacute;na en dosis altas (&lt; 600mg al d&iacute;a) puede producir efectos a nivel cardiovascular como taquicardia, ansiedad, ataques de p&aacute;nico e insomnio. INTERACCIONES MEDICAMENTOSAS Y DE OTRO G&Eacute;NERO &aacute;cido acetilsalic&iacute;lico: Se ha comprobado que el ibuprofeno interfiere en el efecto antiagregante plaquetario del &aacute;cido acetilsalic&iacute;lico. Dicho efecto puede resultar importante si se administran productos de &aacute;cido acetilsalic&iacute;lico con capa ent&eacute;rica y/o dosis m&uacute;ltiples de ibuprofeno. Cuando se utiliza un producto de &aacute;cido acetilsalic&iacute;lico de liberaci&oacute;n inmediata (sin capa ent&eacute;rica), se puede administrar una dosis &uacute;nica de ibuprofeno 2 horas despu&eacute;s del acido acetilsalic&iacute;lico o al menos 8 horas antes del acetilsalic&iacute;lico para evitar atenuar el efecto de este &uacute;ltimo (ver "Precauciones generales"). Ciclosporina: Los niveles de ciclosporina pueden aumentar, potenciando el riesgo de nefrotoxicidad. Litio: Aumento de los niveles plasm&aacute;ticos de litio. Metotrexate en dosis de 15 mg/semana o m&aacute;s: Aumento en la concentraci&oacute;n del metotrexate y en el riesgo de toxicidad por este compuesto. Antiinflamatorios no esteroideos (AINE&#39;s): Aumento en el riesgo de &uacute;lceras y sangrado gastrointestinal (ver "Precauciones generales"). Anticoagulantes: Los AINE&#39;s pueden potenciar el efecto de los anticoagulantes como la warfarina (ver "Precauciones generales"). Medicamentos antiagregantes plaquetarios e inhibidores selectivos de la recaptura de serotonina (ISRS): Aumentan el riesgo de sangrado gastrointestinal (ver "Precauciones generales"). Corticosteroides: Aumentan el riesgo de ulceraci&oacute;n o sangrado gastrointestinal (ver "Precauciones generales"). Diur&eacute;ticos y antihipertensivos, p. ej. IECA: La eficacia de diur&eacute;ticos y antihipertensivos sobre todo en los pacientes con nefropat&iacute;a previa puede disminuir. Diur&eacute;ticos ahorradores de potasio: Hiperkalemia Alcohol: Aumento en el riesgo de lesi&oacute;n de la mucosa gastrointestinal y prolongaci&oacute;n del tiempo de sangrado. Cafe&iacute;na: ACTRON&reg; PLUS puede interactuar con medicamentos que se eliminan v&iacute;a el citocromo P450 como norfloxacina o ciprofloxacina. La Cafe&iacute;na reduce la excreci&oacute;n de la teofilina e incrementa la potencial dependencia de las sustancias del tipo de la efedrina. Los anticonceptivos orales, cimetidina y disulfiram producen disminuci&oacute;n en el metabolismo de Cafe&iacute;na; los barbit&uacute;ricos y el tabaco la aceleran. El uso simult&aacute;neo de los inhibidores de girasa como los &aacute;cidos quinolcarboxil&iacute;co pueden retrasar la eliminaci&oacute;n de la Cafe&iacute;na y sus metabolitos como paraxantina. La administraci&oacute;n concomitante de Cafe&iacute;na con simpaticomim&eacute;ticos y tiroxina potencia algunas reacciones adversas como taquicardia. PRECAUCIONES Y RELACI&Oacute;N CON EFECTOS DE CARCINOG&Eacute;NESIS, MUTAG&Eacute;NESIS, TERATOG&Eacute;NESIS Y SOBRE LA FERTILIDAD. Toxicidad aguda:Estudios de toxicidad aguda realizados en animales no han mostrado una sensibilidad inusual. Toxicidad cr&oacute;nica: La toxicidad subcr&oacute;nica y cr&oacute;nica del Ibuprofeno se ha manifestado en varias especies animales principalmente en forma de lesiones y &uacute;lceras en el tracto gastrointestinal. La acci&oacute;n ulcerog&eacute;nica se desarroll&oacute; primero con una dosis de 300 mg/kg en ratones y con 180 mg/kg en ratas y con 8 mg/kg en perros. Potencial mut&aacute;geno y neopl&aacute;sico. Estudios in-vitro e in-vivo (bacterias, linfocitos humanos) no arrojaron evidencia de acci&oacute;n mutag&eacute;nica del Ibuprofeno. Los estudios de carcinog&eacute;nesis con ratas y con ratones no han mostrado ning&uacute;n indicio de actividad carcinog&eacute;nica  de  ibuprofeno. Toxicidad reproductiva: Estudios experimentales en dos especies animales demostraron que Ibuprofeno  atraviesa la barrera placentaria pero no evidenciaron efectos teratog&eacute;nicos. DOSIS Y V&iacute;A DE ADMINISTRACI&Oacute;N V&iacute;a de administraci&oacute;n: Oral.ACTRON&reg; PLUS deber&aacute; ser tomado con suficiente l&iacute;quido. Adultos y ni&ntilde;os mayores de 12 a&ntilde;os: En funci&oacute;n del dolor, tomar una c&aacute;psula de ACTRON&reg; PLUS cada 8 horas sin exceder una dosis m&aacute;xima diaria de 3 c&aacute;psulas al d&iacute;a. SOBREDOSIFICACI&Oacute;N E INGESTA ACCIDENTAL: MANIFESTACIONES Y MANEJO (ANT&Iacute;DOTOS) Sobredosis leve: La mayor&iacute;a de los pacientes se muestran asintom&aacute;ticos. Los efectos leves se caracterizan por dolor abdominal, n&aacute;usea, v&oacute;mito, letargia, somnolencia, cefalea, ac&uacute;fenos y ataxia. Sobredosis grave: Rara vez pueden aparecer apnea (sobre todo entre los ni&ntilde;os m&aacute;s peque&ntilde;os), s&iacute;ndrome de dificultad respiratoria del adulto, acidosis metab&oacute;lica, coma, convulsiones, insuficiencia renal aguda, rabdomi&oacute;lisis, hipotensi&oacute;n e hipotermia. Los efectos graves son m&aacute;s comunes tras la ingesti&oacute;n de una cantidad superior a 400 mg/kg. Manejo en caso de emergencia No se conoce ning&uacute;n ant&iacute;doto espec&iacute;fico. La sobredosis o intoxicaci&oacute;n exigen tratamiento sintom&aacute;tico. PRESENTACIONES ACTRON&reg; PLUS Caja con 10, 20 y 30 c&aacute;psulas (Ibuprofeno 400 mg y Cafe&iacute;na 100 mg) en envase de burbuja. LEYENDAS DE PROTECCI&Oacute;N Literatura exclusiva para m&eacute;dicos. Mantenga fuera del alcance de los ni&ntilde;os. Su venta requiere receta m&eacute;dica. Cons&eacute;rvese a temperatura ambiente a no m&aacute;s de 25 °C y en lugar seco. No se administre durante el embarazo y la lactancia. No se administre a ni&ntilde;os menores de 12 a&ntilde;os. Reg. No. 021M2006 SSA IV Hecho en Argentina por: Catalent Argentina S.A.I.C. Av. M&aacute;rquez 691, Loma Hermosa Buenos Aires. Acondicionado y Distribuido por: Bayer de M&eacute;xico, S.A. de C.V. Miguel  de Cervantes Saavedra No. 259 Col. Granada, C.P. 11520, M&eacute;xico D.F. Clave IPP: IEAR-083300415E0062/RM2008V</b></p> 
+
+      </td> 
+    <td width="70px" align="center" valign="top" class="menu">  
+      <A onmousedown="larger()" href="javascript:void(0);">Aumentar</A><br> 
+      <br> 
+      <A onmousedown="smaller()" href="javascript:void(0);">Reducir</A></td> 
+  </tr> 
+  <tr>  
+    <td> </td> 
+  </tr> 
+</table>
+
+
+		
+ <div id="forma"><a href="javascript:tooltip()" style="cursor:help"></a></div>
+    <div id="cap" style="display:none"><img src="images/ref1ii.png" /></div>
+    <div id="forma1"><a href="javascript:tooltip1()" style="cursor:help"></a></div>
+    <div id="cap1" style="display:none"><img src="images/ref1ii.png" /></div>
+</div>
+
+
+<div id="forma3"><a href="javascript:tooltip3()" style="cursor:help"></a></div>
+    <div id="cap3" style="display:none"><img src="images/ref4ii.png" /></div>
+</div>
+
+<div id="forma4"><a href="javascript:tooltip4()"><img src="images/btn_abajo.png" border="0" /></a></div>
+    <div id="cap4" style="display:none; left:0px; height:52px;">
+    <div id="footer">
+ 		<div class="footer1">
+    		<div class="footerimg" >
+				<a href="javascript:history.back()"><img border="0" src="images/bayron.jpg" /></a> 
+            </div>
+			
+   		</div>
+   <div class="footer2">
+ 		<div class="footerimg1 margin_l_5">
+        	<a href="javascript:void(0)" onClick="window.close()"><img src="images/btn_close.png" border="0"></a>
+        </div>
+        <div class="footerimg3 margin_r_30 margin_l_5">
+        	<a href="../menu.html"><img src="images/home.jpg" border="0"></a>
+         </div>
+         <div class="footerimg3 margin_l_5">
+        	<a href="javascript:document.location.reload();"><img src="images/ree.jpg" border="0"></a>
+         </div>
+
+        
+          
+	</div>
+	</div>
+    </div>
+</div>
+
+<script>
+	//referencia1
+	function tooltip(){
+		var verEstado  = $("#cap").css('opacity');
+		var verEstado1  = $("#cap1").css('opacity');
+		var verEstado2  = $("#cap2").css('opacity');
+		var verEstado3  = $("#cap3").css('opacity');
+		
+		if(verEstado==0){
+			$("#cap").stop().animate({height:'137px',opacity:1},{queue:false, duration:800});
+		}else{
+			$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado1!=0){
+			$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado2!=0){
+			$("#cap2").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado3!=0){
+			$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+
+	}
+	$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:0});
+	document.getElementById('cap').style.display="";
+	document.getElementById("cap").style.marginTop = "55px";
+	document.getElementById("cap").style.marginLeft = "460px";
+	document.getElementById("cap").style.position = "absolute";
+	estilo=document.getElementById("cap").style.zIndex+1000
+	document.getElementById("cap").style.zIndex=estilo;
+	//fin referencia1
+	
+	//referencia2
+	function tooltip1(){
+		var verEstado  = $("#cap1").css('opacity');
+		var verEstado1  = $("#cap").css('opacity');
+		var verEstado2  = $("#cap2").css('opacity');
+		var verEstado3  = $("#cap3").css('opacity');
+		
+		if(verEstado==0){
+			$("#cap1").stop().animate({height:'137px',opacity:1},{queue:false, duration:800});
+		}else{
+			$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado1!=0){
+			$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado2!=0){
+			$("#cap2").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado3!=0){
+			$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+	}
+	$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:0});
+	document.getElementById('cap1').style.display="";
+	document.getElementById("cap1").style.marginTop = "194px";
+	document.getElementById("cap1").style.marginLeft = "495px";
+	document.getElementById("cap1").style.position = "absolute";
+	estilo=document.getElementById("cap1").style.zIndex+1000
+	document.getElementById("cap1").style.zIndex=estilo;
+	//fin referencia2
+	
+	
+	//referencia 4
+	function tooltip3(){
+		var verEstado  = $("#cap3").css('opacity');
+		var verEstado1  = $("#cap").css('opacity');
+		var verEstado2  = $("#cap1").css('opacity');
+		var verEstado3  = $("#cap2").css('opacity');
+		
+		if(verEstado==0){
+			$("#cap3").stop().animate({height:'137px',opacity:1},{queue:false, duration:800});
+		}else{
+			$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado1!=0){
+			$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado2!=0){
+			$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado3!=0){
+			$("#cap2").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+	}
+	$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:0});
+	document.getElementById('cap3').style.display="";
+	document.getElementById("cap3").style.marginTop = "335px";
+	document.getElementById("cap3").style.marginLeft = "475px";
+	document.getElementById("cap3").style.position = "absolute";
+	estilo=document.getElementById("cap3").style.zIndex+903
+	document.getElementById("cap3").style.zIndex=estilo;
+	//fin referencia4
+	
+	function tooltip4(){
+		var verEstado  = $("#cap4").css('opacity');
+		
+		
+		if(verEstado==0){
+			$("#cap4").stop().animate({height:'52px',opacity:1},{queue:false, duration:400});
+		}else{
+			$("#cap4").stop().animate({height:'0px',opacity:0},{queue:false, duration:400});
+		}
+		
+
+	}
+	$("#cap4").stop().animate({height:'52px',opacity:1},{queue:false, duration:0});
+	document.getElementById('cap4').style.display="";
+	document.getElementById("cap4").style.marginTop = "704px";
+	document.getElementById("cap4").style.marginLeft = "0px";
+	document.getElementById("cap4").style.position = "absolute";
+	estilo=document.getElementById("cap4").style.zIndex+903
+	document.getElementById("cap4").style.zIndex=estilo;
+</script>
+<div class="cleaner_h5"></div>
+</div> 
+</body> 
+</html>

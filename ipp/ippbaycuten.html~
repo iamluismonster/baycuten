@@ -1,0 +1,301 @@
+<html> 
+<head> 
+<title>IPP Baycuten</title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+
+ <script type="text/javascript" src="jquery-1.4.2.js"></script>
+ <link rel="stylesheet" href="styletooltippru.css" type="text/css"></link>
+  <script language="javascript" type="text/javascript" src="jquerytooltip.js"></script>
+      <link rel="stylesheet" href="footerpru.css" type="text/css"></link>
+<SCRIPT type=text/javascript> 
+cookie_name = "fontsize"; 
+
+function setCookie() { 
+
+    if(document.cookie != document.cookie) {  
+    index = document.cookie.indexOf(cookie_name); 
+    } 
+    else {  
+    index = -1; 
+    } 
+
+    if (index == -1) { 
+    document.cookie=cookie_name+"="+newsfont+"; expires=Monday, 01-Apr-2008 05:00:00 GMT"; 
+    } 
+
+} 
+
+function getCookie() { 
+    if(document.cookie) { 
+    index = document.cookie.indexOf(cookie_name); 
+    if (index != -1) { 
+        namestart = (document.cookie.indexOf("=", index) + 1); 
+        nameend = document.cookie.indexOf(";", index); 
+        if (nameend == -1) nameend = document.cookie.length; 
+        val = document.cookie.substring(namestart, nameend); 
+        return parseInt(val); 
+    } 
+    } 
+} 
+</SCRIPT> 
+<SCRIPT type=text/javascript> 
+var newsfont = 10; 
+function changeFont(id) { 
+
+if (document.getElementById) { 
+        document.getElementById(id).style.fontSize = newsfont+"px"; 
+    } else { 
+        if (document.layers) { 
+            document.layers[id].fontSize = newsfont+"px"; 
+        } else { 
+            if (document.all) { 
+                eval("document.all." + id + ".style.fontSize = \"" + newsfont + "px \""); 
+            } 
+        } 
+    } 
+     
+    // esto arregla scroll al utilizar layers 
+//    updateHeight();  
+    setCookie(); 
+} 
+// aqui se produce el error 
+function larger() { 
+    if (newsfont < 30) { 
+        newsfont= newsfont +2; 
+        changeFont('content'); 
+    } 
+} 
+
+function smaller() { 
+    if (newsfont > 10) { 
+    newsfont= newsfont -2; 
+    changeFont('content'); 
+    } 
+} 
+</SCRIPT> 
+
+</head> 
+
+<body  leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" >
+<div id="contenedor"> 
+<table width="1024px" border="0" cellpadding="2" cellspacing="0"> 
+  <tr>  
+    <td width="950px" rowspan="2" bgcolor="#FFFFFF" class="news" id="content"><center>BAYCUTEN&reg;
+</center><p align="justify">Crema Clotrimazol / Acetato de Dexametazona FORMULACI&Oacute;N: Cada 100 g de BAYCUTEN&reg; crema contienen: Clotrimazol 1.0 g Acetato de dexametasona - 0.040 g Excipiente, c.b.p. 100.0 g INDICACION(ES) TERAP&Eacute;UTICA(S): El clotrimazol es un antimic&oacute;tico de amplio
+espectro que act&uacute;a contra dermatofitos, levaduras, mohos y otros hongos. Se sabe que el clotrimazol es antibacteriano frente a cocos grampositivos, como estafilococos y Corynebacterium minutissimum, agente causal del eritrasma. La dexametasona ejerce un efecto
+antiinflamatorio, antipruriginoso y antial&eacute;rgico. BAYCUTEN&reg; est&aacute; indicado en eccemas de diversa etiolog&iacute;a; primarios, con o sin infecci&oacute;n secundaria por hongos y/o bacterias, y secundarios a una infecci&oacute;n primaria por hongos y/o bacterias. Eccemas: por contacto,
+at&oacute;pico, seborreico, mic&oacute;tico, microbiano, numular y neurodermatitis. BAYCUTEN&reg; act&uacute;a en dermatitis pruriginosas. El veh&iacute;culo especial de BAYCUTEN&reg; permite su f&aacute;cil y r&aacute;pida penetraci&oacute;n a los estratos profundos de la piel. CONTRAINDICACIONES: Hipersensibilidad a
+los ingredientes; ciertas manifestaciones cut&aacute;neas de infecciones sist&eacute;micas como s&iacute;filis, tuberculosis y varicela. As&iacute; mismo enfermedades virales de la piel como herpes simple, rosacea o en dermatitis perioral viral. PRECAUCIONES O RESTRICCIONES DE USO DURANTE
+EL EMBARAZO Y LA LACTANCIA: Durante el embarazo, particularmente en el primer trimestre, as&iacute; como durante la lactancia, BAYCUTEN&reg;, como todos los productos que contienen corticoides, debe ser usado solo cuando la indicaci&oacute;n ha sido bien establecida, por
+per&iacute;odos cortos y no en superficies amplias. REACCIONES SECUNDARIAS Y ADVERSAS: Raras veces irritaciones cut&aacute;neas; acn&eacute; por esteroide, telangiectasias, hipertricosis, dermatrofia, estr&iacute;as distensas. El tratamiento a largo plazo con corticosteroides locales, por tanto
+debe evitarse. INTERACCIONES MEDICAMENTOSAS Y OTRO G&Eacute;NERO: No se han reportado interacciones con medicamentos o alimentos. PRECAUCIONES: Puede producir reacciones de rebote (al suspender la medicaci&oacute;n prematuramente pueden presentarse las mismas
+afecciones alteradas). Gestaci&oacute;n y lactancia. No se debe utilizar concomitantemente con una cubierta oclusiva en pacientes con eccema at&oacute;pico. PRECAUCIONES Y RELACI&Oacute;N CON EFECTOS DE CARCINOG&Eacute;NESIS, MUTAG&Eacute;NESIS, TERATOG&Eacute;NESIS Y SOBRE LA FERTILIDAD:
+No se han reportado hasta la fecha efectos de carcinog&eacute;nesis, mutag&eacute;nesis o teratog&eacute;nesis con la aplicaci&oacute;n local de dexametasona y clotrimazol. As&iacute; mismo, no se conocen alteraciones de la fertilidad con esta forma de administraci&oacute;n. DOSIS Y V&Iacute;A DE ADMINISTRACI&Oacute;N:
+Se recomienda lavar la parte enferma con agua hervida, sin jab&oacute;n, secar cuidadosamente y aplicar una capa delgada de BAYCUTEN&reg; crema con un ligero masaje, dos veces al d&iacute;a, de preferencia en la ma&ntilde;ana y en la noche. Una vez que hayan desaparecido los s&iacute;ntomas
+es conveniente continuar el tratamiento unos cinco d&iacute;as m&aacute;s. SOBREDOSIFICACI&Oacute;N O INGESTA ACCIDENTAL MANIFESTACIONES Y MANEJO (ANT&Iacute;DOTOS): No se han reportado hasta la fecha casos de sobredosificaci&oacute;n o ingesta accidental con la aplicaci&oacute;n t&oacute;pica de
+dexametasona y clotrimazol. PRESENTACI&Oacute;N: Caja conteniendo un tubo de aluminio con 30 g de BAYCUTEN&reg; crema. Mantenga todos los medicamentos fuera del alcance de los ni&ntilde;os en un lugar fresco y seco. Su venta requiere receta m&eacute;dica. Literatura exclusiva para
+m&eacute;dicos. Bayer de M&eacute;xico, S.A. de C.V. Blvd. M. de Cervantes Saavedra N&uacute;m 259 11520 M&eacute;xico, D.F. BAYCUTEN&reg; Crema Reg. N&uacute;m. 0153M80 SSA Clave de IPP: JEAR-23969/93 28.10.93
+</p>
+
+<center>BAYCUTEN&reg; N
+</center>
+	
+<br><br>
+	
+
+<p align="justify">Clotrimazol - Dexametasona - Neomicina FORMA FARMACEUTICA Y FORMULACION. Crema Cada 100 g contiene: Clotrimazol 1.00 g Acetato de dexametasona equivalente a 0.04 g de dexametasona Sulfato de neomicina equivalente a 0.50 g de neomicina Excipiente
+cbp 100.00 g INDICACION(ES) TERAP&Eacute;UTICA(S). BAYCUTEN&reg; N crema est&aacute; indicado en las dermatitis que cursan con infecci&oacute;n bacteriana secundaria y que responden al tratamiento con corticoides, as&iacute; como en las dermatitis complicadas por infecciones causadas por
+dermatofitos, levaduras, mohos y otros hongos. BAYCUTEN&reg; N crema combina el efecto antimic&oacute;tico de amplio espectro del clotrimazol, el efecto antiinflamatorio, antipruriginoso y antial&eacute;rgico del acetato de dexametasona con el poder antibacteriano del Sulfato de Neomicina, f&aacute;rmaco de gran efectividad en el tratamiento local de las infecciones bacterianas secundarias de la piel, lo que marca la diferencia y las ventajas entre BAYCUTEN&reg; N crema y BAYCUTEN&reg; crema ya que este &uacute;ltimo no contiene neomicina. BAYCUTEN&reg; N crema
+en resumen est&aacute; indicado en eczemas de diversas etiolog&iacute;as, tanto primarios como complicados de infecci&oacute;n bacteriana y/o mic&oacute;tica secundaria. Asimismo en eczemas por contacto, at&oacute;pico, seborreico, numular y en neurodermatitis. BAYCUTEN&reg; N crema es activo en
+dermatitis pruriginosas. El clotrimazol es un antimic&oacute;tico de amplio espectro que act&uacute;a contra dermatofitos, levaduras, mohos y otros hongos. Se sabe que el clotrimazol es antibacteriano frente a cocos grampositivos tales como, como estafilococos y Corynebacterium
+minutissimum, agente causal del eritrasma. La dexametasona ejerce un efecto antiinflamatorio, antipruriginoso y antial&eacute;rgico. La neomicina es &uacute;til en el tratamiento de infecciones bacterianas de la piel causadas por microorganismos susceptibles, tales como Escherichia coli, Enterobacter aerogenes, Klebsiella pneumoniae y Proteus vulgaris, dentro de los organismos gram negativos. Con respecto a los gram positivos, Staphylococcus aureus, Enterococcus faecalis, y algunas cepas de Staphylococcus epidermidis FARMACOCIN&Eacute;TICA
+Y FARMACODINAMIA EN HUMANOS. Las investigaciones con cremas que contienen clotrimazol para uso t&oacute;pico, han mostrado que la sustancia penetra bien en diversas capas de la piel. A las 6 horas la CIM para las micosis m&aacute;s importantes es alcanzada en las capas
+m&aacute;s profundas de la epidermis. En investigaciones de absorci&oacute;n no pudo demostrarse ninguna cantidad de la sustancia activa en plasma, por lo tanto, no debe esperarse ning&uacute;n efecto sist&eacute;mico del clotrimazol con la aplicaci&oacute;n local. Aproximadamente 1% de la cantidad
+aplicada de dexametasona puede absorberse percutaneamente. Cuando se aplica neomicina en grandes extensiones de piel da&ntilde;ada, el medicamento puede absorberse en forma importante. CONTRAINDICACIONES. Hipersensibilidad a los ingredientes; ciertas manifestaciones cut&aacute;neas de infecciones sist&eacute;micas como s&iacute;filis, tuberculosis y varicela. Asimismo, enfermedades virales de la piel como herpes simple, ros&aacute;ceo o en dermatitis perioral viral. No deber&aacute; aplicarse en infecciones del o&iacute;do. No debe utilizarse concomitantemente con
+cubierta oclusiva en pacientes con eczema at&oacute;pico. PRECAUCIONES GENERALES Puede producir reacciones de rebote (al suspender la medicaci&oacute;n brusca y prematuramente pueden presentarse las mismas afecciones que indicaron su uso). Gestaci&oacute;n y lactancia. No se
+debe utilizar concomitantemente con una cubierta oclusiva en pacientes con eczema at&oacute;pico. No se aplique en los ojos. PRECAUCIONES O RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA. Durante el embarazo, particularmente en el primer trimestre, as&iacute;
+como durante la lactancia, BAYCUTEN&reg; N, al igual que todos los productos que contienen corticoesteroides, debe usarse s&oacute;lo cuando la indicaci&oacute;n ha sido bien establecida, por per&iacute;odos cortos y no en superficies amplias. Uso pedi&aacute;trico. Se aconseja no utilizar pa&ntilde;ales
+desechables o calzoncitos de pl&aacute;stico durante el tratamiento, ya que pueden actuar como cubiertas oclusivas. REACCIONES SECUNDARIAS Y ADVERSAS. Raras veces irritaciones cut&aacute;neas; acn&eacute; por esteroides, telangiectasias, hipertricosis, dermatrofia, estr&iacute;as cut&aacute;neas. El
+tratamiento a largo plazo con corticosteroides y antibi&oacute;ticos locales debe evitarse. INTERACCIONES MEDICAMENTOSAS Y OTRO G&Eacute;NERO. No se ha reportado interacci&oacute;n con medicamentos o alimentos. ALTERACIONES EN LOS RESULTADOS DE PRUEBAS DE LABORATORIO En
+virtud de que la administraci&oacute;n es t&oacute;pica y en la mayor parte de los casos los niveles plasm&aacute;ticos de la dexametasona son m&iacute;nimos o incluso no detectables, no se han reportado hasta la fecha alteraciones en las pruebas de laboratorio. PRECAUCIONES EN RELACI&Oacute;N CON
+EFECTOS DE CARCINOG&Eacute;NESIS, MUTAG&Eacute;NESIS, TERATOG&Eacute;NESIS Y SOBRE LA FERTILIDAD. No se han reportado hasta la fecha efectos de carcinog&eacute;nesis, mutag&eacute;nesis o teratog&eacute;nesis con la aplicaci&oacute;n local de dexametasona, clotrimazol y/o neomicina. As&iacute; mismo, no se
+conocen alteraciones de la fertilidad con esta forma de administraci&oacute;n. DOSIS Y V&Iacute;A DE ADMINISTRACI&Oacute;N. Se recomienda lavar la parte enferma con agua hervida, sin jab&oacute;n, secar cuidadosamente y aplicar una capa delgada de BAYCUTEN&reg; N crema con un ligero masaje,
+dos veces al d&iacute;a, de preferencia en la ma&ntilde;ana y en la noche. Una vez que hayan desaparecido los s&iacute;ntomas es conveniente continuar el tratamiento para lograr la cura completa con formulaciones que no contienen corticoesteroides. MANIFESTACIONES Y MANEJO DE LA
+SOBREDOSIFICACI&Oacute;N O INGESTA ACCIDENTAL. No se han reportado hasta la fecha casos de sobredosificaci&oacute;n o ingesta accidental con la aplicaci&oacute;n t&oacute;pica de dexametasona, clotrimazol y neomicina. Sin embargo la absorci&oacute;n sistemica por aplicaci&oacute;n t&oacute;pica de corticoesteroides ha producido supresi&oacute;n reversible del eje hipotalamico pituitario suprarrenal HPA, manifestaciones del s&iacute;ndrome de Cushing, hiperglicemia y glicosuria. Por lo que los pacientes que son tratados con corticosteroides en grandes superficies de la piel y/o, vendajes
+oclusivos por tiempo prolongado deber&aacute;n evaluarse peri&oacute;dicamente para detectar posible supresi&oacute;n del eje HPA usando la prueba urinaria de cortisol libre y de estimulaci&oacute;n en ACTH PRESENTACI&Oacute;N. Caja con tubo con 35 g. RECOMENDACIONES SOBRE ALMACENAMIENTO.
+Cons&eacute;rvese a temperatura ambiente a no m&aacute;s de 25 &deg;C. LEYENDAS DE PROTECCI&Oacute;N. Literatura exclusiva para m&eacute;dicos. Su venta requiere receta m&eacute;dica. No se deje al alcance de los ni&ntilde;os.Hecho en M&eacute;xico por: Bayer de M&eacute;xico, S.A. de C.V. Miguel de Cervantes Saavedra
+No. 259, Col. Granada C.P. 11520, M&eacute;xico, D.F. N&Uacute;MERO DE REGISTRO DEL MEDICAMENTO ANTE LA SSA. Reg. No. 036M95 SSA IV LOGOS Clave de IPP-A: 083300RR010943
+	
+			</p>
+      </td> 
+    <td width="70px" align="center" valign="top" class="menu">  
+      <A onmousedown="larger()" href="javascript:void(0);">Aumentar</A><br> 
+      <br> 
+      <A onmousedown="smaller()" href="javascript:void(0);">Reducir</A></td> 
+  </tr> 
+  <tr>  
+    <td> </td> 
+  </tr> 
+</table>
+
+
+		
+ <div id="forma"><a href="javascript:tooltip()" style="cursor:help"></a></div>
+    <div id="cap" style="display:none"><img src="images/ref1ii.png" /></div>
+    <div id="forma1"><a href="javascript:tooltip1()" style="cursor:help"></a></div>
+    <div id="cap1" style="display:none"><img src="images/ref1ii.png" /></div>
+</div>
+
+
+<div id="forma3"><a href="javascript:tooltip3()" style="cursor:help"></a></div>
+    <div id="cap3" style="display:none"><img src="images/ref4ii.png" /></div>
+</div>
+
+<div id="forma4"><a href="javascript:tooltip4()"><img src="images/btn_abajo.png" border="0" /></a></div>
+    <div id="cap4" style="display:none; left:0px; height:52px;">
+    <div id="footer">
+ 		<div class="footer1">
+    		<div class="footerimg" >
+				<a href="javascript:history.back()"><img border="0" src="images/bayron.jpg" /></a> 
+            </div>
+			
+   		</div>
+   <div class="footer2">
+ 		<div class="footerimg1 margin_l_5">
+        	<a href="javascript:void(0)" onClick="window.close()"><img src="images/btn_close.png" border="0"></a>
+        </div>
+        <div class="footerimg3 margin_r_30 margin_l_5">
+        	<a href="../menu.html"><img src="images/home.jpg" border="0"></a>
+         </div>
+         <div class="footerimg3 margin_l_5">
+        	<a href="javascript:document.location.reload();"><img src="images/ree.jpg" border="0"></a>
+         </div>
+
+        
+          
+	</div>
+	</div>
+    </div>
+</div>
+
+<script>
+	//referencia1
+	function tooltip(){
+		var verEstado  = $("#cap").css('opacity');
+		var verEstado1  = $("#cap1").css('opacity');
+		var verEstado2  = $("#cap2").css('opacity');
+		var verEstado3  = $("#cap3").css('opacity');
+		
+		if(verEstado==0){
+			$("#cap").stop().animate({height:'137px',opacity:1},{queue:false, duration:800});
+		}else{
+			$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado1!=0){
+			$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado2!=0){
+			$("#cap2").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado3!=0){
+			$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+
+	}
+	$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:0});
+	document.getElementById('cap').style.display="";
+	document.getElementById("cap").style.marginTop = "55px";
+	document.getElementById("cap").style.marginLeft = "460px";
+	document.getElementById("cap").style.position = "absolute";
+	estilo=document.getElementById("cap").style.zIndex+1000
+	document.getElementById("cap").style.zIndex=estilo;
+	//fin referencia1
+	
+	//referencia2
+	function tooltip1(){
+		var verEstado  = $("#cap1").css('opacity');
+		var verEstado1  = $("#cap").css('opacity');
+		var verEstado2  = $("#cap2").css('opacity');
+		var verEstado3  = $("#cap3").css('opacity');
+		
+		if(verEstado==0){
+			$("#cap1").stop().animate({height:'137px',opacity:1},{queue:false, duration:800});
+		}else{
+			$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado1!=0){
+			$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado2!=0){
+			$("#cap2").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado3!=0){
+			$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+	}
+	$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:0});
+	document.getElementById('cap1').style.display="";
+	document.getElementById("cap1").style.marginTop = "194px";
+	document.getElementById("cap1").style.marginLeft = "495px";
+	document.getElementById("cap1").style.position = "absolute";
+	estilo=document.getElementById("cap1").style.zIndex+1000
+	document.getElementById("cap1").style.zIndex=estilo;
+	//fin referencia2
+	
+	
+	//referencia 4
+	function tooltip3(){
+		var verEstado  = $("#cap3").css('opacity');
+		var verEstado1  = $("#cap").css('opacity');
+		var verEstado2  = $("#cap1").css('opacity');
+		var verEstado3  = $("#cap2").css('opacity');
+		
+		if(verEstado==0){
+			$("#cap3").stop().animate({height:'137px',opacity:1},{queue:false, duration:800});
+		}else{
+			$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado1!=0){
+			$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado2!=0){
+			$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado3!=0){
+			$("#cap2").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+	}
+	$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:0});
+	document.getElementById('cap3').style.display="";
+	document.getElementById("cap3").style.marginTop = "335px";
+	document.getElementById("cap3").style.marginLeft = "475px";
+	document.getElementById("cap3").style.position = "absolute";
+	estilo=document.getElementById("cap3").style.zIndex+903
+	document.getElementById("cap3").style.zIndex=estilo;
+	//fin referencia4
+	
+	function tooltip4(){
+		var verEstado  = $("#cap4").css('opacity');
+		
+		
+		if(verEstado==0){
+			$("#cap4").stop().animate({height:'52px',opacity:1},{queue:false, duration:400});
+		}else{
+			$("#cap4").stop().animate({height:'0px',opacity:0},{queue:false, duration:400});
+		}
+		
+
+	}
+	$("#cap4").stop().animate({height:'52px',opacity:1},{queue:false, duration:0});
+	document.getElementById('cap4').style.display="";
+	document.getElementById("cap4").style.marginTop = "704px";
+	document.getElementById("cap4").style.marginLeft = "0px";
+	document.getElementById("cap4").style.position = "absolute";
+	estilo=document.getElementById("cap4").style.zIndex+903
+	document.getElementById("cap4").style.zIndex=estilo;
+</script>
+
+</div> 
+<div class="cleaner_h5"></div>
+</body> 
+</html>

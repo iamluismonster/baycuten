@@ -1,0 +1,430 @@
+<html> 
+<head> 
+<title>IPP Amobay</title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+ <script type="text/javascript" src="jquery-1.4.2.js"></script>
+ <link rel="stylesheet" href="styletooltippru.css" type="text/css"></link>
+  <script language="javascript" type="text/javascript" src="jquerytooltip.js"></script>
+      <link rel="stylesheet" href="footerpru.css" type="text/css"></link>
+
+<SCRIPT type=text/javascript> 
+cookie_name = "fontsize"; 
+
+function setCookie() { 
+
+    if(document.cookie != document.cookie) {  
+    index = document.cookie.indexOf(cookie_name); 
+    } 
+    else {  
+    index = -1; 
+    } 
+
+    if (index == -1) { 
+    document.cookie=cookie_name+"="+newsfont+"; expires=Monday, 01-Apr-2008 05:00:00 GMT"; 
+    } 
+
+} 
+
+function getCookie() { 
+    if(document.cookie) { 
+    index = document.cookie.indexOf(cookie_name); 
+    if (index != -1) { 
+        namestart = (document.cookie.indexOf("=", index) + 1); 
+        nameend = document.cookie.indexOf(";", index); 
+        if (nameend == -1) nameend = document.cookie.length; 
+        val = document.cookie.substring(namestart, nameend); 
+        return parseInt(val); 
+    } 
+    } 
+} 
+</SCRIPT> 
+<SCRIPT type=text/javascript> 
+var newsfont = 10; 
+function changeFont(id) { 
+
+if (document.getElementById) { 
+        document.getElementById(id).style.fontSize = newsfont+"px"; 
+    } else { 
+        if (document.layers) { 
+            document.layers[id].fontSize = newsfont+"px"; 
+        } else { 
+            if (document.all) { 
+                eval("document.all." + id + ".style.fontSize = \"" + newsfont + "px \""); 
+            } 
+        } 
+    } 
+     
+    // esto arregla scroll al utilizar layers 
+//    updateHeight();  
+  setCookie(); 
+} 
+// aqui se produce el error 
+function larger() { 
+    if (newsfont < 30) { 
+        newsfont= newsfont +2; 
+        changeFont('content'); 
+    } 
+} 
+
+function smaller() { 
+    if (newsfont > 10) { 
+    newsfont= newsfont -2; 
+    changeFont('content'); 
+    } 
+} 
+</SCRIPT> 
+
+</head> 
+
+<body  leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" >
+<div id="contenedor"> 
+<table width="1024px" border="0" cellpadding="2" cellspacing="0"> 
+  <tr>  
+    <td width="950px" rowspan="2" bgcolor="#FFFFFF" class="news" id="content"><center>AMOBAY&reg; C&aacute;psulas y Suspensi&oacute;n Amoxicilina</center>  <p align="justify">
+
+FORMA FARMAC&Eacute;UTICA Y FORMULACI&Oacute;N. Amobay&reg; C&aacute;psulas: 
+Cada c&aacute;psula contiene: Amoxicilina trihidratada equivalente a 500 mgde Amoxicilina base Excipiente, c.b.p. 1 c&aacute;psula Amobay&reg; Suspensi&oacute;n: Cada 5 ml contienen: Amoxicilina trihidratada equivalente a 250 mg 500 mg de amoxicilina,Veh&iacute;culo c.b.p. 5 mL INDICACIONES TERAP&Eacute;UTICAS. Amobay&reg;, Amoxicilina trihidratada, est&aacute; indicada para el tratamiento de infecciones causadas por microorganismos susceptibles en las v&iacute;as respiratorias altas y bajas (rinosinusitis bacteriana aguda, otitis media aguda, faringitis, faringoamigdalitis, bronquitis bacteriana, neumon&iacute;a del tracto gastrointestinal (gastroenteritis bacteriana, fiebre tifoidea) y del tracto genitourinario (IVU no complicadas, pielonefritis, infecciones por Chlamydia en mujeres embarazadas, quienes no pueden tolerar la eritromicina; infecciones uretrales y ano-genitales agudas no complicadas debidas a Neisseria gonorrhoeae); de la  piel y tejidos blandos; estructuras dentales y  adyacentes en la cavidad oral. Tambi&eacute;n est&aacute; indicado para el tratamiento de la borreliosis o enfermedad de Lyme (primer estadio de la infecci&oacute;n temprana o infecci&oacute;n localizada) y en la infecci&oacute;n diseminada (2&deg; estadio). Amoxicilina, en asociaci&oacute;n con un inhibidor de la bomba de protones (lanzoprazol) y claritromicina, est&aacute; indicada como terapia triple para el tratamiento de &uacute;lcera p&eacute;ptica (duodenal) causada por H. pylori durante un r&eacute;gimen de 14 d&iacute;as. Amoxicilina en combinaci&oacute;n con c&aacute;psulas de liberaci&oacute;n modificada de lanzoprazol, esta indicada como terapia dual para el tratamiento de pacientes con infecci&oacute;n por H. pylori y ulcera duodenal, quienes son al&eacute;rgicos o intolerantes a la claritromicina, o en quienes la resistencia a la claritromicina es conocida o sospechada. Tambi&eacute;n esta indicado como preventivo de endocarditis infecciosa posterior a procesos invasivos de diagn&oacute;stico o de tratamiento quir&uacute;rgicos en v&iacute;as respiratorias, digestivas y en extracci&oacute;n dental. Los procedimientos quir&uacute;rgicos o de diagn&oacute;stico sugeridos que requieren profilaxis son: extracci&oacute;n dental, amigdalectom&iacute;a, adenoidectom&iacutea, broncoscop&iacute;a r&iacute;gida incluyendo lavado o biopsia, escleroterapia de varices esof&aacute;gicas y dilataci&oacute;n del es&oacute;fago. CONTRAINDICACIONES. AMOBAY&reg; est&aacute; contraindicada en pacientes con hipersensibilidad conocida a las penicilinas o cualquier otro componente de la f&oacute;rmula. La incidencia de hipersensibilidad cruzada entre penicilinas y otros antibi&oacute;ticos -lact&aacute;micos como cefalosporinas y carbapenems no es conocida precisamente, aunque algunos autores consideran es de 3 a 5%. Estas reacciones  se han observado frecuentemente en pacientes con historia de hipersensibilidad  a m&uacute;ltiples alergenos, asma o fiebre del heno. Todos los pacientes deben ser cuidadosamente interrogados sobre historia de hipersensibilidad a las penicilinas y/o otros antibi&oacute;ticos -lact&aacute;micos o alergenos, la presencia del S&iacute;ndrome de Stevens-Johnson, eritrodermia o dermatitis exfoliativa independientemente de la intensidad de las reacciones antes de prescribir Amobay&reg;. Reacciones de hipersensibilidad graves con resultados fatales despu&eacute;s de la administraci&oacute;n de penicilinas se han reportado raramente. Aunque la anafilaxia es generalmente menos frecuente (0.2% en 1000 casos del tratamiento) y es m&aacute;s com&uacute;n cuando se usa la terapia parenteral, se han documentado reportes cuando se usa el tratamiento oral con penicilinas. Es preferible no indicar Amobay&reg; si no se realiz&oacute; un programa previo de desensibilizaci&oacute;n.  Siempre que ocurra hipersensibilidad grave o reacci&oacute;n al&eacute;rgica, la terapia con amoxicilina debe ser descontinuada e iniciar el tratamiento apropiado. Reacciones anafil&aacute;cticas serias [respiraci&oacute;n r&aacute;pida o irregular, brevedad de la respiraci&oacute;n (taquipnea), inflamaci&oacute;n o  edema facial; disminuci&oacute;n de la presi&oacute;n sangu&iacute;nea repentina y  grave] requiere tratamiento inmediato de emergencia con adrenalina, ox&iacute;geno, esteroides intravenosos  y manejo de las v&iacute;a respiratorias, requiriendo a veces intubaci&oacute;n orotraqueal. Debido a que pacientes con leucemia linfoc&iacute;tica y mononucleosis infecciosa tiene rango creciente para desarrollar erupci&oacute;n maculopapular (rash), Amobay&reg; debe ser usado con precauci&oacute;n o evitarlo si es posible. Lo mismo ocurre en los pacientes con infecci&oacute;n por el VIH/SIDA, otras infecciones virales y especialmente en los pacientes con mononucleosis.
+La eliminaci&oacute;n de Amobay&reg; puede retrasarse debido a la funci&oacute;n renal inmadura en neonatos y ni&ntilde;os, por lo que, la dosificaci&oacute;n debe ser ajustada en pacientes pedi&aacute;tricos de 12 semanas o menores. Las penicilinas se han usado en pacientes geri&aacute;tricos y ning&uacute;n problema espec&iacute;fico en esta poblaci&oacute;n se ha documentado a la fecha. Sin embargo,  los pacientes adultos mayores son m&aacute;s propensos a tener alteraciones renales en funci&oacute;n de la edad que pueden requerir un ajuste en la dosificaci&oacute;n, incluyendo Amobay&reg; El uso prolongado de penicilinas, incluyendo Amobay&reg;, puede conducir al desarrollo de candidiasis vaginal y/u oral. PRECAUCIONES O RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA. Las penicilinas son habitualmente usadas en mujeres embarazadas y no se han reportado eventos adversos. Amobay&reg; se clasifica como categor&iacutea B de acuerdo a lo establecido en el Sistema de calificaci&oacute;n del uso de medicamentos en el embarazo de la Administraci&oacute;n de F&aacute;rmacos y Alimentos (FDA) de los EUA. Esto significa, que los estudios en animales no han demostrado riesgo alguno en el feto, pero no se han realizado estudios controlados en humanos; o los estudios en animales aunque han demostrado riesgo, en los humanos no se ha demostrado riesgo alguno. Amobay&reg; atraviesa la placenta y alcanza concentraciones en suero del feto de 25-33&#37; de la concentraci&oacute;n plasm&aacute;tica materna. Durante la lactancia se pueden detectar bajas concentraciones de amoxicilina en la leche materna. Mujeres lactando bajo tratamiento con amoxicilina pueden provocar la sensibilizaci&oacute;n, erupci&oacute;n en la piel (rash), diarrea o candidiasis en infantes. El riesgo debe ser considerado cuando se trate a un infante cuya madre lactante este bajo tratamiento con amoxicilina. Oriente a la madre sobre la baja posibilidad de cualquier reacci&oacute;n de hipersensibilidad que el infante pueda presentar, cuando las penicilinas le sean administradas en el futuro. REACCIONES SECUNDARIAS Y ADVERSAS. Como con otros antibi&oacute;ticos, las reacciones adversas m&aacute;s comunes est&aacute;n relacionadas al tracto digestivo. Nausea, v&oacute;mito, anorexia, diarrea, dolor epig&aacute;strico, gastritis y dolor abdominal son las reacciones adversas m&aacute;s comunes reportadas en el tracto gastrointestinal. Tambi&eacute;n se han observado lengua negra, glositis y estomatitis. La asociaci&oacute;n de antibi&oacute;ticos a la colitis pseudomembranosa secundaria a Clostridium difficile puede aparecer durante o despu&eacute;s del tratamiento con Amobay&reg; aunque esta reacci&oacute;n adversa es muy rara.  Tambi&eacute;n se han reportado dolor abdominal severo y diarrea con sangre asociada con enterocolitis aguda transitoria, pero sin evidencia de colitis pseudomembranosa. Casos leves de colitis pseudomembranosa usualmente responden al tratamiento de descontinuaci&oacute;n. Casos moderados a graves pueden requerir l&iacute;quidos y electrolitos, suplementos prote&iacute;nicos y cualquier antibacteriano recomendado para el tratamiento de  colitis por C. Difficile En raras ocasiones se ha observado nefritis intersticial con necrosis tubular renal y s&iacute;ndrome nefr&oacute;tico.Los efectos secundarios m&aacute;s frecuentes son los asociados a reacciones de hipersensibilidad y pueden variar desde rash eritematoso morbiliforme leve hasta reacciones anafil&aacute;cticas serias (ver abajo). Se ha descrito eritema multiforme, dermatitis exfoliativa, rash maculopapular con eritema (no mediada inmunol&oacute;gicamente), necrolisis epid&eacute;rmica t&oacute;xica, s&iacute;ndrome de Stevens-Johnson, vasculitis, urticaria y reacciones de la enfermedad del suero. La incidencia total de rash en pacientes tomando amoxicilina es de 1.4 a 10%, siendo mayor a 65% las de tipo maculopapular. Los efectos adversos sobre el sistema nervioso central incluyen cefalea, agitaci&oacute;n psicomotriz, insomnio y confusi&oacute;n, aunque no son muy frecuentes. Se han descrito convulsiones en pacientes con insuficiencia renal a los que se administraron penicilinas a dosis altas, por lo que es recomendable ajustar las dosis y,  por consiguiente, cuando se sabe o se sospecha de da&ntilde;o renal. Se han reportado durante la terapia con amoxicilina: eosinofilia y hem&oacute;lisis, anemia (incluyendo anemia hemol&iacute;tica), trombocitopenia, p&uacute;rpura trombocitop&eacute;nica, neutropenia, leucopenia y agranulocitosis. 
+
+Tambi&eacute;n se han reportado dolor abdominal severo y diarrea con sangre asociada con enterocolitis aguda transitoria, pero sin evidencia de colitis pseudomembranosa. Casos leves de colitis pseudomembranosa usualmente responden al tratamiento de
+descontinuaci&oacute;n. Casos moderados a graves pueden requerir l&iacute;quidos y electrolitos, suplementos prote&iacute;nicos y cualquier antibacteriano recomendado para el tratamiento de colitis por C. Difficile En raras ocasiones se ha observado nefritis intersticial con necrosis tubular
+renal y s&iacute;ndrome nefr&oacute;tico.Los efectos secundarios m&aacute;s frecuentes son los asociados a reacciones de hipersensibilidad y pueden variar desde rash eritematoso morbiliforme leve hasta reacciones anafil&aacute;cticas serias (ver abajo). Se ha descrito eritema multiforme,
+dermatitis exfoliativa, rash maculopapular con eritema (no mediada inmunol&oacute;gicamente), necrolisis epid&eacute;rmica t&oacute;xica, s&iacute;ndrome de Stevens-Johnson, vasculitis, urticaria y reacciones de la enfermedad del suero. La incidencia total de rash en pacientes tomando
+amoxicilina es de 1.4 a 10%, siendo mayor a 65% las de tipo maculopapular. Los efectos adversos sobre el sistema nervioso central incluyen cefalea, agitaci&oacute;n psicomotriz, insomnio y confusi&oacute;n, aunque no son muy frecuentes. Se han descrito convulsiones en pacientes
+con insuficiencia renal a los que se administraron penicilinas a dosis altas, por lo que es recomendable ajustar las dosis y, por consiguiente, cuando se sabe o se sospecha de da&ntilde;o renal. Se han reportado durante la terapia con amoxicilina: eosinofilia y hem&oacute;lisis, anemia
+(incluyendo anemia hemol&iacute;tica), trombocitopenia, p&uacute;rpura trombocitop&eacute;nica, neutropenia, leucopenia y agranulocitosis. Estas reacciones adversas son generalmente reversibles al descontinuar el tratamiento. En el h&iacute;gado se han reportado disfunci&oacute;n hep&aacute;tica incluyendo
+ictericia colest&aacute;tica, colestasis hep&aacute;tica y hepatitis citol&iacute;tica severa. INTERACCIONES MEDICAMENTOSAS Y DE OTRO G&Eacute;NERO. La administraci&oacute;n concomitante de amilorida y amoxicilina reduce la biodisponibilidad del antibi&oacute;tico en un 27% y la Cmax en un 25%. No se
+observaron variaciones en la depuraci&oacute;n renal de la amoxicilina. Aunque se desconoce la significancia cl&iacute;nica de esta interacci&oacute;n, se recomienda no administrar ambos f&aacute;rmacos simult&aacute;neamente dejando transcurrir unas dos horas como m&iacute;nimo entre uno y otro f&aacute;rmaco.
+El probenecid inhibe la excreci&oacute;n tubular de muchos f&aacute;rmacos incluyendo la amoxicilina y aumentando los niveles plasm&aacute;ticos del antibi&oacute;tico. Aunque con esta interacci&oacute;n se espera se aumenten las concentraciones del antibi&oacute;tico en suero, no se han reportado
+problemas con esta interacci&oacute;n, el uso de probenecid se debe evitar en pacientes con da&ntilde;o renal grave. Los aminogluc&oacute;sidos se utilizan actualmente junto con amoxicilina debido a efecto sin&eacute;rgico contra enterococos y estreptococos del grupo B. Sin embargo, por existir
+incompatibilidad qu&iacute;mica, ambos antibi&oacute;ticos no se deben mezclar ni administrar al mismo tiempo. Algunas penicilinas inactivan los antibi&oacute;ticos aminogl&uacute;cosidos cuando se mezclan en la misma infusi&oacute;n intravenosa. Pueden interferir con los efectos bacterianos de
+penicilina: cloranfenicol, macr&oacute;lidos, sulfonamidas y tetraciclinas. Esto ha sido demostrado in vitro; sin embargo, la importancia cl&iacute;nica de esta interacci&oacute;n no esta bien documentada. La neomicina inhibe parcialmente la absorci&oacute;n de amoxicilina. La amoxicilina, a dosis
+altas, puede reducir la eficacia de los anticonceptivos orales que contienen estr&oacute;genos. Se han documentado casos de fracasos anticonceptivos en pacientes tratadas con amoxicilina, aunque se desconoce la naturaleza de esta interacci&oacute;n. Por lo tanto, se recomienda
+advertir a las pacientes que se encuentren bajo tratamiento con anticonceptivos orales de la posibilidad de un fallo anticonceptivo durante el tratamiento con amoxicilina para que tomen medidas pertinentes. El nifedipino parece aumentar la absorci&oacute;n de la amoxicilina
+estimulando el transporte activo del antibi&oacute;tico a trav&eacute;s del epitelio intestinal. Sin embargo, esta interacci&oacute;n factiblemente no tiene ninguna significancia cl&iacute;nica. La bromelina aumenta la absorci&oacute;n de la amoxicilina. Se observ&oacute; que 80 mg de bromelina administrada
+conjuntamente con la amoxicilina aumentaba los niveles plasm&aacute;ticos del antibi&oacute;tico, aunque se desconoce el mecanismo de interacci&oacute;n. Se ha documentado que la bromelina mejora la acci&oacute;n antibacteriana de algunos antibi&oacute;ticos como la penicilina, el cloramfenicol y
+la eritromicina en el tratamiento de infecciones recurrentes y en pacientes que no hab&iacute;an respondido previamente a un tratamiento. Se observ&oacute; que los pacientes respondieron al tratamiento al a&ntilde;adir bromelina 4 veces al d&iacute;a. En algunos casos se prescriben dosis de
+bromelina de 2400 u.d.g. (unidades disolventes de gelatina) PRECAUCIONES Y RELACI&Oacute;N CON EFECTOS DE CARCINOG&Eacute;NESIS, MUTAG&Eacute;NESIS, TERATOG&Eacute;NESIS Y SOBRE LA FERTILIDAD. No se han realizado estudios a largo plazo en animales para evaluar el potencial
+carcinog&eacute;nico. Estudios para detectar potencial mutag&racute;nico de la amoxicilina sola no se han llevado acabo. Todas las penicilinas atraviesan la placenta. No se han hecho estudios bien controlados en humanos para determinar si las penicilinas son teratog&eacute;nicas. Estudios
+en ratones y ratas hasta 10 veces la dosis humana de amoxicilina, no revelan evidencia de da&ntilde;o al feto. Debido a que los estudios de reproducci&oacute;n animal no son siempre predictivos de la respuesta humana, Amobay&reg; debe ser usado en el embarazo solo si su
+requerimiento est&aacute; bien fundamentado. DOSIS Y V&Iacute;A DE ADMINISTRACI&Oacute;N.Amobay&reg; c&aacute;psulas son administradas por v&iacute;a oral con el est&oacute;mago lleno o vac&iacute;o y pueden ser administradas con f&oacute;rmulas l&aacute;cteas, leche, jugos de frutas, vegetales u otras bebidas (240mL). La
+dosis actual para adultos o ni&ntilde;os de &gt;40 kg de peso corporal es de 250-500 mg/kg cada 8 horas de acuerdo a la gravedad de la infecci&oacute;n. Ni&ntilde;os de &lt;40kg de peso corporal de 20-40 mg/kg dividido en 3 dosis (cada 8 horas). Para infecciones graves, la dosificaci&oacute;n
+puede aumentar hasta 90 mg/kg/d&iacute;a. Para dosificaciones dadas por kg, no exceder la dosificaci&oacute;n m&aacute;xima de adultos. Los l&iacute;mites de prescripci&oacute;n usual de adultos son 4.5 gramos al d&iacute;a. La siguiente tabla proporciona informaci&oacute;n sobre la dosificaci&oacute;n para las c&aacute;psulas
+o la suspensi&oacute;n oral para pacientes con funci&oacute;n renal o hep&aacute;tica normal. Las dosificaciones sugeridas pueden ser ajustadas de acuerdo a la indicaci&oacute;n m&eacute;dica o si nueva informaci&oacute;n llegara a estar disponible.
+ </p>
+<div class="cleaner_h20"></div>
+<div class="colum"><center>
+Enfermedad/ severidad</center>
+</div>
+<div class="colum"><center>
+Dosificaci&oacute;n en ni&ntilde;os1</center>
+</div>
+<div class="colum"><center>
+Dosificaci&oacute;n en adultos</center>
+</div>
+<div class="cleaner_h5"></div><br><br>
+<div class="colum">
+Infecciones de o&iacute;dos, nariz y garganta<br>
+Leve a moderado. <br>Severo<br>
+Infecciones del tracto respiratorio bajo<br>
+Infecciones del tracto genitourinario.<br>
+Leve a moderado Severo<br>
+Infecciones de la piel y tejidos blandos<br>
+Leve a moderado<br>
+severo<br>
+Gonorrea aguda no complicada (ano-genital o uretral)<br><br><br>
+Endocarditis infecciosa (profilaxis)<br><br>
+Ulcera duodenal (asociada a Helicobacter pylori)<br><br><br>
+Ulcera p&eacute;ptica (Helicobacter pylori)<br><br>
+Chlamydia. Tratamiento en mujeres embarazadas.<br>
+Enfermedad de Lyme
+</div>
+<div class="colum">
+20mg/kg de peso corporal/q8h<br>
+40 mg/kg de peso corporal/q8h<br>
+Para todos: 40mg/kg de peso corporal/q8h<br><br>
+20mg/kg de peso corporal/q8h<br>
+40mg/kg de peso corporal/q8h<br><br>
+20mg/kg de peso corporal/q8h<br>
+40mg/kg de peso corporal/q8h<br>
+50mg/kg de peso corporal/q8h m&aacute;s 25mg/kg de peso corporal de probenecid simult&aacute;neamente como una sola dosis en ni&ntilde;os pre-p&uacute;beres. Probenecid no se recomienda en ni&ntilde;os menores de 2 a&ntilde;os de edad.<br>
+50 mg/kg 1 hora antes del procedimiento, hasta un m&aacute;ximo de 2g.<br><br>
+La seguridad y eficacia no han sido establecidas para pacientes pedi&aacute;tricos y adolescentes.<br><br> La seguridad y eficacia no han sido establecidas para pacientes pedi&aacute;tricos y adolescentes.<br>
+No aplicable.<br>
+NA2
+</div>
+<div class="colum">
+250 mg q8h &oacute; 500 q12h<br>
+500 mg q8h<br>
+Para todos: 500 mg  q8h<br><br>
+250 mg q8h &oacute; 500 q12h<br>
+500 mg q8h<br>
+250 mg q8h &oacute; 500 q12h<br>
+500 mg q8h<br>
+3 g como &uacute;nica dosis<br><br><br>
+3 g, 1 hora antes del procedimiento, despu&eacute;s 1.5 gramos 6 horas despu&eacute;s de la dosis inicial.Terapia triple: 1000 mg amoxicilina + 500 mg de claritromicina + 30<br>
+mg lanzoprazol q12h por 14 d&iacute;as. Terapia doble: 1000 mg amoxicilina + 30 mg
+lanzoprazol q8h por 14 d&iacute;as. 500 mg q6h o 750 mg q8h<br><br><br> 500mg q8h por 7-10 d&iacute;as.
+250-500 mg q6h o q8h por 3-4 semanas. La duraci&oacute;n de la terapia es de acuerdo
+a la respuesta cl&iacute;nica. Han ocurrido fallas en el tratamiento y un re-tratamiento
+podr&iacute;a ser necesario. a la respuesta cl&iacute;nica. Han ocurrido fallas en el tratamiento y
+un re-tratamiento podr&iacute;a ser necesario
+</div>
+<div class="cleaner_h5"></div>
+
+  
+<p align="justify">	 	
+	
+		  
+1 Neonatos e infantes hasta 3 meses: oral no m&aacute;s de 30mg/kg de peso corporal por d&iacute;a en dosis divididas q12h.<br>
+2 Datos no disponibles.<br>
+q8h= cada 8 horas <br>
+q6h= cada 6 horas<br>
+
+Ajuste en insuficiencia renal. El ajuste de la dosificaci&oacute;n esta hecha de acuerdo a la depuraci&oacute;n de creatinina:</p>
+
+
+
+<div class="colum1 margin_l_70  margin_r_10">&nbsp;
+</div>
+<div class="colum1">
+&gt; 80
+</div>
+<div class="colum1">
+80 - 30
+</div>
+<div class="colum1">
+30 - 10
+</div>
+<div class="colum1">
+&lt; 10 (anuria)
+</div>
+<div class="cleaner_h5"></div>
+
+
+
+<div class="colum1 margin_l_70 margin_r_10">
+250mg/ Intervalo en horas
+</div>
+<div class="colum1">
+6-8
+</div>
+<div class="colum1">
+6-8
+</div>
+<div class="colum1">
+12
+</div>
+<div class="colum1">
+24
+</div>
+<div class="cleaner_h5"></div>
+
+
+
+
+<div class="colum1 margin_l_70 margin_r_10">
+500mg/ Intervalo en horas
+</div>
+<div class="colum1">
+6-8
+</div>
+<div class="colum1">
+6-8
+</div>
+<div class="colum1">
+12
+</div>
+<div class="colum1">
+24
+</div>
+
+
+<div class="colum11">
+Depuraci&oacute;n de creatinina mL/min
+</div>
+
+<div class="cleaner_h5"></div>
+
+<p align="justify">
+ Pacientes en hemodi&aacute;lisis: 500-250 mg q24h dependiendo de la gravedad de la infecci&oacute;n. Una dosis adicional debe ser administrada durante y al final de la di&aacute;lisis. Dosis en pacientes con di&aacute;lisis peritoneal continua ambulatoria (DPCA): 250 mg cada 12 horas.
+SOBREDOSIFICACI&Oacute;N O INGESTA ACCIDENTAL: MANIFESTACIONES Y MANEJO (ANT&Iacute;DOTOS). En caso de una sobre dosis, descontinue Amobay&reg;, trate sintomatol&oacute;gicamente e instituya las medidas de apoyo seg&uacute;n lo requerido. Si la sobredosis es muy reciente y no
+hay contraindicaci&oacute;n, puede provocarse el v&oacute;mito o usar otros medios para remover el f&aacute;rmaco del est&oacute;mago. La nefritis intersticial resultante en falla renal olig&uacute;rica se ha reportado en un n&uacute;mero peque&ntilde;o de pacientes despu&eacute;s de la sobredosis con amoxicilina. La
+administraci&oacute;n de l&iacute;quidos v&iacute;a intravenosa debe ser suficiente para mantener la adecuada diuresis de modo que evite la cristaluria que puede conducir a falla renal en pacientes adultos y pedi&aacute;tricos. La amoxicilina es removida de la circulaci&oacute;n por hemodi&aacute;lisis. La
+insuficiencia renal parece ser reversible con la interrupci&oacute;n en la administraci&oacute;n de amoxicilina. PRESENTACIONES. Amobay&reg; C&aacute;psulas 500: Caja con 15 c&aacute;psulas en envase de burbuja. Amobay&reg; Suspensi&oacute;n 250 y 500 mg: Frasco con polvo para reconstituir 75 mL de
+suspensi&oacute;n y medida dosificadora. Cada 5 mL equivalen a 250 &oacute; 500 mg de amoxicilina y contiene aproximadamente 56% de az&uacute;car. LEYENDAS DE PROTECCI&Oacute;N. Literatura exclusiva para m&eacute;dicos. No se deje al alcance de los ni&ntilde;os. Su venta requiere receta m&eacute;dica.<br>
+El riesgo-beneficio debe ser cuidadosamente evaluado antes de prescribir este f&aacute;rmaco en pacientes embarazadas. No se use despu&eacute;s de su fecha de caducidad. Hecho en M&eacute;xico por: Bayer de M&eacute;xico S. A. de C. V. Miguel de Cervantes Saavedra No. 259 Col. Granada
+C.P. 11520 M&eacute;xico D. F. AMOBAY&reg; C&aacute;psulas Reg. No. 036M2000 SSA AMOBAY&reg; Suspensi&oacute;n Reg. No. 142M2000 SSA
+</p> 
+
+      </td> 
+    <td width="70px" align="center" valign="top" class="menu">  
+      <A onmousedown="larger()" href="javascript:void(0);">Aumentar</A><br> 
+      <br> 
+      <A onmousedown="smaller()" href="javascript:void(0);">Reducir</A></td> 
+  </tr> 
+  <tr>  
+    <td> </td> 
+  </tr> 
+</table>
+
+
+		
+ <div id="forma"><a href="javascript:tooltip()" style="cursor:help"></a></div>
+    <div id="cap" style="display:none"><img src="images/ref1ii.png" /></div>
+    <div id="forma1"><a href="javascript:tooltip1()" style="cursor:help"></a></div>
+    <div id="cap1" style="display:none"><img src="images/ref1ii.png" /></div>
+</div>
+
+
+<div id="forma3"><a href="javascript:tooltip3()" style="cursor:help"></a></div>
+    <div id="cap3" style="display:none"><img src="images/ref4ii.png" /></div>
+</div>
+
+<div id="forma4"><a href="javascript:tooltip4()"><img src="images/btn_abajo.png" border="0" /></a></div>
+    <div id="cap4" style="display:none; left:0px; height:52px;">
+    <div id="footer">
+ 		<div class="footer1">
+    		<div class="footerimg" >
+				<a href="javascript:history.back()"><img border="0" src="images/bayron.jpg" /></a> 
+            </div>
+			
+   		</div>
+   <div class="footer2">
+ 		<div class="footerimg1 margin_l_5">
+        	<a href="javascript:void(0)" onClick="window.close()"><img src="images/btn_close.png" border="0"></a>
+        </div>
+        <div class="footerimg3 margin_r_30 margin_l_5">
+        	<a href="../menu.html"><img src="images/home.jpg" border="0"></a>
+         </div>
+         <div class="footerimg3 margin_l_5">
+        	<a href="javascript:document.location.reload();"><img src="images/ree.jpg" border="0"></a>
+         </div>
+
+        
+          
+	</div>
+	</div>
+    </div>
+</div>
+
+<script>
+	//referencia1
+	function tooltip(){
+		var verEstado  = $("#cap").css('opacity');
+		var verEstado1  = $("#cap1").css('opacity');
+		var verEstado2  = $("#cap2").css('opacity');
+		var verEstado3  = $("#cap3").css('opacity');
+		
+		if(verEstado==0){
+			$("#cap").stop().animate({height:'137px',opacity:1},{queue:false, duration:800});
+		}else{
+			$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado1!=0){
+			$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado2!=0){
+			$("#cap2").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado3!=0){
+			$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+
+	}
+	$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:0});
+	document.getElementById('cap').style.display="";
+	document.getElementById("cap").style.marginTop = "55px";
+	document.getElementById("cap").style.marginLeft = "460px";
+	document.getElementById("cap").style.position = "absolute";
+	estilo=document.getElementById("cap").style.zIndex+1000
+	document.getElementById("cap").style.zIndex=estilo;
+	//fin referencia1
+	
+	//referencia2
+	function tooltip1(){
+		var verEstado  = $("#cap1").css('opacity');
+		var verEstado1  = $("#cap").css('opacity');
+		var verEstado2  = $("#cap2").css('opacity');
+		var verEstado3  = $("#cap3").css('opacity');
+		
+		if(verEstado==0){
+			$("#cap1").stop().animate({height:'137px',opacity:1},{queue:false, duration:800});
+		}else{
+			$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado1!=0){
+			$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado2!=0){
+			$("#cap2").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado3!=0){
+			$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+	}
+	$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:0});
+	document.getElementById('cap1').style.display="";
+	document.getElementById("cap1").style.marginTop = "194px";
+	document.getElementById("cap1").style.marginLeft = "495px";
+	document.getElementById("cap1").style.position = "absolute";
+	estilo=document.getElementById("cap1").style.zIndex+1000
+	document.getElementById("cap1").style.zIndex=estilo;
+	//fin referencia2
+	
+	
+	//referencia 4
+	function tooltip3(){
+		var verEstado  = $("#cap3").css('opacity');
+		var verEstado1  = $("#cap").css('opacity');
+		var verEstado2  = $("#cap1").css('opacity');
+		var verEstado3  = $("#cap2").css('opacity');
+		
+		if(verEstado==0){
+			$("#cap3").stop().animate({height:'137px',opacity:1},{queue:false, duration:800});
+		}else{
+			$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado1!=0){
+			$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado2!=0){
+			$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado3!=0){
+			$("#cap2").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+	}
+	$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:0});
+	document.getElementById('cap3').style.display="";
+	document.getElementById("cap3").style.marginTop = "335px";
+	document.getElementById("cap3").style.marginLeft = "475px";
+	document.getElementById("cap3").style.position = "absolute";
+	estilo=document.getElementById("cap3").style.zIndex+903
+	document.getElementById("cap3").style.zIndex=estilo;
+	//fin referencia4
+	
+	function tooltip4(){
+		var verEstado  = $("#cap4").css('opacity');
+		
+		
+		if(verEstado==0){
+			$("#cap4").stop().animate({height:'52px',opacity:1},{queue:false, duration:400});
+		}else{
+			$("#cap4").stop().animate({height:'0px',opacity:0},{queue:false, duration:400});
+		}
+		
+
+	}
+	$("#cap4").stop().animate({height:'52px',opacity:1},{queue:false, duration:0});
+	document.getElementById('cap4').style.display="";
+	document.getElementById("cap4").style.marginTop = "704px";
+	document.getElementById("cap4").style.marginLeft = "0px";
+	document.getElementById("cap4").style.position = "absolute";
+	estilo=document.getElementById("cap4").style.zIndex+903
+	document.getElementById("cap4").style.zIndex=estilo;
+</script>
+<div class="cleaner_h5"></div>
+</div> 
+</body> 
+</html>

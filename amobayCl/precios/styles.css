@@ -1,0 +1,94 @@
+#stage{
+	overflow: hidden !important;
+	position: absolute;
+	top: 705px;
+	background-color: transparent !important;
+}
+div{
+	margin: 0px;
+	padding: 0px;
+}
+.unanube{
+	position: absolute;
+	left: 825px;
+}
+.dosnubes{
+	position: absolute;
+	left: 685px;
+
+}
+#capaHelp {
+					display:none;
+					background:url(images/toolrefe5left.png) no-repeat top left;
+					width:222px;
+					padding:20px 10px 0 20px;
+					height:192px;
+					color:#000;
+					font-weight:bold;
+					top:-204px;
+					left: 490px;
+					position:absolute;
+					z-index:101;
+					
+				}
+				a{
+					color: #000;
+					font-size: 12px;
+					font: arial;
+					text-decoration: none;
+				}
+				#capaHelp2 {
+					display:none;
+					background:url(images/toolrefe5left.png) no-repeat top left;
+					width:222px;
+					padding:20px 10px 0 20px;
+					height:192px;
+					color:#000;
+					font-weight:bold;
+					top:-124px;
+					left: 616px;
+					position:absolute;
+					z-index:1000;
+				}
+				#capaHelp3 {
+					display:none;
+					background:url(images/toolrefe2.png) no-repeat top left;
+					width:222px;
+					padding:20px 10px 0 20px;
+					height:192px;
+					color:#000;
+					font-weight:bold;
+					top:62px;
+					left: 230px;
+					position:absolute;
+					z-index:1000;
+				}
+				#capaContenido {
+					padding:2px 25px 0 0;
+					float:left;
+					font-size:12px;
+					color:#FFF;
+					font-weight:bold;
+					position:absolute;
+				}
+				#icoHelp {
+					cursor:pointer;
+					position: absolute;
+					left: 484px;
+					top: 14px;
+					z-index: 800;
+				}
+				#icoHelp2 {
+					cursor:pointer;
+					position: absolute;
+					left: 610px;
+					top: 32px;
+					z-index: 1800;
+				}
+				#icoHelp3 {
+					cursor:pointer;
+					position: absolute;
+					left: 241px;
+					top: 200px;
+					z-index: 1800;
+				}

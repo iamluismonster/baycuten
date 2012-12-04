@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Amobay</title>
+<!--Adobe Edge Runtime-->
+	<link href="inicio.css" type="text/css" rel="stylesheet"></link>
+    <script type="text/javascript" src="jquery-1.4.2.js"></script>
+    <script type="text/javascript" src="inicio.js"></script>
+
+    <script type="text/javascript" src="edge_includes/jquery-1.6.2.min.js"></script>
+    <script type="text/javascript" src="edge_includes/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="edge_includes/edge.0.1.3.min.js"></script>
+    <script type="text/javascript" src="edge_includes/edge.symbol.0.1.3.min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="menu_edge.js"></script>
+    <script type="text/javascript" charset="utf-8" src="menu_edgeActions.js"></script>
+    <link rel="stylesheet" href="menu_edge.css" />
+	
+	<link rel="stylesheet" href="styles.css" />
+	
+	
+	<link href="amoBay.css" type="text/css" rel="stylesheet"></link>
+    
+    <script type="text/javascript" src="amoBay.js"></script>
+	
+<!--Adobe Edge Runtime End-->
+
+</head><body style="margin:0;padding:0;">
+	<div class="unanube">
+		<a href="beneficios/index.html"><img class="siguiente" src="images/next.png" border="0px"/></a>
+		
+	</div>
+	<div class="wlby_movie">
+      <img src="amoBay_assets/fondo.png" height="768px" width="1024px" class="wlby_1"></img>
+      <img src="amoBay_assets/amobaylogotipo.png" height="768px" width="1024px" class="wlby_1"></img>
+      <div class="wlby_2">
+        <!-- Start of symbol: textogrupo -->
+        <div class="wlby_3">
+          <!-- Start of symbol: text01 -->
+          <img src="amoBay_assets/text01.png" height="768px" width="1024px" class="wlby_1"></img>
+          <!-- End of symbol: text01 -->
+        </div>
+        <!-- End of symbol: textogrupo -->
+      </div>
+      <div class="wlby_4">
+        <!-- Start of symbol: feriagrupo -->
+        <div class="wlby_5">
+          <!-- Start of symbol: feriaentrada -->
+          <img src="amoBay_assets/svgblock_0.svg" class="wlby_6"></img>
+          <div class="wlby_7">
+            <!-- Start of symbol: juegos -->
+            <div class="wlby_8">
+              <!-- Start of symbol: rueda -->
+              <img src="amoBay_assets/svgblock_1.svg" class="wlby_9"></img>
+              <!-- End of symbol: rueda -->
+            </div>
+            <div class="wlby_10 wlby_sprite">
+              <img src="amoBay_assets/svgblock_2.svg" class="wlby_31 wlby_fs"></img>
+              <img src="amoBay_assets/svgblock_3.svg" class="wlby_32 wlby_fs"></img>
+              <img src="amoBay_assets/svgblock_4.svg" class="wlby_32 wlby_fs"></img>
+              <img src="amoBay_assets/svgblock_3.svg" class="wlby_32 wlby_fs"></img>
+              <img src="amoBay_assets/svgblock_4.svg" class="wlby_32 wlby_fs"></img>
+              <img src="amoBay_assets/svgblock_4.svg" class="wlby_32 wlby_fs"></img>
+              <img src="amoBay_assets/svgblock_3.svg" class="wlby_32 wlby_fs"></img>
+              <img src="amoBay_assets/svgblock_4.svg" class="wlby_32 wlby_fs"></img>
+              <img src="amoBay_assets/svgblock_4.svg" class="wlby_33"></img>
+            </div>
+            <div class="wlby_15">
+              <!-- Start of symbol: canastilla01 -->
+              <img src="amoBay_assets/svgblock_5.svg" class="wlby_16"></img>
+              <!-- End of symbol: canastilla01 -->
+            </div>
+            <div class="wlby_17">
+              <!-- Start of symbol: canastilla02 -->
+              <img src="amoBay_assets/svgblock_6.svg" class="wlby_18"></img>
+              <!-- End of symbol: canastilla02 -->
+            </div>
+            <div class="wlby_19">
+              <!-- Start of symbol: canastilla03 -->
+              <img src="amoBay_assets/svgblock_7.svg" class="wlby_18"></img>
+              <!-- End of symbol: canastilla03 -->
+            </div>
+            <div class="wlby_20">
+              <!-- Start of symbol: cabastilla04 -->
+              <img src="amoBay_assets/svgblock_8.svg" class="wlby_18"></img>
+              <!-- End of symbol: cabastilla04 -->
+            </div>
+            <div class="wlby_21">
+              <!-- Start of symbol: canastilla05 -->
+              <img src="amoBay_assets/svgblock_9.svg" class="wlby_18"></img>
+              <!-- End of symbol: canastilla05 -->
+            </div>
+            <div class="wlby_22">
+              <!-- Start of symbol: canastilla06 -->
+              <img src="amoBay_assets/svgblock_10.svg" class="wlby_18"></img>
+              <!-- End of symbol: canastilla06 -->
+            </div>
+            <div class="wlby_23">
+              <!-- Start of symbol: canastilla07 -->
+              <img src="amoBay_assets/svgblock_11.svg" class="wlby_18"></img>
+              <!-- End of symbol: canastilla07 -->
+            </div>
+            <div class="wlby_24">
+              <!-- Start of symbol: canastilla08 -->
+              <img src="amoBay_assets/svgblock_12.svg" class="wlby_18"></img>
+              <!-- End of symbol: canastilla08 -->
+            </div>
+            <!-- End of symbol: juegos -->
+          </div>
+          <img src="amoBay_assets/svgblock_13.svg" class="wlby_25"></img>
+          <div class="wlby_26">
+            <!-- Start of symbol: tren -->
+            <div class="wlby_27">
+              <!-- Start of symbol: Tween 1 -->
+              <img src="amoBay_assets/svgblock_14.svg" class="wlby_28"></img>
+              <!-- End of symbol: Tween 1 -->
+            </div>
+            <!-- End of symbol: tren -->
+          </div>
+          <!-- End of symbol: feriaentrada -->
+        </div>
+        <!-- End of symbol: feriagrupo -->
+      </div>
+      <div class="wlby_29">
+        <!-- Start of symbol: taquillasub -->
+        <div class="wlby_30">
+          <!-- Start of symbol: taquilla -->
+          <img src="amoBay_assets/taquilla.png" height="768px" width="1024px" class="wlby_1"></img>
+          <!-- End of symbol: taquilla -->
+        </div>
+        <!-- End of symbol: taquillasub -->
+      </div>
+    </div>
+	
+	
+	<div id="stage" class="EDGE-14899433">
+	</div>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' width='38px' height='27px' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+	<defs>
+		<radialGradient id="grad0" gradientUnits="userSpaceOnUse" cx="0.0" cy="0.0" r=".5" gradientTransform="matrix(373.5 0 0 -389.55 25.15 -82.7)">
+		<stop offset="0%" stop-color="#FFFFFF"/>
+		<stop offset="41.9608%" stop-color="#FFE691"/>
+		<stop offset="100%" stop-color="#9D846F"/>
+		</radialGradient>
+		<linearGradient id="grad1" gradientUnits="userSpaceOnUse" x1="19.15" y1="-4.1125" x2="19.15" y2="110.812">
+		<stop offset="0%" stop-color="#FF5521"/>
+		<stop offset="49.8039%" stop-color="#BC000A"/>
+		<stop offset="100%" stop-color="#650003"/>
+		</linearGradient>
+	</defs>
+	<g transform="translate(18.85,13.4)">
+		<path d="M 0 0 L 37.75 0 L 32.15 26.8 L 6.7 26.3 Z" transform="translate(-18.85,-13.4)" fill="url(#grad0)"/>
+		<path d="M 2.85 11.2 L 35.45 11.2 L 33.5 20.5 L 5.2 20.5 Z" transform="translate(-18.85,-13.4)" fill="url(#grad1)"/>
+	</g>
+</svg>

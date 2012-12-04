@@ -1,0 +1,192 @@
+#stage{
+	overflow: hidden !important;
+	position: absolute;
+	top: 705px;
+}
+div{
+	margin: 0px;
+	padding: 0px;
+}
+.unanube{
+	position: absolute;
+	left: 825px;
+}
+.dosnubes{
+	position: absolute;
+	left: 685px;
+	z-index: 100;
+}
+.mascara{
+	position: absolute;
+	width: 1024px;
+	height: 702px;
+	top:0px;
+	left: 0px;
+	z-index: 15;
+	background: transparent;
+}
+ p{
+	color: #0069aa;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 33px;
+}
+.grupouno{
+	position: absolute;
+	left: 132px;
+	top: 207px;
+}
+.grupodos{
+	position: absolute;
+	left: 626px;
+	top: 127px;
+}
+.puntitos{
+	width: 24px;
+	margin-right: 10px;
+	float: left;
+	margin-top: 5px;
+}
+.puntitos img{
+	margin-bottom: 45px;
+}
+.puntitosdos{
+	width: 24px;
+	margin-right: 10px;
+	float: left;
+	margin-top: 5px;
+}
+.puntitosdos img{
+	margin-bottom: 45px;
+}
+.texto{
+	float: left;
+	width: 340px;
+	margin-left:15px;
+}
+.textosdos{
+	margin-bottom: 51px;
+}
+
+				#capaHelp {
+					display:none;
+					background:url(images/toolrefe12.png) no-repeat top left;
+					width:225px;
+					padding:20px 10px 0 20px;
+					height:117px;
+					color:#000;
+					font-weight:bold;
+					top:-129px;
+					left: -85px;
+					position:absolute;
+					z-index:10100;
+					font-size: 12px;
+					font-family: arial;
+					font-weight: bold;
+				}
+				a{
+					color: #000;
+					font-size: 12px;
+					font: arial;
+					text-decoration: none;
+				}
+				#capaHelp2 {
+					display:none;
+					background:url(images/toolrefe13.png) no-repeat top left;
+					width:130px;
+					padding:20px 10px 0 20px;
+					height:75px;
+					color:#000;
+					font-weight:bold;
+					top:-88px;
+					left: 165px;
+					position:absolute;
+					z-index:1000;
+					font-size: 12px;
+					font-family: arial;
+					font-weight: bold;
+				}
+				#capaHelp3 {
+					display:none;
+					background:url(images/toolrefe12.png) no-repeat top left;
+					width:225px;
+					padding:20px 10px 0 20px;
+					height:117px;
+					color:#000;
+					font-weight:bold;
+					top:-69px;
+					left: 62px;
+					position:absolute;
+					z-index:10100;
+					font-size: 12px;
+					font-family: arial;
+					font-weight: bold;
+				}
+				#capaHelp4 {
+					display:none;
+					background:url(images/toolrefe12down.png) no-repeat top left;
+					width:225px;
+					padding:32px 10px 0 20px;
+					height:107px;
+					color:#000;
+					font-weight:bold;
+					top:33px;
+					left: 116px;
+					position:absolute;
+					z-index:10100;
+					font-size: 12px;
+					font-family: arial;
+					font-weight: bold;
+				}
+				#capaHelp5 {
+					display:none;
+					background:url(images/toolrefe13down.png) no-repeat top left;
+					width:130px;
+					padding:33px 10px 0 20px;
+					height:62px;
+					color:#000;
+					font-weight:bold;
+					top:103px;
+					left: 175px;
+					position:absolute;
+					z-index:1000;
+					font-size: 12px;
+					font-family: arial;
+					font-weight: bold;
+				}
+				#icoHelp {
+					cursor:pointer;
+					position: absolute;
+					left: 118px;
+					top: 23px;
+					z-index: 800;
+				}
+				#icoHelp2 {
+					cursor:pointer;
+					position: absolute;
+					left: 168px;
+					top: 23px;
+					z-index: 1800;
+				}
+				#icoHelp3 {
+					cursor:pointer;
+					position: absolute;
+					left: 290px;
+					top: 82px;
+					z-index: 1800;
+				}
+				#icoHelp4 {
+					cursor:pointer;
+					position: absolute;
+					left: 338px;
+					top: 1px;
+					z-index: 1800;
+				}
+				#icoHelp5 {
+					cursor:pointer;
+					position: absolute;
+					left: 310px;
+					top: 80px;
+					z-index: 1800;
+				}

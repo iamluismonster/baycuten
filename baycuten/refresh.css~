@@ -1,0 +1,22 @@
+#forma a
+{
+	left:786px;
+	top:740px;
+	position:absolute;
+	z-index:1000;
+	height:22px;
+	width: 111px;
+	
+}
+
+#refresh a
+{
+	left:907px;
+	top:740px;
+	position:absolute;
+	z-index:1000;
+	height:22px;
+	width:36px;
+	border: 1px solid #000;
+	
+}

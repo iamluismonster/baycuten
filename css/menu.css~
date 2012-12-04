@@ -1,0 +1,97 @@
+.boleto
+{
+    background: url(img/boleto.png) no-repeat;
+    width: 828px;
+    height: 452px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+	z-index:10002;
+}
+/*Columnas*/
+.col1
+{
+    position: absolute;
+    top: 190px;
+    left: 98px;
+    width: 175px;
+	z-index:10001;
+}
+.col2
+{
+    position: absolute;
+    top: 163px;
+    left: 282px;
+    width: 215px;
+	z-index:10001;
+}
+.col3
+{
+    position: absolute;
+    top: 110px;
+    left: 504px;
+	z-index:10001;
+}
+/*Logos*/
+.amobay a
+{
+    background: url(img/amobay.png) no-repeat;
+    display: block;
+    width: 169px;
+    height: 74px;
+	z-index:10001;
+	
+}
+.amobayCl a
+{
+    background: url(img/amobayCl.png) no-repeat;
+    display: block;
+    width: 174px;
+    height: 74px;
+	
+}
+.axol a
+{
+    background: url(img/axol.png) no-repeat;
+    display: block;
+    width: 147px;
+    height: 62px;
+}
+.axolDuo a
+{
+    background: url(img/axolduo.png) no-repeat;
+    display: block;
+    width: 212px;
+    height: 80px;
+}
+.actron a
+{
+    background: url(img/actron.png) no-repeat;
+    display: block;
+    width: 194px;
+    height: 75px;
+margin-top:-10px;
+}
+.optocef a
+{
+    background: url(img/octocef.png) no-repeat;
+    display: block;
+    width: 224px;
+    height: 89px;
+}
+
+
+
+
+.baycuten a
+{
+    background: url(img/baycuten.png) no-repeat;
+    display: block;
+    width: 200px;
+    height: 63px;
+ top: 400px;
+    left: 600px;
+position: absolute;
+z-index:10005;
+
+}

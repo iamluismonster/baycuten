@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Axol</title>
+<!--Adobe Edge Runtime-->
+	<link href="inicio.css" type="text/css" rel="stylesheet"></link>
+    <script type="text/javascript" src="jquery-1.4.2.js"></script>
+    <script type="text/javascript" src="inicio.js"></script>
+
+    <script type="text/javascript" src="edge_includes/jquery-1.6.2.min.js"></script>
+    <script type="text/javascript" src="edge_includes/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="edge_includes/edge.0.1.3.min.js"></script>
+    <script type="text/javascript" src="edge_includes/edge.symbol.0.1.3.min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="menu_edge.js"></script>
+    <script type="text/javascript" charset="utf-8" src="menu_edgeActions.js"></script>
+    <link rel="stylesheet" href="menu_edge.css" />
+	
+	<link rel="stylesheet" href="styles.css" />
+	
+	
+<!--Adobe Edge Runtime End-->
+
+</head><body style="margin:0;padding:0;">
+	<div class="unanube">
+		<a href="beneficios/index.html"><img class="siguiente" src="images/next.png" border="0px"/></a>
+		
+	</div>
+	<div class="wlby_movie">
+      <div class="wlby_1">
+        <!-- Start of symbol: BG -->
+        <img src="inicio_assets/Fondo.png" height="768px" width="1024px" class="wlby_2"></img>
+        <!-- End of symbol: BG -->
+      </div>
+	  
+      <div class="wlby_graphic">
+        <img src="inicio_assets/01.png" height="768px" width="1024px" class="wlby_5 wlby_fs"></img>
+        <img src="inicio_assets/02.png" height="768px" width="1024px" class="wlby_6 wlby_fs"></img>
+        <img src="inicio_assets/03.png" height="768px" width="1024px" class="wlby_6 wlby_fs"></img>
+        <img src="inicio_assets/04.png" height="768px" width="1024px" class="wlby_6 wlby_fs"></img>
+        <img src="inicio_assets/05.png" height="768px" width="1024px" class="wlby_6 wlby_fs"></img>
+        <img src="inicio_assets/06.png" height="768px" width="1024px" class="wlby_6 wlby_fs"></img>
+        <img src="inicio_assets/07.png" height="768px" width="1024px" class="wlby_6"></img>
+      </div>
+      <div class="wlby_1">
+        <!-- Start of symbol: logo -->
+        <img src="inicio_assets/logo.png" height="768px" width="1024px" class="wlby_2"></img>
+        <!-- End of symbol: logo -->
+      </div>
+    </div>
+	
+	
+	<div id="stage" class="EDGE-14899433">
+	</div>
+</body>
+</html>

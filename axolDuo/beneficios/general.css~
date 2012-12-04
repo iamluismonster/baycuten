@@ -1,0 +1,329 @@
+
+#popupContact{
+display:none;
+
+position:absolute; /* hack for internet explorer 6*/
+height:150px;
+width:150px;
+z-index:1004;
+
+font-size:13px;
+
+}
+
+#popupContactClose{
+font-size:14px;
+line-height:14px;
+right:6px;
+top:4px;
+position:absolute;
+
+font-weight:700;
+display:block;
+}
+
+#button{
+left:890px;
+	top:115px;
+	position:absolute;
+	z-index:1500;
+	width:42px;
+	height:42px;
+
+
+}
+
+
+
+blockquote:before, blockquote:after, q:before, q:after {
+content:"";
+}
+blockquote, q {
+quotes:"" "";
+}
+a{
+cursor: pointer;
+text-decoration:none;
+}
+br.both{
+clear:both;
+}
+#backgroundPopup{
+display:none;
+position:fixed;
+position:absolute; /* hack for internet explorer 6*/
+height:100%;
+width:100%;
+top:0;
+left:0;
+
+z-index:1005;
+}
+
+
+/*----------------------------------------*/
+
+
+
+#popupContact1{
+display:none;
+
+position:absolute; /* hack for internet explorer 6*/
+height:150px;
+width:150px;
+z-index:1004;
+padding:12px;
+font-size:13px;
+
+}
+
+#popupContactClose1{
+font-size:14px;
+line-height:14px;
+right:6px;
+top:4px;
+position:absolute;
+
+font-weight:700;
+display:block;
+}
+
+#button1{
+left:465px;
+	top:315px;
+	position:absolute;
+	z-index:1500;
+	width:42px;
+	height:42px;
+
+
+}
+
+
+
+blockquote:before, blockquote:after, q:before, q:after {
+content:"";
+}
+blockquote, q {
+quotes:"" "";
+}
+a{
+cursor: pointer;
+text-decoration:none;
+}
+br.both{
+clear:both;
+}
+#backgroundPopup1{
+display:none;
+position:fixed;
+position:absolute; /* hack for internet explorer 6*/
+height:100%;
+width:100%;
+top:0;
+left:0;
+
+z-index:1005;
+}
+
+
+/*-----------------------------------------*/
+
+
+
+#popupContact2{
+display:none;
+
+position:absolute; /* hack for internet explorer 6*/
+height:150px;
+width:150px;
+z-index:1004;
+padding:12px;
+font-size:13px;
+
+}
+
+#popupContactClose2{
+font-size:14px;
+line-height:14px;
+right:6px;
+top:4px;
+position:absolute;
+
+font-weight:700;
+display:block;
+}
+
+#button2{
+left:420px;
+	top:420px;
+	position:absolute;
+	z-index:1500;
+	width:42px;
+	height:42px;
+
+
+}
+
+
+
+blockquote:before, blockquote:after, q:before, q:after {
+content:"";
+}
+blockquote, q {
+quotes:"" "";
+}
+a{
+cursor: pointer;
+text-decoration:none;
+}
+br.both{
+clear:both;
+}
+#backgroundPopup2{
+display:none;
+position:fixed;
+position:absolute; /* hack for internet explorer 6*/
+height:100%;
+width:100%;
+top:0;
+left:0;
+
+z-index:1005;
+}
+
+
+/*-----------------------------------------*/
+
+
+
+#popupContact3{
+display:none;
+
+position:absolute; /* hack for internet explorer 6*/
+height:150px;
+width:150px;
+z-index:1004;
+padding:12px;
+font-size:13px;
+
+}
+
+#popupContactClose3{
+font-size:14px;
+line-height:14px;
+right:6px;
+top:4px;
+position:absolute;
+
+font-weight:700;
+display:block;
+}
+
+#button3{
+left:800px;
+	top:145px;
+	position:absolute;
+	z-index:1500;
+	width:42px;
+	height:42px;
+border:5px solid #EE0EE0;
+
+}
+
+
+
+blockquote:before, blockquote:after, q:before, q:after {
+content:"";
+}
+blockquote, q {
+quotes:"" "";
+}
+a{
+cursor: pointer;
+text-decoration:none;
+}
+br.both{
+clear:both;
+}
+#backgroundPopup3{
+display:none;
+position:fixed;
+position:absolute; /* hack for internet explorer 6*/
+height:100%;
+width:100%;
+top:0;
+left:0;
+
+z-index:1005;
+}
+
+
+
+/*-----------------------------------------*/
+
+
+
+#popupContact4{
+display:none;
+
+position:absolute; /* hack for internet explorer 6*/
+height:150px;
+width:150px;
+z-index:1004;
+padding:12px;
+font-size:13px;
+
+}
+
+#popupContactClose4{
+font-size:14px;
+line-height:14px;
+right:6px;
+top:4px;
+position:absolute;
+
+font-weight:700;
+display:block;
+}
+
+#button4{
+left:965px;
+	top:295px;
+	position:absolute;
+	z-index:1500;
+	width:42px;
+	height:42px;
+border:1px solid #4f065B;
+
+}
+
+
+
+blockquote:before, blockquote:after, q:before, q:after {
+content:"";
+}
+blockquote, q {
+quotes:"" "";
+}
+a{
+cursor: pointer;
+text-decoration:none;
+}
+br.both{
+clear:both;
+}
+#backgroundPopup4{
+display:none;
+position:fixed;
+position:absolute; /* hack for internet explorer 6*/
+height:100%;
+width:100%;
+top:0;
+left:0;
+
+z-index:1005;
+}
+
+
+

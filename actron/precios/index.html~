@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Precios</title>
+<!--Adobe Edge Runtime-->
+     <script type="text/javascript" src="edge_includes/jquery-1.6.2.min.js"></script>
+    <script type="text/javascript" src="edge_includes/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="edge_includes/edge.0.1.3.min.js"></script>
+    <script type="text/javascript" src="edge_includes/edge.symbol.0.1.3.min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="menu_edge.js"></script>
+    <script type="text/javascript" charset="utf-8" src="menu_edgeActions.js"></script>
+    <link rel="stylesheet" href="menu_edge.css" />
+	<link rel="stylesheet" href="styles.css" />
+<!--Adobe Edge Runtime End-->
+ <link href="precios.css" type="text/css" rel="stylesheet"></link>
+    
+    <script type="text/javascript" src="precios.js"></script>
+</head><body style="margin:0;padding:0;">
+	
+	<div class="wlby_movie">
+      <div class="wlby_graphic">
+        <img src="precios_assets/fondo.jpg" height="768px" width="1024px" class="wlby_22"></img>
+      </div>
+      <div class="wlby_3 precios_mc">
+        <!-- Start of symbol: precios -->
+        <img src="precios_assets/precios.png" height="60px" width="341px" class="wlby_2"></img>
+        <!-- End of symbol: precios -->
+      </div>
+      <div class="wlby_graphic">
+        <div class="wlby_21 wlby_fs"></div>
+        <div class="wlby_5 wlby_fs payasoblur_mc">
+          <!-- Start of symbol: payaso blur -->
+          <img src="precios_assets/payasito_blur.png" height="547px" width="413px" class="wlby_2"></img>
+          <!-- End of symbol: payaso blur -->
+        </div>
+        <img src="precios_assets/payasito.png" height="547px" width="413px" class="wlby_23"></img>
+      </div>
+      <div class="wlby_graphic">
+        <div class="wlby_9 wlby_fs"></div>
+        <div class="wlby_10">
+          <div class="wlby_11 bolitas_mc">
+            <!-- Start of symbol: bolitas -->
+            <div class="wlby_12 wlby_sprite">
+              <div class="wlby_13 wlby_fs azul1_mc">
+                <!-- Start of symbol: bolaazul1 -->
+                <img src="precios_assets/bola_azul1.png" height="66px" width="73px" class="wlby_2"></img>
+                <!-- End of symbol: bolaazul1 -->
+              </div>
+            </div>
+            <div class="wlby_12 wlby_sprite">
+              <div class="wlby_14 wlby_fs"></div>
+              <div class="wlby_15 wlby_fs amarilla_mc">
+                <!-- Start of symbol: bolamarilla -->
+                <img src="precios_assets/bola_amarilla.png" height="66px" width="73px" class="wlby_2"></img>
+                <!-- End of symbol: bolamarilla -->
+              </div>
+            </div>
+            <div class="wlby_12 wlby_sprite">
+              <div class="wlby_16 wlby_fs"></div>
+              <div class="wlby_17 wlby_fs rosa_mc">
+                <!-- Start of symbol: bolarosa -->
+                <img src="precios_assets/bola_rosa.png" height="66px" width="73px" class="wlby_2"></img>
+                <!-- End of symbol: bolarosa -->
+              </div>
+            </div>
+            <div class="wlby_12 wlby_sprite">
+              <div class="wlby_18 wlby_fs"></div>
+              <div class="wlby_19 verde_mc">
+                <!-- Start of symbol: bolaverde -->
+                <img src="precios_assets/bola_verde.png" height="66px" width="73px" class="wlby_2"></img>
+                <!-- End of symbol: bolaverde -->
+              </div>
+            </div>
+            <!-- End of symbol: bolitas -->
+          </div>
+        </div>
+      </div>
+      <div class="wlby_20">
+        <!-- Start of symbol: precios2 -->
+        <img src="precios_assets/lista_precios.png" height="550px" width="508px" class="wlby_2"></img>
+        <!-- End of symbol: precios2 -->
+      </div>
+    </div>
+	<!-- back and next --->
+	<div class="unanube">
+		<a href="../presentaciones/index.html"><img class="anterior" src="../images/back.png" border="0px"/></a>
+		
+	</div>
+	
+	<div id="stage" class="EDGE-14899433">
+	</div>
+</body>
+</html>

@@ -1,0 +1,21 @@
+#stage{
+	overflow: hidden !important;
+	position: absolute;
+	top: 705px;
+	background-color: transparent !important;
+}
+div{
+	margin: 0px;
+	padding: 0px;
+}
+.unanube{
+	position: absolute;
+	left: 825px;
+	z-index: 30;
+}
+.dosnubes{
+	position: absolute;
+	left: 685px;
+	z-index: 30;
+
+}

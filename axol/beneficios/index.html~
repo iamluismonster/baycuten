@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Beneficios</title>
+<!--Adobe Edge Runtime-->
+     <script type="text/javascript" src="edge_includes/jquery-1.6.2.min.js"></script>
+    <script type="text/javascript" src="edge_includes/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="edge_includes/edge.0.1.3.min.js"></script>
+    <script type="text/javascript" src="edge_includes/edge.symbol.0.1.3.min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="menu_edge.js"></script>
+    <script type="text/javascript" charset="utf-8" src="menu_edgeActions.js"></script>
+    <link rel="stylesheet" href="menu_edge.css" />
+	<link rel="stylesheet" href="styles.css" />
+<!--Adobe Edge Runtime End-->
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta names="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+		<script type="text/javascript">
+  document.ontouchmove = function(e){
+             e.preventDefault();
+}
+function doTouchMove(state) {
+    document.ontouchmove = function(e){
+      return state;
+    }
+}
+</script>
+<script src="popup.js" type="text/javascript"></script>
+<link rel="stylesheet" href="general.css" type="text/css" media="screen" />
+ <link href="Beneficios.css" type="text/css" rel="stylesheet"></link>
+    
+    <script type="text/javascript" src="Beneficios.js"></script>
+	
+	
+	
+</head><body style="margin:0;padding:0;">
+	<img src="images/texto1.png" class="texto1"/>
+	
+
+	
+	<img src="images/texto2.png" class="texto2"/>
+	
+			
+	<img src="images/texto3.png" class="texto3"/>
+	
+			
+ <div class="dosnubes">
+		<a href="../index.html"><img class="anterior" src="../images/back.png" border="0px"/></a>
+		<a href="../presentaciones/index.html"><img class="siguiente" src="../images/next.png" border="0px"/></a>
+		
+	</div>
+
+
+<!-----tooltip------->
+
+<div id="button"></div>
+	
+	<div id="popupContact">
+		
+		<p id="contactArea">
+			<img src="images/05.png">
+       
+		</p>
+	</div>
+	<div id="backgroundPopup"></div>
+
+<!-----tooltip1------->
+
+<div id="button1"></div>
+	
+	<div id="popupContact1">
+		
+		<p id="contactArea1">
+			<img src="images/06.png">
+       
+		</p>
+	</div>
+	<div id="backgroundPopup1"></div>
+
+
+<!-----tooltip2------->
+
+<div id="button2"></div>
+	
+	<div id="popupContact2">
+		
+		<p id="contactArea2">
+			<img src="images/06.png">
+       
+		</p>
+	</div>
+	<div id="backgroundPopup2"></div>
+
+
+<!-----tooltip3------->
+
+<div id="button3"></div>
+	
+	<div id="popupContact3">
+		
+		<p id="contactArea3">
+			<img src="images/05.png">
+       
+		</p>
+	</div>
+	<div id="backgroundPopup3"></div>
+
+
+<!-----tooltip4------->
+
+<div id="button4"></div>
+	
+	<div id="popupContact4">
+		
+		<p id="contactArea4">
+			3d
+       
+		</p>
+	</div>
+	<div id="backgroundPopup4"></div>
+
+
+
+
+
+
+
+ <div class="wlby_movie">
+      <div class="wlby_1">
+        <!-- Start of symbol: pasto -->
+        <img src="Beneficios_assets/Fondo.png" height="768px" width="1024px" class="wlby_2"></img>
+        <!-- End of symbol: pasto -->
+      </div>
+      <div class="wlby_1">
+        <!-- Start of symbol: logo -->
+        <img src="Beneficios_assets/logo.png" height="768px" width="1024px" class="wlby_2"></img>
+        <!-- End of symbol: logo -->
+      </div>
+      <div class="wlby_3">
+        <!-- Start of symbol: shine -->
+        <div class="wlby_4">
+          <!-- Start of symbol: shine2 -->
+          <img src="Beneficios_assets/shine.png" height="227px" width="333px" class="wlby_5"></img>
+          <!-- End of symbol: shine2 -->
+        </div>
+        <div class="wlby_6">
+          <!-- Start of symbol: exclusivo -->
+          <img src="Beneficios_assets/txt.png" height="89px" width="261px" class="wlby_2"></img>
+          <!-- End of symbol: exclusivo -->
+        </div>
+        <!-- End of symbol: shine -->
+      </div>
+    </div>
+	<!-- back and next --->
+	
+	
+	<div id="stage" class="EDGE-14899433">
+	</div>
+</body>
+</html>

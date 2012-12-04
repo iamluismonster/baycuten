@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="css/menu.css" />
+    <title>Page Title</title>
+</head>
+<body>
+    <div id="menu">
+        <div class="boleto">
+            <div class="col1">
+                <div class="amobay"><a href="amobay/index.html"></a></div>
+                <div class="amobayCl"><a href="amobayCl/index.html"></a></div>
+            </div>
+            <div class="col2">
+                <div class="axol"><a href="axol/index.html"></a></div>
+                <div class="axolDuo"><a href="axolDuo/index.html"></a></div>
+            </div>
+            <div class="col3">
+                <div class="optocef"><a href="optocef/index.html"></a></div>
+                <div class="actron"><a href="actron/index.html"></a></div>
+            </div>
+        </div>
+    </div>
+<div class="baycuten"><a href="optocef/index.html"></a></div>
+</body>
+</html>

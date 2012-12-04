@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Untitled</title>
+<!--Adobe Edge Runtime-->
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta names="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+ 
+	<script type="text/javascript">
+  document.ontouchmove = function(e){
+             e.preventDefault();
+}
+function doTouchMove(state) {
+    document.ontouchmove = function(e){
+      return state;
+    }
+}
+</script>
+    <script type="text/javascript" src="edge_includes/jquery-1.6.2.min.js"></script>
+    <script type="text/javascript" src="edge_includes/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="edge_includes/edge.0.1.3.min.js"></script>
+    <script type="text/javascript" src="edge_includes/edge.symbol.0.1.3.min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="referencias_edge.js"></script>
+    <script type="text/javascript" charset="utf-8" src="referencias_edgeActions.js"></script>
+    <link rel="stylesheet" href="referencias_edge.css" />
+    <link rel="stylesheet" href="refresh.css" />
+    <script type="text/javascript" charset="utf-8" src="menu_edge.js"></script>
+    <script type="text/javascript" charset="utf-8" src="menu_edgeActions.js"></script>
+    <link rel="stylesheet" href="menu_edge.css" />
+<!--Adobe Edge Runtime End-->
+
+</head><body style="margin:0;padding:0;">
+
+<div id="refresh"><a href="javascript:document.location.reload();" ></a></div>
+	<div id="stage" class="EDGE-56250589">
+	</div>
+	<div id="menu" class="EDGE-15079447" style="position:fixed; top:-73px; width:1024px">
+	</div>
+</body>
+</html>

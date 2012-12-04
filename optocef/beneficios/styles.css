@@ -1,0 +1,137 @@
+#stage{
+	overflow: hidden !important;
+	position: absolute;
+	top: 705px;
+	background-color: transparent !important;
+}
+div{
+	margin: 0px;
+	padding: 0px;
+}
+.unanube{
+	position: absolute;
+	left: 825px;
+	z-index: 30;
+	
+}
+.dosnubes{
+	position: absolute;
+	left: 685px;
+z-index: 30;
+}
+
+.botonera{
+	position: absolute;
+	z-index: 40;
+	top: 210px;
+	left: 118px;
+}
+#boton1{
+	position: absolute;
+	background: url(images/texto1.png);
+	background-position: 0 0;
+	width: 574px;
+	height: 162px;
+	display: block;
+	left: 50px;
+}
+#boton2{
+	position: absolute;
+	background: url(images/texto2.png);
+	background-position: 0 0;
+	width: 578px;
+	height: 107px;
+	display: block;
+	left: 150px;
+	top: 170px;
+}#boton3{
+	position: absolute;
+	background: url(images/texto3.png);
+	background-position: 0 0;
+	width: 493px;
+	height: 98px;
+	display: block;
+	left: 200px;
+	top: 300px;
+}
+
+#capaHelp {
+					display:none;
+					background:url(images/toolrefe9.png) no-repeat top left;
+					width:209px;
+					padding:20px 10px 0 20px;
+					height:113px;
+					color:#000;
+					font-weight:bold;
+					top:251px;
+					left: -397px;
+					position:absolute;
+					z-index:101;
+					font-size: 12px;
+					font-family: arial;
+					font-weight: bold;
+					
+				}
+				a{
+					color: #000;
+					font-size: 12px;
+					font: arial;
+					text-decoration: none;
+				}
+				#capaHelp2 {
+					display:none;
+					background:url(images/toolrefe10.png) no-repeat top left;
+					width:206px;
+					padding:20px 10px 0 20px;
+					height:132px;
+					color:#000;
+					font-weight:bold;
+					top:314px;
+					left: -383px;
+					position:absolute;
+					z-index:1000;
+					font-size: 12px;
+					font-family: arial;
+					font-weight: bold;
+				}
+				#capaHelp3 {
+					display:none;
+					background:url(images/toolrefe11.png) no-repeat top left;
+					width:206px;
+					padding:20px 10px 0 20px;
+					height:115px;
+					color:#000;
+					font-weight:bold;
+					top:269px;
+					left: -188px;
+					position:absolute;
+					z-index:1000;
+					font-size: 12px;
+					font-family: arial;
+					font-weight: bold;
+				}
+				
+				
+				#icoHelp {
+					cursor:pointer;
+					position: absolute;
+					top:386px;
+					left: -194px;
+					z-index: 800;
+				}
+				#icoHelp2 {
+					cursor:pointer;
+					position: absolute;
+					left: -184px;
+					top: 467px;
+					z-index: 1800;
+				}
+				
+				#icoHelp3 {
+					cursor:pointer;
+					position: absolute;
+					left: 11px;
+					top: 409px;
+					z-index: 1800;
+				}
+				

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' width='108px' height='112px' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+	<defs>
+		<radialGradient id="grad0" gradientUnits="userSpaceOnUse" cx="0.0" cy="0.0" r=".5" gradientTransform="matrix(100.525 0 0 -104.85 32 31.2)">
+		<stop offset="1.56863%" stop-color="#B9D95F"/>
+		<stop offset="100%" stop-color="#508528"/>
+		</radialGradient>
+		<radialGradient id="grad1" gradientUnits="userSpaceOnUse" cx="0.0" cy="0.0" r=".5" gradientTransform="matrix(343.675 0 0 -358.4 37.35 26.85)">
+		<stop offset="1.56863%" stop-color="#B9D95F"/>
+		<stop offset="100%" stop-color="#508528"/>
+		</radialGradient>
+		<radialGradient id="grad2" gradientUnits="userSpaceOnUse" cx="0.0" cy="0.0" r=".5" gradientTransform="matrix(16.675 0 0 -17.4 26.05 -1.1)">
+		<stop offset="1.56863%" stop-color="#B9D95F"/>
+		<stop offset="100%" stop-color="#508528"/>
+		</radialGradient>
+		<radialGradient id="grad3" gradientUnits="userSpaceOnUse" cx="0.0" cy="0.0" r=".5" gradientTransform="matrix(119.275 0 0 -124.4 32.6 31.85)">
+		<stop offset="1.56863%" stop-color="#B9D95F"/>
+		<stop offset="100%" stop-color="#508528"/>
+		</radialGradient>
+		<radialGradient id="grad4" gradientUnits="userSpaceOnUse" cx="0.0" cy="0.0" r=".5" gradientTransform="matrix(15.175 0 0 -15.825 31.25 32.6)">
+		<stop offset="1.56863%" stop-color="#B9D95F"/>
+		<stop offset="100%" stop-color="#508528"/>
+		</radialGradient>
+		<radialGradient id="grad5" gradientUnits="userSpaceOnUse" cx="0.0" cy="0.0" r=".5" gradientTransform="matrix(217.2 0 0 -228.4 55.4 57.75)">
+		<stop offset="0.392157%" stop-color="#A0A0A0"/>
+		<stop offset="100%" stop-color="#000000"/>
+		</radialGradient>
+	</defs>
+	<g transform="translate(53.9,186.7)">
+		<path d="M 62.55 32.6 Q 62.55 46.1 53.4 55.65 Q 44.2 65.2 31.25 65.2 Q 18.3 65.2 9.15 55.65 Q 0 46.1 0 32.6 Q 0 19.1 9.15 9.55 Q 18.3 0 31.25 0 Q 44.2 0 53.4 9.55 Q 62.55 19.1 62.55 32.6 Z" transform="translate(-31.55,-163.15)" fill="url(#grad0)"/>
+		<path d="M 54.7 11 Q 60.85 18.25 62.2 27.9 Q 57.3 26.95 51.95 27.7 Q 47 28.35 43.3 30.25 Q 27.05 39.15 21.25 63.5 Q 11.85 60.2 6 51.8 Q 0 43.25 0 32.6 L 0.05 30.4 Q 14.75 27.55 24.15 21.3 Q 35.55 13.8 39.65 1.2 Q 48.55 3.75 54.7 11 Z" transform="translate(-31.55,-163.15)" fill="url(#grad1)"/>
+		<path d="M 51.8 32.6 Q 51.8 41.5 45.8 47.75 Q 39.75 54.05 31.25 54.05 Q 22.75 54.05 16.7 47.75 Q 10.7 41.5 10.7 32.6 Q 10.7 23.7 16.7 17.45 Q 22.75 11.15 31.25 11.15 Q 39.75 11.15 45.8 17.45 Q 51.8 23.7 51.8 32.6 Z" transform="translate(-31.55,-163.15)" fill="url(#grad2)"/>
+		<path d="M 45.3 16.95 Q 49.85 21.45 51.25 27.8 Q 46.9 28.45 43.3 30.25 Q 30.8 37.1 24.55 52.85 Q 18.45 50.65 14.6 45.15 Q 10.7 39.55 10.7 32.6 Q 10.7 29.95 11.3 27.45 Q 26.85 22.2 34.5 11.45 Q 40.7 12.45 45.3 16.95 Z" transform="translate(-31.55,-163.15)" fill="url(#grad3)"/>
+		<path d="M 38.85 32.6 Q 38.85 35.9 36.65 38.2 Q 34.4 40.5 31.25 40.5 Q 28.1 40.5 25.9 38.2 Q 23.65 35.9 23.65 32.6 Q 23.65 29.35 25.9 27 Q 28.1 24.7 31.25 24.7 Q 34.4 24.7 36.65 27 Q 38.85 29.35 38.85 32.6 Z" transform="translate(-31.55,-163.15)" fill="url(#grad4)"/>
+		<path d="M 89.6 93.45 Q 104.55 77.85 104.55 55.9 Q 104.55 33.95 89.6 18.35 Q 74.7 2.8 53.6 2.8 Q 32.5 2.8 17.6 18.35 Q 2.65 33.95 2.65 55.9 Q 2.65 77.85 17.6 93.45 Q 32.5 109 53.6 109 Q 74.7 109 89.6 93.45 Z M 107.25 55.9 Q 107.25 79.05 91.5 95.4 Q 75.75 111.8 53.6 111.8 Q 31.45 111.8 15.7 95.4 Q 0 79.05 0 55.9 Q 0 32.75 15.7 16.4 Q 31.45 0 53.6 0 Q 75.75 0 91.5 16.4 Q 107.25 32.75 107.25 55.9 Z" transform="translate(-53.9,-186.7)" fill="url(#grad5)"/>
+	</g>
+</svg>

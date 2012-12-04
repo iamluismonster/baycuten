@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' width='91px' height='56px' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+		<path d="M 85.85 0 Q 90.1 0 90.1 4.25 L 90.1 50.15 Q 90.1 54.4 85.85 54.4 L 4.3 54.4 Q 0 54.4 0 50.15 L 0 4.25 Q 0 0 4.3 0 Z" fill="#CC0000"/>
+	<text width="86" height="45" transform="translate(43.6, 44.4)" style="text-rendering: optimizeLegibility;kerning: 0;font-family: '_R Frutiger Roman';font-size: 41px;font-weight: bold;fill: #FFFFFF;"><tspan y="0" x="-41 -18.2 4.6 16">12 h</tspan></text>
+	<font horiz-adv-x="1000">
+	<!--Copyright (c) 1988 Adobe Systems Incorporated.  All Rights Reserved.Frutiger is a registered trademark of Linotype AG and/or its subsidiaries. -->
+		<font-face font-family="_R Frutiger Roman" font-style="normal" font-weight="bold" units-per-em="1000" underline-position="-99.9908" underline-thickness="49.9878"/>
+		<missing-glyph  horiz-adv-x="277"/>
+		<glyph unicode=" " horiz-adv-x="277"/>
+		<glyph unicode="1" horiz-adv-x="555" d="M285,703L80,538L150,446L269,543L269,0L410,0L410,703z"/>
+		<glyph unicode="2" horiz-adv-x="555" d="M57,665L68,548C115,578 171,604 231,604 L231,604C288,604 345,574 345,510 L345,510C345,381 107,181 41,118 L41,118L41,0L509,0L509,111L222,111C336,224 486,361 486,510 L486,510C486,648 400,715 266,715 L266,715C194,715 121,697 57,665 z"/>
+		<glyph unicode="h" horiz-adv-x="610" d="M69,755L69,0L204,0L204,254C204,320 226,426 323,426 L323,426C410,426 411,340 411,277 L411,277L411,0L546,0L546,327C546,444 492,531 370,531 L370,531C299,531 241,499 206,448 L206,448L204,448L204,755z"/>
+	</font>
+</svg>

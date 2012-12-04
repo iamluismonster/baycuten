@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' width='38px' height='27px' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+	<defs>
+		<radialGradient id="grad0" gradientUnits="userSpaceOnUse" cx="0.0" cy="0.0" r=".5" gradientTransform="matrix(373.55 0 0 -389.575 -26.35 -66.85)">
+		<stop offset="0%" stop-color="#FFFFFF"/>
+		<stop offset="41.9608%" stop-color="#FFE691"/>
+		<stop offset="100%" stop-color="#9D846F"/>
+		</radialGradient>
+		<radialGradient id="grad1" gradientUnits="userSpaceOnUse" cx="0.0" cy="0.0" r=".5" gradientTransform="matrix(153.725 0 0 -160.325 59.4 -5.05)">
+		<stop offset="0%" stop-color="#FFFFFF"/>
+		<stop offset="41.9608%" stop-color="#FFE691"/>
+		<stop offset="100%" stop-color="#9D846F"/>
+		</radialGradient>
+		<radialGradient id="grad2" gradientUnits="userSpaceOnUse" cx="0.0" cy="0.0" r=".5" gradientTransform="matrix(108.45 0 0 -113.1 24.85 -16.25)">
+		<stop offset="0%" stop-color="#E4F6FE"/>
+		<stop offset="100%" stop-color="#0090F7"/>
+		</radialGradient>
+	</defs>
+	<g transform="translate(18.85,13.4)">
+		<path d="M 0 0 L 37.75 0 L 32.15 26.8 L 6.7 26.35 Z" transform="translate(-18.85,-13.4)" fill="url(#grad0)"/>
+		<path d="M 12.05 16.1 Q 14.55 22.65 21.35 26.6 L 6.7 26.35 L 0 0 L 11.4 0 Q 10.5 4 10.7 8.3 Q 10.9 12.45 12.05 16.1 Z" transform="translate(-18.85,-13.4)" fill="url(#grad1)"/>
+		<path d="M 2.85 11.2 L 35.4 11.2 L 33.45 20.5 L 5.2 20.5 Z" transform="translate(-18.85,-13.4)" fill="url(#grad2)"/>
+	</g>
+</svg>

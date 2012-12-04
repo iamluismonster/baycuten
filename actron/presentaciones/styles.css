@@ -1,0 +1,45 @@
+#stage{
+	overflow: hidden !important;
+	position: absolute;
+	top: 705px;
+}
+div{
+	margin: 0px;
+	padding: 0px;
+}
+.unanube{
+	position: absolute;
+	left: 825px;
+}
+.dosnubes{
+	position: absolute;
+	left: 685px;
+	z-index: 100;
+}
+.mascara{
+	position: absolute;
+	width: 1024px;
+	height: 702px;
+	top:0px;
+	left: 0px;
+	z-index: 15;
+	background: transparent;
+}
+.textouno{
+	color: #0069aa;
+	font-size: 18px;
+	font-weight: bold;
+	position: absolute;
+	z-index: 16;
+	top: 620px;
+	left: 300px;
+}
+.textodos{
+	color: #0069aa;
+	font-size: 18px;
+	font-weight: bold;
+	position: absolute;
+	z-index: 16;
+	top: 644px;
+	left: 330px;
+}

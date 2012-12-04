@@ -1,0 +1,448 @@
+<html> 
+<head> 
+<title>IPP Binotal</title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+
+ <script type="text/javascript" src="jquery-1.4.2.js"></script>
+ <link rel="stylesheet" href="styletooltippru.css" type="text/css"></link>
+  <script language="javascript" type="text/javascript" src="jquerytooltip.js"></script>
+      <link rel="stylesheet" href="footerpru.css" type="text/css"></link>
+<SCRIPT type=text/javascript> 
+cookie_name = "fontsize"; 
+
+function setCookie() { 
+
+    if(document.cookie != document.cookie) {  
+    index = document.cookie.indexOf(cookie_name); 
+    } 
+    else {  
+    index = -1; 
+    } 
+
+    if (index == -1) { 
+    document.cookie=cookie_name+"="+newsfont+"; expires=Monday, 01-Apr-2008 05:00:00 GMT"; 
+    } 
+
+} 
+
+function getCookie() { 
+    if(document.cookie) { 
+    index = document.cookie.indexOf(cookie_name); 
+    if (index != -1) { 
+        namestart = (document.cookie.indexOf("=", index) + 1); 
+        nameend = document.cookie.indexOf(";", index); 
+        if (nameend == -1) nameend = document.cookie.length; 
+        val = document.cookie.substring(namestart, nameend); 
+        return parseInt(val); 
+    } 
+    } 
+} 
+</SCRIPT> 
+<SCRIPT type=text/javascript> 
+var newsfont = 10; 
+function changeFont(id) { 
+
+if (document.getElementById) { 
+        document.getElementById(id).style.fontSize = newsfont+"px"; 
+    } else { 
+        if (document.layers) { 
+            document.layers[id].fontSize = newsfont+"px"; 
+        } else { 
+            if (document.all) { 
+                eval("document.all." + id + ".style.fontSize = \"" + newsfont + "px \""); 
+            } 
+        } 
+    } 
+     
+    // esto arregla scroll al utilizar layers 
+//    updateHeight();  
+  //  setCookie(); 
+} 
+// aqui se produce el error 
+function larger() { 
+    if (newsfont < 30) { 
+        newsfont= newsfont +2; 
+        changeFont('content'); 
+    } 
+} 
+
+function smaller() { 
+    if (newsfont > 10) { 
+    newsfont= newsfont -2; 
+    changeFont('content'); 
+    } 
+} 
+</SCRIPT> 
+
+</head> 
+
+<body  leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" >
+<div id="contenedor"> 
+<table width="1024px" border="0" cellpadding="2" cellspacing="0"> 
+  <tr>  
+    <td width="950px" rowspan="2" bgcolor="#FFFFFF" class="news" id="content"><p align="justify"><b>Binotal&reg;</b> C&aacute;psulas, Suspensi&oacute;n y Tabletas (Ampicilina)
+DENOMINACI&Oacute;N DISTINTIVA. <b>Binotal&reg;</b> DENOMINACI&Oacute;N GEN&Eacute;RICA</b>. Ampicilina <b>FORMA FARMAC&Eacute;UTICA Y FORMULACI&Oacute;N</b>. C&aacute;psulas, tabletas, suspensi&oacute;n y soluci&oacute;n inyectable <b>FORMA FARMAC&Eacute;UTICA Y FORMULACI&Oacute;N. <b>Binotal&reg;</b> C&aacute;psulas</b>: Cada C&Aacute;PSULA contiene: Ampicilina trihidratada equivalente a: 250 mg 500 mg de ampicilina. Excipiente c.b.p.1 c&aacute;psula 1 c&aacute;psula <b>Binotal&reg;</b> Tabletas: Cada TABLETA contiene: Ampicilina trihidratada equivalente a: 1.0 gde ampicilina Excipiente c.b.p 1 tableta <b>Binotal&reg;</b> Suspensi&oacute;n: Cada frasco de SUSPENSI&Oacute;N de 90 mL contiene: Ampicilina trihidratada equivalente a: 2.25 g 4.5 g 9 g de ampicilina Excipiente c.b.p. 57 g 57 g 57 g Cada 5 mL proporcionan 125 mg 250 mg 500 mg <b>Binotal&reg;</b> Inyectable: Cada FRASCO &Aacute;MPULA contiene: Ampicilina s&oacute;dica equivalente a 0.500 g 1.0 g de ampicilina. INDICACIONES TERAP&eacute;UTICAS. Infecciones bacterianas de las m&aacute;s variables localizaciones, severidad y curso por agentes sensibles a ampicilina, tanto infecciones agudas como tambi&eacute;n cr&oacute;nicas recidivantes de diferente grado de severidad, por ejemplo. &#8226; Sepsis, endocarditis y meningitis, principalmente en Haemophilus influenzae, enterococos y Listerias sensibles a ampicilina, en caso necesario en combinaci&oacute;n con otro antibi&oacute;tico adecuado. &#8226; Infecciones de las v&iacute;as respiratorias. &#8226; Bordetella pertussis (tratamiento temprano y profilaxis) en la edad infantil &#8226; Infecciones de las v&iacute;as urinarias &#8226; Infecciones en ginecolog&iacute;a y obstetricia &#8226; Infecciones de las v&iacute;as biliares &#8226; Infecciones intestinales bacterianas por Salmonella Spp, Shigella Spp y E. coli. &#8226; Tratamiento por portadores constantes de Salmonella Typhi. Las infecciones graves, por ejemplo sepsis, endocarditis, meningitis, infecciones gineco-obst&eacute;tricas y portadores de Salmonella pueden requerir inicialmente administraci&oacute;n parenteral. Posteriormente, se contin&uacute;a con terapia oral.<br>
+En odontolog&iacute;a: Profilaxis y tratamiento de infecciones de la cavidad oral. <b>Binotal&reg;</b> puede administrarse durante el embarazo. <b>CONTRAINDICACIONES</b> <b>Binotal&reg;</b> esta contraindicado en pacientes con hipersensibilidad conocida o sospechada a las penicilinas y/o a los componentes de la f&oacute;rmula. No debe administrarse en pacientes sensibles a las cefalosporinas debido al riesgo de hipersensibilidad cruzada. En pacientes con mononucleosis infecciosa y otras enfermedades virales, as&iacute; como en la leucemia tambi&eacute;n est&aacute; contraindicado. <b>PRECAUCIONES O RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA</b>. La ampicilina atraviesa la barrera placentaria y se excreta en la leche materna. No se conocen efectos teratog&eacute;nicos en humanos por ampicilina por lo que su administraci&oacute;n durante el embarazo y la lactancia es posible siempre y cuando exista una indicaci&oacute;n justificada. La administraci&oacute;n de ampicilina durante el primer trimestre del embarazo deber&aacute; realizarse bajo la supervisi&oacute;n del m&eacute;dico tratante. Debido a que la ampicilina es eliminada en peque&ntilde;as cantidades en la leche materna, en los lactantes cuyas madre son tratadas con ampicilina, puede presentarse diarrea y colonizaci&oacute;n de las mucosas por Candida. Por lo tanto, el uso de <b>Binotal&reg;</b> en mujeres en periodo de lactancia debe ser supervisado por un m&eacute;dico que vigile las reacciones del lactante. <b>REACCIONES SECUNDARIAS Y ADVERSAS</b>. Reacciones cut&aacute;neas (morbiliformes, eritema, etc.) trastornos gastrointestinales. Raros: alteraciones hematol&oacute;gicas, fiebre medicamentosa, nefritis intersticial aguda y otras manifestaciones al&eacute;rgicas; muy raras son las reacciones anafil&aacute;cticas inclusive choque. Convulsiones (Se requiere ajuste de dosis si la funci&oacute;n renal se halla comprometida de acuerdo con la depuraci&oacute;n de creatinina). Si se sospecha colitis pseudomembranosa (diarrea grave persistente), debe suspenderse la medicaci&oacute;n y establecer el tratamiento adecuado. <b>Binotal&reg;</b> Inyectable: Reacciones en el sitio de  administraci&oacute;n: Tromboflebitis. <b>INTERACCIONES MEDICAMENTOSAS Y DE OTRO G&Eacute;NERO</b>. La administraci&oacute;n de <b>Binotal&reg;</b> en el lapso de 2 horas posterior a la administraci&oacute;n de adsorbentes como Kaolin, disminuye la absorci&oacute;n y con ello la biodisponibilidad de la ampicilina. La administraci&oacute;n de <b>Binotal&reg;</b> puede disminuir en forma temporal la concentraci&oacute;n plasm&aacute;tica de estr&oacute;genos y progest&aacute;genos, por lo tanto, puede reducir la protecci&oacute;n contra el embarazo en pacientes que est&eacute;n bajo tratamiento con anovulatorios. La administraci&oacute;n simult&aacute;nea de probenecid conlleva, a la disminuci&oacute;n de la eliminaci&oacute;n renal, a un aumento y prolongaci&oacute;n de los niveles de ampicilina en el suero y la bilis. Los aminogluc&oacute;sidos y derivados inyectables de tetraciclina son incompatibles con la soluci&oacute;n de <b>Binotal&reg;</b>, por lo tanto, deben administrarse en forma separada. Las soluciones glucosadas no son adecuadas para la diluci&oacute;n de <b>Binotal&reg;</b>. La administraci&oacute;n simult&aacute;nea de alimentos reduce la absorci&oacute;n de ampicilina. <b>PRECAUCIONES GENERALES</b>. Di&aacute;tesis al&eacute;rgica. Posiblemente hipersensibilidad cruzada con cefalosporinas. Su utilizaci&oacute;n durante el embarazo y/o lactancia s&oacute;lo si est&aacute; indicado por el m&eacute;dico tratante. Se deber&aacute; evitar la administraci&oacute;n de <b>Binotal&reg;</b> en pacientes con mononucleosis infecciosa, otras enfermedades virales y leucemia. <b>PRECAUCIONES EN RELACI&Oacute;N CON EFECTOS DE CARCINOG&Eacute;NESIS, MUTAG&Eacute;NESIS, TERATOG&Eacute;NESIS Y SOBRE LA FERTILIDAD</b>. No existen hasta la fecha indicios de carcinog&eacute;nesis, mutag&eacute;nesis, teartog&eacute;nesis o alteraciones de la fertilidad. <br>
+DOSIS Y V&Iacute;A DE ADMINISTRACI&Oacute;N</b>. Adultos y ni&ntilde;os mayores de 14 a&ntilde;os: 500 mg a 1 g cada 6 horas, administrados en cualquiera de sus formas farmac&eacute;uticas, c&aacute;psulas, tabletas o suspensi&oacute;n. Para g&eacute;rmenes de menor sensibilidad, la dosis puede aumentarse a 2 g cada 6 horas dependiendo del proceso y previa evaluaci&oacute;n de la relaci&oacute;n beneficio-riesgo. Se recomienda una reducci&oacute;n de la dosis en pacientes con disfunci&oacute;n renal con &iacute;ndice de filtraci&oacute;n glomerular de 30 mL/min o menos. La dosis diaria de 500 mg cada 8 horas no debe excederse en insuficiencia renal terminal. Se deber&aacute; considerar que durante el embarazo los niveles plasm&aacute;ticos son hasta un 50% menores, especialmente despu&eacute;s de la administraci&oacute;n oral. En casos individuales esto podr&iacute;a significar que se requiere el doble de la dosis habitual. Ni&ntilde;os: 100-150 mg/kg/d&iacute;a cada 6 horas. En ni&ntilde;os de hasta 14 a&ntilde;os de edad la dosis ponderal recomendada es de 100 a 200 mg/kg de peso por d&iacute;a, dividido en 4 tomas (administradas cada 6 horas). De manera &oacute;ptima <b>Binotal&reg;</b> oral debe ingerirse con el est&oacute;mago vac&iacute;o, es decir, &frac12; a 1 hora antes o 2 a 3 horas despu&eacute;s de los alimentos. <b>Binotal&reg;</b>  debe administrarse por un lapso no menor a 7 d&iacute;as, en infecciones por estreptococos debe administrarse por 10 d&iacute;as y en infecciones por salmonella, por 14 d&iacute;as. <b>ADMINISTRACI&Oacute;N PARENTERAL. Adultos</b>: &#8226; Sepsis, endocarditis y meningitis: 2 a 4 g cada 6 horas &#8226; Infecciones de las v&iacute;as respiratorias: 500 mg a 1 g cada 6 horas &#8226; Infecciones de las v&iacute;as urinarias: 500 mg a 2 g cada 6 horas &#8226; Infecciones obst&eacute;tricas y ginecol&oacute;gicas: 1 a 5 g cada 6 horas &#8226; Infecciones de la v&iacute;a biliar: 1 a 2 g cada 6 horas &#8226; Infecciones gastrointestinales: 1 a 2 g cada 6 horas &#8226; Portadores de salmonella: 2 a 4 g cada 6 horas Las dosis diarias pueden aumentarse en caso necesario dependiendo del cuadro cl&iacute;nico y de la severidad de la enfermedad. La dosis promedio es 500 mg a 2 g cada 6 horas y para pat&oacute;genos con menor sensibilidad e infecciones severas hasta 5 o m&aacute;s gramos cada 6 horas. La dosis promedio es, de este modo, 500 mg a 2 g cada 8 horas y para pat&oacute;genos menos sensibles e infecciones severas de hasta 5 o m&aacute;s gramos cada 8 horas. <b>Ni&ntilde;os</b>: 100 a 150 mg/kg/d&iacute;a divididos en 4 aplicaciones: &#8226; 3 a 6 meses (5 a 7 kg de peso): 250 mg cada 6 horas. &#8226; 6 a 12 meses (7 a 10 kg de peso): 250 mg cada 6 horas. &#8226; 1 a 3 a&ntilde;os (10 a 14 kg de peso): 500 mg cada 6 horas. &#8226; 3 a 6 a&ntilde;os (14 a 20 kg de peso): 500 mg cada 6 horas. Las dosis diarias pueden aumentarse a 200 a 400 mg/kg/d&iacute;a en caso necesario, especialmente si el tipo y la severidad de la infecci&oacute;n as&iacute; lo requiere, como en el caso de la meningitis. <b>Prematuros y neonatos</b>: La dosis recomendada en los primero d&iacute;as de vida es de 50 mg/ kg/dosis En infecciones severas, se aplican los mismos l&iacute;mites superiores de los ni&ntilde;os. <b>Dosis para pacientes con alteraci&oacute;n de la funci&oacute;n renal</b>. En pacientes con depuraci&oacute;n de creatinina de 20 a 30 mL/min, la dosis est&aacute;ndar debe reducirse a 2/3; con una depuraci&oacute;n < 20 mL/min, debe reducirse a la &frac12;. Como regla general, una dosis de 1 g de <b>Binotal&reg;</b> cada 8 horas no debe excederse en insuficiencia renal terminal. Dosis durante el embarazo. </p> 
+<div class="colum5 margin_r_10">
+<p align="justify">
+ Se debe considerar que durante el embarazo los niveles plasm&aacute;ticos son de hasta un 50% menores, especialmente despu&eacute;s de la administraci&oacute;n oral. En casos individuales, esto podr&iacute;a significar que no deber&aacute; excederse con la administraci&oacute;n parenteral (que corresponde a la m&aacute;xima dosis est&aacute;ndar en insuficiencia renal) <b>Binotal&reg;</b> debe administrarse por un lapso no menor a 7 d&iacute;as, en infecciones por estreptococos debe administrarse por 10 d&iacute;as y en infecciones por salmonella, por 14 d&iacute;as. <b>MODO DE ADMINISTRACI&Oacute;N</b>. <b>Binotal&reg;</b> se administra habitualmente en forma IV. El polvo se disuelve en la cantidad especificada de agua inyectable para 500 mg y 5 mL para 1 g. <b>Binotal&reg;</b> soluci&oacute;n es incompatible con derivados de tetraciclinas y aminogluc&oacute;sidos. Los signos visuales de incompatibilidad son sedimentaci&oacute;n, turbidez y decoloraci&oacute;n. <b>MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACI&Oacute;N O INGESTA ACCIDENTAL</b> En el caso de ampicilina, as&iacute; como otras penicilinas, las concentraciones s&eacute;ricas extremadamente elevadas pueden ocasionar reacciones neurot&oacute;xicas (crisis convulsivas), que obligan a la suspensi&oacute;n del tratamiento.</p>
+</div>
+<div class="colum6">
+<div class="colum7">
+<b><center>Peso<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<b><center>Suspensi&oacute;n 125 mg</center></b>
+</div>
+<div class="colum7">
+<b><center>Suspensi&oacute;n 250 mg</center></b>
+</div>
+<div class="colum7">
+<b><center>Suspensi&oacute;n 500 mg</center></b>
+</div>
+<div class="colum7">
+<b><center>C&aacute;psulas 250 mg</center></b>
+</div>
+<div class="colum7">
+<b><center>C&aacute;psulas 500 mg</center></b>
+</div>
+<div class="colum7">
+<b><center>Tabletas 1.0 g</center></b>
+</div>
+<div class="cleaner_h5"></div>
+<div class="colum7">
+<center>5-7 kg<br>&nbsp;</center>
+</div>
+<div class="colum7">
+<center>1-2 cuch
+c/6 hrs</center>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="cleaner_h5"></div>
+
+
+<div class="colum7">
+<center>8-11 kg<br>&nbsp;</center>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<center>1 cuch
+c/6 hrs</center>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="cleaner_h5"></div>
+
+
+<div class="colum7">
+<center>12-15 kg<br>&nbsp;</center>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<center>1-2 cuch
+c/6 hrs</center>
+</div>
+<div class="colum7">
+<center>1 cuch
+c/6 hrs</center>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="cleaner_h5"></div>
+
+
+
+<div class="colum7">
+<center>16-20 kg<br>&nbsp;
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<center>2 c&aacute;ps
+c/6 hrs</center>
+</div>
+<div class="colum7">
+<center>1 c&aacute;p
+c/6 hrs<br>&nbsp;</center>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="cleaner_h5"></div>
+
+
+
+<div class="colum7">
+<center>21-40 kg<br>&nbsp;</center>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<b><center>&nbsp;<br>&nbsp;</center></b>
+</div>
+<div class="colum7">
+<center>1-2 c&aacute;ps
+c/6 hrs</center>
+</div>
+<div class="colum7">
+<center>1 comp
+c/6 hrs</center>
+</div>
+<div class="cleaner_h5"></div>
+
+</div>
+<div class="cleaner_h5"></div>
+<div class="colum2">
+<p align="justify">
+ <b>Binotal&reg;</b> puede hemodializarse. <b>PRESENTACIONES Binotal&reg; C&aacute;psulas</b> &#8226; Caja con 20 c&aacute;psulas de 250 mg. &#8226; Caja con 20 c&aacute;psulas de 500 mg. <b>Binotal&reg; Tabletas</b> Caja con 12 tabletas de 1 g. <b>Binotal&reg;</b> Suspensi&oacute;n &#8226; Polvo para suspensi&oacute;n con 500 mg de ampicilina/5 mL Frasco para 90 mL Polvo para suspensi&oacute;n con 250 mg de ampicilina/5 mL Frasco para 90 mL &#8226; Polvo para suspensi&oacute;n con 125 mg de ampicilina/5 mL <br>
+Frasco para 90 mL <b>Binotal&reg;</b> Inyectable &#8226; Caja con frasco &aacute;mpula de 500 mg y una ampolleta de 2 mL de agua inyectable esterilizada. AF Caja con frasco &aacute;mpula de 1 g y una ampolleta de 5 mL de agua inyectable esterilizada. <b>LEYENDAS DE PROTECCI&Oacute;N</b>. Mantenga todos los medicamentos fuera del alcance de los ni&ntilde;os en un lugar fresco y seco. Su venta requiere receta m&eacute;dica. Literatura exclusiva para m&eacute;dicos. No se utilice despu&eacute;s de la fecha de caducidad. <b>NOMBRE Y DOMICILIO DEL LABORATORIO</b>. Hecho en M&eacute;xico por: 
+Bayer de M&eacute;xico, S.A. de C.V. Miguel de Cervantes Saavedra No. 259 Col. Granada C.P. 11520 M&eacute;xico, D.F. <b>N&Uacute;MERO DEL REGISTRO SANITARIO ANTE LA SSA</b>. <b>Binotal&reg;</b> C&aacute;psulas Reg. No. 62429 SSA IV <b>Binotal&reg;</b> Tabletas Reg. No. 70971 SSA IV <b>Binotal&reg;</b> Suspensi&oacute;n Reg. No. 68126 SSA IV <b>Binotal&reg;</b> Inyectable Reg. No. 63664 SSA IV <b>Clave de IPP: 083300RR010961 Autorizaci&oacute;n COFEPRIS: 29 de Abril de 2009</b>
+</p>
+</div>
+
+<div class="colum31 margin_l_10">
+<div class="colum41"><b><center>Edad 
+gestacional<br>&nbsp;</center></b></div>
+<div class="colum41"><b><center>Edad postnatal
+(d&iacuteas)</center></b></div>
+<div class="colum41"><b><center>Intervalo 
+en horas<br>&nbsp;</center></b></div>
+<div class="cleaner_h5"></div>
+<div class="colum41"><center>&lt; 29<br>&nbsp;</center></div>
+<div class="colum41"><center>0-28<br>&gt;28</center></div>
+<div class="colum41"><center>12<br>8</center></div>
+<div class="cleaner_h5"></div>
+<div class="colum41"><center>30-36<br>&nbsp;</center></div>
+<div class="colum41"><center>0-14<br>&gt;14</center></div>
+<div class="colum41"><center>12<br>8</center></div>
+<div class="cleaner_h5"></div>
+<div class="colum41"><center>37-34<br>&nbsp;</center></div>
+<div class="colum41"><center>0-7<br>&gt;7</center></div>
+<div class="colum41"><center>12<br>8</center></div>
+<div class="cleaner_h5"></div>
+<div class="colum41"><center>&gt;45</center></div>
+<div class="colum41"><center>Todas</center></div>
+<div class="colum41"><center>6</center></div>
+</div>
+      </td> 
+    <td width="70px" align="center" valign="top" class="menu">  
+      <A onmousedown="larger()" href="javascript:void(0);">Aumentar</A><br> 
+      <br> 
+      <A onmousedown="smaller()" href="javascript:void(0);">Reducir</A></td> 
+  </tr> 
+  <tr>  
+    <td> </td> 
+  </tr> 
+</table>
+
+
+		
+ <div id="forma"><a href="javascript:tooltip()" style="cursor:help"></a></div>
+    <div id="cap" style="display:none"><img src="images/ref1ii.png" /></div>
+    <div id="forma1"><a href="javascript:tooltip1()" style="cursor:help"></a></div>
+    <div id="cap1" style="display:none"><img src="images/ref1ii.png" /></div>
+</div>
+
+
+<div id="forma3"><a href="javascript:tooltip3()" style="cursor:help"></a></div>
+    <div id="cap3" style="display:none"><img src="images/ref4ii.png" /></div>
+</div>
+
+<div id="forma4"><a href="javascript:tooltip4()"><img src="images/btn_abajo.png" border="0" /></a></div>
+    <div id="cap4" style="display:none; left:0px; height:52px;">
+    <div id="footer">
+ 		<div class="footer1">
+    		<div class="footerimg" >
+				<a href="javascript:history.back()"><img border="0" src="images/bayron.jpg" /></a> 
+            </div>
+			
+   		</div>
+   <div class="footer2">
+ 		<div class="footerimg1 margin_l_5">
+        	<a href="javascript:void(0)" onClick="window.close()"><img src="images/btn_close.png" border="0"></a>
+        </div>
+        <div class="footerimg3 margin_r_30 margin_l_5">
+        	<a href="../menu.html"><img src="images/home.jpg" border="0"></a>
+         </div>
+         <div class="footerimg3 margin_l_5">
+        	<a href="javascript:document.location.reload();"><img src="images/ree.jpg" border="0"></a>
+         </div>
+
+        
+          
+	</div>
+	</div>
+    </div>
+</div>
+
+<script>
+	//referencia1
+	function tooltip(){
+		var verEstado  = $("#cap").css('opacity');
+		var verEstado1  = $("#cap1").css('opacity');
+		var verEstado2  = $("#cap2").css('opacity');
+		var verEstado3  = $("#cap3").css('opacity');
+		
+		if(verEstado==0){
+			$("#cap").stop().animate({height:'137px',opacity:1},{queue:false, duration:800});
+		}else{
+			$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado1!=0){
+			$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado2!=0){
+			$("#cap2").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado3!=0){
+			$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+
+	}
+	$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:0});
+	document.getElementById('cap').style.display="";
+	document.getElementById("cap").style.marginTop = "55px";
+	document.getElementById("cap").style.marginLeft = "460px";
+	document.getElementById("cap").style.position = "absolute";
+	estilo=document.getElementById("cap").style.zIndex+1000
+	document.getElementById("cap").style.zIndex=estilo;
+	//fin referencia1
+	
+	//referencia2
+	function tooltip1(){
+		var verEstado  = $("#cap1").css('opacity');
+		var verEstado1  = $("#cap").css('opacity');
+		var verEstado2  = $("#cap2").css('opacity');
+		var verEstado3  = $("#cap3").css('opacity');
+		
+		if(verEstado==0){
+			$("#cap1").stop().animate({height:'137px',opacity:1},{queue:false, duration:800});
+		}else{
+			$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado1!=0){
+			$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado2!=0){
+			$("#cap2").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado3!=0){
+			$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+	}
+	$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:0});
+	document.getElementById('cap1').style.display="";
+	document.getElementById("cap1").style.marginTop = "194px";
+	document.getElementById("cap1").style.marginLeft = "495px";
+	document.getElementById("cap1").style.position = "absolute";
+	estilo=document.getElementById("cap1").style.zIndex+1000
+	document.getElementById("cap1").style.zIndex=estilo;
+	//fin referencia2
+	
+	
+	//referencia 4
+	function tooltip3(){
+		var verEstado  = $("#cap3").css('opacity');
+		var verEstado1  = $("#cap").css('opacity');
+		var verEstado2  = $("#cap1").css('opacity');
+		var verEstado3  = $("#cap2").css('opacity');
+		
+		if(verEstado==0){
+			$("#cap3").stop().animate({height:'137px',opacity:1},{queue:false, duration:800});
+		}else{
+			$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado1!=0){
+			$("#cap").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado2!=0){
+			$("#cap1").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+		if(verEstado3!=0){
+			$("#cap2").stop().animate({height:'0px',opacity:0},{queue:false, duration:800});
+		}
+	}
+	$("#cap3").stop().animate({height:'0px',opacity:0},{queue:false, duration:0});
+	document.getElementById('cap3').style.display="";
+	document.getElementById("cap3").style.marginTop = "335px";
+	document.getElementById("cap3").style.marginLeft = "475px";
+	document.getElementById("cap3").style.position = "absolute";
+	estilo=document.getElementById("cap3").style.zIndex+903
+	document.getElementById("cap3").style.zIndex=estilo;
+	//fin referencia4
+	
+	function tooltip4(){
+		var verEstado  = $("#cap4").css('opacity');
+		
+		
+		if(verEstado==0){
+			$("#cap4").stop().animate({height:'52px',opacity:1},{queue:false, duration:400});
+		}else{
+			$("#cap4").stop().animate({height:'0px',opacity:0},{queue:false, duration:400});
+		}
+		
+
+	}
+	$("#cap4").stop().animate({height:'52px',opacity:1},{queue:false, duration:0});
+	document.getElementById('cap4').style.display="";
+	document.getElementById("cap4").style.marginTop = "704px";
+	document.getElementById("cap4").style.marginLeft = "0px";
+	document.getElementById("cap4").style.position = "absolute";
+	estilo=document.getElementById("cap4").style.zIndex+903
+	document.getElementById("cap4").style.zIndex=estilo;
+</script>
+
+</div> 
+<div class="cleaner_h5"></div>
+</body> 
+</html>
